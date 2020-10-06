@@ -8,10 +8,17 @@ my_file.close()
 entity_map = dict()
 question = input("Enter your quizbowl question below" + "\n")
 
-for word in question.split():
-    search_term = wikipedia.page(word)
-    related = search_term.content
-    suggestions = list(set(related) & set(entities))
-    entity_map[word] = suggestions
+print("\n")
 
+print(question)
+
+for word in question.split("\n"):
+    print("word: " + str(word))
+    try:
+        search_term = wikipedia.page(word)
+        related = search_term.links
+        suggestions = list(set(related) & set(entities))
+        entity_map[word] = suggestions
+    except:
+        continue
 print(entity_map)
