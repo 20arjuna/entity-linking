@@ -1,18 +1,21 @@
 import wikipedia
 
-my_file = open("entities.txt", "r")
-content = my_file.read()
+e = open("entities.txt", "r")
+content = e.read()
 entities = content.split("\n")[:-1]
-my_file.close()
+e.close()
+
+q = open("question.txt", "r")
+question = q.read()
+q.close()
+
 
 entity_map = dict()
-question = input("Enter your quizbowl question below" + "\n")
 
-print("\n")
 
 print(question)
 
-for word in question.split("\n"):
+for word in question.split():
     print("word: " + str(word))
     try:
         search_term = wikipedia.page(word)
