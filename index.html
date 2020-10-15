@@ -55,6 +55,11 @@
         <textarea placeholder="Enter question here" id="textInput" name ="textInput" rows="4" cols="50"></textarea>
         <h5></h5>
         <input type="submit" name="my-form" value="Link Entities">
-        <h1></h1>
-      </form>
+    </form>
+
+    <textarea placeholder = "Linked Entities will display here" rows="4" cols="50" id="entityDisplay"></textarea>
+
+    <script>
+        document.getElementById("entityDisplay").innerHTML = document.getElementById("textInput");
+    </script>
 </html>
