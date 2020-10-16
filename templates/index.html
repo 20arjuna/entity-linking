@@ -86,10 +86,12 @@
     ></textarea>
 
     <script>
-        $.getJSON('http://127.0.0.1:8000/link/', function(data) 
+        $.getJSON('127.0.0.1:8000/link', function(data) 
         {
+            console.log("got to js");
             var text = `${data.entities}`
             $(".entityDisplay").html(text);
+            console.log(text);
         });
     </script>
 </html>
