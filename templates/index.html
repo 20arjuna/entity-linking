@@ -63,9 +63,8 @@
 
     <form
         id="myForm"
-        action="/link"
-        method="POST"
-        enctype="multipart/form-data"
+        action=""
+        onsubmit="sendMessage(event)"
     >
         <textarea
             placeholder="Enter question here"
@@ -86,13 +85,15 @@
     ></textarea>
 
     <script>
-        const ws = new WebSocket("link://localhost:8000/link");
-        const entity_data = "";
-        ws.onmessage = function(event) 
-        {
-            console.log("got to js");
-            entity_data = JSON.parse(event.entities);
-        }
-        document.getElementById("entityDisplay").innerHTML = entity_data;
+        var ws = new WebSocket("ws://localhost:8000/ws");
+            ws.onmessage = function(event) {
+                document.getElementById("entityDisplay").innerHTML = event.data
+            };
+            function sendMessage(event) {
+                var input = document.getElementById("textInput")
+                ws.send(input.value)
+                input.value = ''
+                event.preventDefault()
+            }
     </script>
 </html>
