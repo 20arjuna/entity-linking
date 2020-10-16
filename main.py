@@ -11,7 +11,13 @@ def home(request: Request):
 
 
 @app.post("/link/")
-def entity_link(textInput: str = Form(...)):
+def entity_link(request: Request, textInput: str = Form(...)):
     print("did it reach here?")
-    print(textInput)
-    return {"textInput": textInput}
+    display_output(Request, textInput)
+    # print(textInput)
+    # return templates.TemplateResponse("index.html", context={'request': Request, 'result': result})
+
+@app.post("/result")
+def display_output(request: Request, input_string):
+    print(input_string)
+    return [{"result": input_string}]
