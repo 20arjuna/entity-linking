@@ -86,12 +86,13 @@
     ></textarea>
 
     <script>
-        $.getJSON('127.0.0.1:8000/link', function(data) 
+        const ws = new WebSocket("link://localhost:8000/link");
+        const entity_data = "";
+        ws.onmessage = function(event) 
         {
             console.log("got to js");
-            var text = `${data.entities}`
-            $(".entityDisplay").html(text);
-            console.log(text);
-        });
+            entity_data = JSON.parse(event.entities);
+        }
+        document.getElementById("entityDisplay").innerHTML = entity_data;
     </script>
 </html>

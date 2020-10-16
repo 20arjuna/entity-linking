@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Request, Form
+from fastapi import FastAPI, Request, Form, WebSocket
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 
@@ -11,7 +11,15 @@ def home(request: Request):
 
 
 @app.post("/link")
-def entity_link(request: Request, textInput: str = Form(...)):
-    print("did it reach here?")
-    print(textInput)
-    return {"entities": textInput}
+def entity_link(textInput: str = Form(...)):
+    payload = {"entities": textInput}
+    ws = WebSocket
+    return payload
+
+@app.websocket("/ws")
+async def websocket_endpoint(websocket: WebSocket):
+    await websocket.accept()
+    while True:
+        await asyncio.sleep(0.1)
+        payload = next(measurements)
+        await websocket.send_json(payload)
