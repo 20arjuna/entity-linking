@@ -1,21 +1,17 @@
 from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
-#from src.model import spell_number
+from fastapi.responses import HTMLResponse
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates/")
 
-@app.route('/')
-def hello():
-    return templates.TemplateResponse('frontend.html')
-
-@app.get("/form")
-def form_post(request: Request):
-    result = "Type a number"
-    return templates.TemplateResponse('sample.html', context={'request': request, 'result': result})
+@app.get("/", response_class=HTMLResponse)
+def home(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
 
 
-@app.post("/form")
-def form_post(request: Request, num: int = Form(...)):
-    result = "bub"
-    return templates.TemplateResponse('sample.html', context={'request': request, 'result': result})
+@app.post("/link/")
+def entity_link(textInput: str = Form(...)):
+    print("did it reach here?")
+    print(textInput)
+    return {"textInput": textInput}

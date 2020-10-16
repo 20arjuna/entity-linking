@@ -51,7 +51,7 @@
     <h1>TrickMe2 v1</h1>
     <h4> An interface for writing adverserial quiz bowl questions about underrepresented groups / minorities</h4>
 
-    <form id="myForm">
+    <form id="myForm" action ="/link" method ="POST" enctype="multipart/form-data">
         <textarea placeholder="Enter question here" id="textInput" name ="textInput" rows="4" cols="50"></textarea>
         <h5></h5>
         <input type="submit" name="my-form" value="Link Entities">
@@ -59,7 +59,4 @@
 
     <textarea placeholder = "Linked Entities will display here" rows="4" cols="50" id="entityDisplay"></textarea>
 
-    <script>
-        document.getElementById("entityDisplay").innerHTML = document.getElementById("textInput");
-    </script>
 </html>
