@@ -1,15 +1,19 @@
 <html>
     <title>TrickMe2</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+        rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
     <style>
-        body {background-color: black;}
-        h1
-        {
+        body {
+            background-color: black;
+        }
+        h1 {
             color: white;
             display: flex;
             flex-direction: column;
@@ -17,8 +21,7 @@
             text-align: center;
         }
 
-        h4
-        {
+        h4 {
             color: white;
             display: flex;
             flex-direction: column;
@@ -26,8 +29,7 @@
             text-align: center;
         }
 
-        p
-        {
+        p {
             color: white;
             display: flex;
             flex-direction: column;
@@ -35,8 +37,7 @@
             text-align: center;
         }
 
-        textarea
-        {
+        textarea {
             display: block;
             margin-left: auto;
             margin-right: auto;
@@ -46,31 +47,49 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
-
         }
 
-        input
-        {
+        input {
             display: block;
             margin-left: auto;
             margin-right: auto;
         }
-
     </style>
     <h1>TrickMe2 v1</h1>
-    <h4> An interface for writing adverserial quiz bowl questions about underrepresented groups / minorities</h4>
+    <h4>
+        An interface for writing adverserial quiz bowl questions about
+        underrepresented groups / minorities
+    </h4>
 
-    
-    <form id="myForm" action ="/link" method ="POST" enctype="multipart/form-data">
-        <textarea placeholder="Enter question here" id="textInput" name ="textInput" rows="4" cols="50"></textarea>
+    <form
+        id="myForm"
+        action="/link"
+        method="POST"
+        enctype="multipart/form-data"
+    >
+        <textarea
+            placeholder="Enter question here"
+            id="textInput"
+            name="textInput"
+            rows="4"
+            cols="50"
+        ></textarea>
         <h5></h5>
-        <input type="submit" name="my-form" value="Link Entities">
+        <input type="submit" name="my-form" value="Link Entities" />
     </form>
 
-    <textarea placeholder = "Linked Entities will display here" rows="4" cols="50" id="entityDisplay"></textarea>
+    <textarea
+        placeholder="Linked Entities will display here"
+        rows="4"
+        cols="50"
+        id="entityDisplay"
+    ></textarea>
 
     <script>
-        
+        $.getJSON('http://127.0.0.1:8000/link/', function(data) 
+        {
+            var text = `${data.entities}`
+            $(".entityDisplay").html(text);
+        });
     </script>
-
 </html>
