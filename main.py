@@ -9,9 +9,17 @@ templates = Jinja2Templates(directory="templates/")
 def home(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
 
-@app.websocket("/ws")
-async def websocket_endpoint(websocket: WebSocket):
-    await websocket.accept()
-    while True:
-        data = await websocket.receive_text() #textInput
-        await websocket.send_text(f"Message text was: {data}")
+
+@app.post("/link")
+def entity_link(textInput: str = Form(...)):
+    print("got here")
+    payload = {"entities": textInput}
+    return payload
+
+# @app.websocket("/ws")
+# async def websocket_endpoint(websocket: WebSocket):
+#     await websocket.accept()
+#     while True:
+#         await asyncio.sleep(0.1)
+#         payload = next(measurements)
+#         await websocket.send_json(payload)
