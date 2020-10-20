@@ -7,13 +7,14 @@ templates = Jinja2Templates(directory="templates/")
 
 @app.get("/", response_class=HTMLResponse)
 def home(request: Request):
+    #print(request)
     return templates.TemplateResponse("index.html", {"request": request})
 
 
 @app.post("/link")
 def entity_link(textInput: str = Form(...)):
     print("got here")
-    payload = {"entities": textInput}
+    payload = {"entities" : textInput}
     return payload
 
 # @app.websocket("/ws")
