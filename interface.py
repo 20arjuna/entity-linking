@@ -5,6 +5,8 @@ content = e.read()
 entities = content.split("\n")[:-1]
 e.close()
 
+print(type(entities))
+
 q = open("question.txt", "r")
 question = q.read()
 q.close()
