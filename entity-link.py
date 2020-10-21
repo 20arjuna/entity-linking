@@ -1,6 +1,7 @@
 import tagme
 import json
 import sys
+import subprocess as sub
 
 tagme.GCUBE_TOKEN = "a3cfadd0-cd8b-40a6-8cf2-db83d77692a0-843339462"
 
@@ -23,7 +24,7 @@ def generate_json(pd, json_file):
             #jsonData['entity']['question ' + str(i)].append(ann.__str__())
             jsonData['entities'].append(ann.__str__())
             json_object = json.dumps(jsonData, indent = 4)
-            with open(json_file, 'w') as outfile:
+            with open("json_data/" + json_file, 'w') as outfile:
                 outfile.write(json_object)   
         i+=1
         
@@ -33,7 +34,19 @@ if __name__ == '__main__':
     print(packet_data)
     json_file = sys.argv[2]
 
-    generate_json(packet_data, json_file)
+    for i in range(2,13):
+        generate_json("athena" + str(i) + ".txt", "athena" + str(i) + ".json")
+    
+    for j in range(1, 5):
+        generate_json("pace" + str(j) + ".txt", "pace" + str(j) + ".json")
+    
+    for x in range(1, 5):
+        generate_json("scop" + str(x) + ".txt", "scop" + str(x) + ".json")
+    
+    for y in range(1, 5):
+        generate_json("bhsat" + str(y) + ".txt", "bhsat" + str(y) + ".json")
 
+
+    
     
 
