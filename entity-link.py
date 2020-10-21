@@ -30,9 +30,9 @@ def generate_json(pd, json_file):
         
 if __name__ == '__main__':
     # for arg in sys.argv[1:]:
-    packet_data = sys.argv[1]
-    print(packet_data)
-    json_file = sys.argv[2]
+    # packet_data = sys.argv[1]
+    # print(packet_data)
+    # json_file = sys.argv[2]
 
     for i in range(2,13):
         generate_json("athena" + str(i) + ".txt", "athena" + str(i) + ".json")
