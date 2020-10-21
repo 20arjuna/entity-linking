@@ -1,0 +1,377 @@
+This task is performed after the pattern string is preprocessed in the Boyer-Moore Algorithm. In quantum
+computers, this task can be performed using Grover’s algorithm. Algorithms used to perform this task can be
+separated into breadth-first and depth-first types. A subset of algorithms that perform this task is (*)
+shortest-path algorithms. A type of this task that involves continuously checking whether a value is higher or lower
+than a midpoint is known as the binary type. For ten points, name this task central to “engines” such as Google that
+retrieves a certain item from a dataset.
+ANSWER: searching [accept breadth-first search; accept depth-first search, accept binary search, accept search
+engines] <KK; Science Other>
+2. The woman in the poem “La Belle Dame Sans Merci” is the child of one of these people. One book of a
+work titled for one of these creatures includes a woman impregnated by rays of sunshine and the lady knight
+Britomart. In that work, the sorcerer Archimago deceives Una into leaving the (*) Redcrosse Knight. One of
+these creatures transforms Nick Bottom’s head into that of a donkey’s and accidentally applies a love potion to
+Lysander instead of Demetrius in A Midsummer Night’s Dream. For 10 points, name this magical creature, examples
+of which include Puck and Tinker Bell.
+ANSWER: fairies [or fairy; accept The Faerie Queene] <CM; British Literature>
+3. In this country’s national epic, the protagonist battles the giant Adamastor and falls in love with Tethys on
+the Isle of Love. An author from this country wrote the “factless autobiography” of his heteronym, Bernardo
+Soares, in The Book of Disquiet. This country home to the author of The Lusiads is the setting of a novel where
+the (*) doctor’s wife hides her immunity from “the white sickness.” An author from this country wrote about the
+title epidemic rendering a city unable to see in Blindness. For ten points, name this country home to Jose Saramago,
+who wrote The History of the Siege of Lisbon.
+ANSWER: Portugal <CM; European Literature>
+4. One song titled for one of these people states that its singer “sells crack on paypal just like” that person and
+is the “trapper of the century”. Another song titled for one of these people juxtaposes that man’s name with
+the number 666 and was a hit for Killer Mike. A song titled for one of these people alleges that a different one
+of these people “cheated in (*) Florida, would that make him a Seminole?”, while a group of white rappers
+including G-Eazy and Macklemore recorded a second version of the YG song “FDT”, which was written to oppose
+one of these people. For 10 points, Lil Pump and Young Jeezy wrote songs celebrating Barack Obama, a holder of
+what position?
+ANSWER: President of the United States [accept “Obama”, “Reagan, “My President”, “ FDT” before mention,
+Donald Trump, or George W. Bush; prompt on incomplete answer] <JM; Popular Culture>
+5. In NMR spectroscopy, this quantity is closely associated with chemical shifts. According to MO theory, this
+quantity’s derivative is equivalent to negative hardness. This quantity’s name was coined in order to replace
+the term “oxygenicity” by Swedish chemist Jacob Berzelius. This quantity can be calculated by (*) averaging
+ionization energy and electron affinity, but a more common scale for this quantity measures from 0.37 to 3.98 and
+was developed by Linus Pauling. For ten points, name this quantity that measures an atom’s ability to attract
+electrons.
+ANSWER: electronegativity <KK; Chemistry>
+6. This action was the primary goal of the “doughnut strategy”, which was partially created by Derek
+Burney. One goal of this action was to mitigate “regulatory chill” by removing the ISDS mechanism. Robert
+Lighthizer was appointed to his current position primarily to accomplish this action. This action was achieved
+by passing the (*) USMCA, which established tighter “rules for origin” for manufactured cars. For 10 points, name
+this goal that Donald Trump promised to accomplish with Canada, the United States, and Mexico to do away with
+what he called “the worst deal in the history of trade deals”.
+ANSWER: renegotiating NAFTA [accept anything involving getting rid of or changing the North American
+Free Trade Agreement, accept passing the USMCA or United States-Mexico-Canada Agreement before
+mentioned] <KK; Current Events>
+7. Francisco Goya’s painting The Third of May, 1808 inspired a painting by this artist in which a firing squad
+carries out the Execution of Emperor Maximilian. A bowl of oranges is placed below a blonde waitress
+standing in front of a mirror in another painting by him. Titian’s Venus of Urbino inspired a painting by this
+artist of A (*) Bar at the Folies-Bergère in which the title woman, who is modeled after Victorine Meurent, lies
+next to a black cat. This artist included a basket of fruit and a discarded dress in the foreground of a scandalous
+painting depicting a nude picnic. For 10 points, name this French artist of Olympia and The Luncheon on the Grass.
+ANSWER: Édouard Manet [do not accept “Monet”] <WJ; Fine Arts Visual>
+8. The Marquis de Condorcet names a criterion concerning the outcome of this action. Non-imposition and
+independence of irrelevant alternatives are two criteria to create a fair system for performing this action.
+Duncan Black proposed that the outcome of this action depends on which of two (*) options is closest to the
+median. The Borda Count is used in this activity, which Kenneth Arrow claims cannot be fair when there are three
+or more options. For 10 points, name this action used to select candidates for political office in democracies.
+ANSWER: voting [or equivalents like going to vote; or voting systems; prompt on elections] <CS; Social Science>
+9. During Paul's sermon on the Areopagus, he claims that God "hath made of one [this] all nations of men."
+Romans 3 notes Christ was "set forth to be a propitiation through faith in" this thing. Hebrews 9 claims that
+Christ came into the holy place by his own [this] in a portion of the book connecting Jesus to the Old
+Testament through this stuff since "without [it] is no (*) remission." A "new testament" is created through this
+thing in Matthew 26, just before Jesus and his disciples go to the Mount of Olives. It is the answer to the question
+"What can make me whole again" in a hymn titled "Nothing but [this]." For 10 points, name this substance which is
+symbolized by Communion wine.
+ANSWER: blood of Jesus [or Holy Blood; prompt on wine before mention]<CS; Religion and Mythology>
+10. In a short story from this country, Janet goes to a planetarium on a visit to her dying father. This setting
+of “The Moons of Jupiter” is also home to an author who wrote a novel about Grace Marks’ alleged murder
+of her employer, Thomas Kinnear, titled Alias Grace. That author wrote about a protagonist who attends a
+Prayvaganza and finds her friend (*) Moira working at Jezebel’s. In that novel by an author from this country,
+Offred chronicles her life in the dystopian regime of Gilead. For ten points, name this country home to Alice Munro
+and the author of The Handmaid’s Tale, Margaret Atwood.
+ANSWER: Canada <CM; World Literature>
+11. Alexander Scriabin requested that his Mysterium be played in the Himalayas right before this event. The
+Pie Jesu comes from a hymn by Thomas of Celano about this time period. A chamber piece named for this
+event opens with the clarinet and violin imitating birdsongs over the cello and piano accompaniment in the
+“Crystal Liturgy" movement; that (*) quartet was premiered in Gorlitz POW camp. A hymn about this time
+period which opens the Sequentia of Mozart's Requiem is the Dies Irae. For 10 points, name this event which is the
+subject of Olivier Messiaen's Quartet for the End of Time.
+ANSWER: end of the world [accept reasonable equivalents; specifically, accept end of time before mention; accept
+apocalypse or "Apocalyptic" symphony; prompt on Dies Irae or “Day of Wrath"] <CS; Fine Arts Auditory>
+12. In this polity, Reverend James Maury was awarded one penny in damages after he sued because
+clergymen’s wages were no longer paid in crops. This polity in which the “Parson’s Cause” took place was the
+site of a war in which Chief Cornstalk and Chief Logan led a Seneca-Cayuga and Shawnee alliance against
+Lord Dunmore. An uprising here against Governor (*) William Berkeley was Bacon’s Rebellion. Tobacco
+plantations were established around the James River in this colony. It was governed by the House of Burgesses. For
+10 points, name this colony with capital at Jamestown, the namesake of a modern southern state.
+ANSWER: Virginia Colony <KK + CC; American History>
+13. This person led a campaign against the Gabiniani after they killed the sons of Bibulus. This ruler was
+nearly toppled by a sister while under siege; that sister was controversially executed at the Temple of
+Artemis. This ruler’s successor was granted titles through a series of Donations, but he ruled for just eleven
+days due to his execution by (*) Octavian. This ruler fell from power after fleeing from the Battle of Actium. This
+monarch ruled territory jointly with Ptolemy XIII, before becoming sole ruler through the help of Julius Caesar. For
+10 points, name this last pharaoh of Egypt.
+ANSWER: Cleopatra VII Philopator <KK; Ancient and British History>
+14. Herniation of this structure through the lumbocostal triangle or foramen of Morgagni occurs in 1 in 2000
+live births. This structure is supported by the median, medial, and lateral arcuate ligaments. The vagus nerve
+passes through an opening in this structure called the esophageal hiatus, where it forms an artificial sphincter
+that prevents acid reflux. Hoover's sign indicates that this structure is flat, often signaling (*) COPD. This
+C-shaped structure is the boundary between the abdominal cavity and the thoracic cavity that it aids in expanding. It
+spasms during hiccups. For 10 points, name this sheet of muscle which aids in deep breathing, situated beneath the
+lungs.
+ANSWER: thoracic diaphragm <CS; Biology>
+15. One of this author’s protagonists attempts to bribe the Pope and blackmails her previous husband, Ralph,
+to find the money to marry the Catholic Raymond de Chelles. This creator of Undine Spragg also wrote a
+novel in which a failure to succeed in the New York “marriage market” leads to the suicide of (*) Lily Bart.
+This author of The Custom of the Country created a resident of Starkfield who sleds into a tree when he tries to run
+away with Mattie Silver. For ten points, name this author of The House of Mirth and Ethan Frome.
+ANSWER: Edith Wharton [accept Edith Newbold Jones]<TDG; American Literature>
+16. Alice Walker accused this storyteller, whose legacy is maintained by the Wren's Nest, of "stealing her
+heritage" through his works in "The Dummy in the Window." One of his characters tricks an enemy into
+trading places with him by saying he's being paid a dollar a minute to act as a scarecrow. That character
+created by him leads two others into a cavern of bees after promising to take them to his (*) "laughing place."
+In his most famous story, a rabbit trapped after punching a tar-baby tricks Br'er Fox into throwing him into the briar
+patch. For 10 points, name this storyteller created by Joel Chandler Harris who shares his name with the twin brother
+of Romulus.
+ANSWER: Uncle Remus [accept Joel Chandler Harris before mention] <CS; Religion and Mythology>
+17. In this modern-day country, the assassination of an empress who served as regent for her grandson Iyoas
+sparked the Zemene Mesafint period. One empire in this country was said to have been destroyed by a Jewish
+queen named Gudit. Following that empire’s decline, this country was ruled by the Zagwe dynasty. One ruler
+of this country, Zewditu, uncovered a discrepancy in the Treaty of Wuchale. The rulers of this country’s
+empire of (*) Axum were said to be descendants of the Queen of Sheba. For 10 points, name this African country
+where Queen Taytu founded Addis Ababa.
+ANSWER: Ethiopia <KK; World History>
+18. Zeng Fanzhi painted a parody of this painting with watermelon strewn throughout. Giampietrino's
+full-size copy of this painting allowed for its 20-year restoration. A curtain made to protect this painting
+flaked away the feet under a table in it. A man in this painting who places his hand on the shoulder of
+someone swooning holds a knife pointed backward behind his back, next to a third man whose elbow knocks
+over a (*) salt cellar. Thomas points his index finger upward in doubt in this painting, while Matthew and Thaddeus
+look to Simon the Zealot for an answer. For 10 points, name this Leonardo da Vinci painting in which Jesus
+announces a betrayal during a meal.
+ANSWER: The Last Supper [or L'Ultima Cena] <CS; Fine Arts Visual>
+19. During this period, the radical “Two Thousand Words” Manifesto was allowed to be published. This
+period’s Action Programme included recognition of Israel and the end of democratic centralism as part of
+reforms made by the KSC. The end of this period saw the blacklisting of (*) Václav Havel. This period began
+upon Alexander Dubcek’s election as First Secretary of the Communist party. This period led to military occupation
+that lasted until the Velvet Revolution. For 10 points, name this 1968 period of liberalization in the capital of
+Czechoslovakia.
+ANSWER: Prague Spring (also accept Prazko Jaro) <BA; European History>
+20. A material commonly used to make these devices develops a chromium oxide layer to protect them from
+oxidation. A three-terminal type of these devices commonly used in audio equipment is called a
+potentiometer. The value of one of these devices can be calculated using a (*) Wheatstone bridge. The total
+effect of these devices is found by adding the reciprocals of their strengths when they are placed in parallel. For ten
+points, name these circuit elements that oppose current flow and have their strength measured in ohms.
+ANSWER: electrical resistors <KK; Physics>
+PACKET 8 BONUSES
+1. The feu-follet of Louisiana and Boi-tata of Brazil are examples of this natural phenomenon. For 10 points each:
+[10] Name these phenomena, which Alessandro Volta explained as the result of natural electricity interacting with
+marsh gas. They supposedly draw away from those who approach.
+ANSWER: will-o'-wisps [or will-o'-the-wisps; or ignis fatuus]
+[10] Balls of light that appear above this river are called Naga fireballs, as they are believed to be created by Phaya
+Nagas. This river flows through a lake called the Tonle Sap.
+ANSWER: Mekong river
+[10] A similar phenomena called Chir batti appear in the Rann of Kutch near this border. This international border
+divides two parts of the Kashmir region..
+ANSWER: The India-Pakistan border [accept in either order; prompt if only one country is given] <CS;
+Geography>
+2. This author of the Union Army’s fife and drum manual is somewhat more ignominiously known for founding the
+Virginia Minstrels, which was the world’s first blackface minstrel group. For 10 points each:
+[10] Name this banjo player who probably wrote “Old Dan Tucker.” Abraham Lincoln really admired his song
+“Dixie,” despite its laudatory tone towards the South.
+ANSWER: Dan Emmett [or Daniel Decatur Emmett]
+[10] Bill Monroe is called the “Father” of this genre of music often performed with the banjo. This genre is usually
+associated with Appalachia, particularly Kentucky.
+ANSWER: Bluegrass
+[10] Henry Ossawa Tanner’s painting The Banjo Lesson is a latter example of this type of painting depicting
+ordinary domestic life. Vermeer painted many scenes described by this term,such as The Milkmaid.
+ANSWER: genre painting [or genre views; or genre scenes] <CS; Fine Arts Other>
+3. This collection includes one poem whose second section questions “Why should she give her bounty to the
+dead?” and begins with “complacencies of the peignoir.” For ten points each:
+[10] Name this poetry collection which “Sunday Morning” and “Disillusionment of Ten O’Clock.” Its most famous
+entry contains an image in which “Among twenty snowy mountains / The only moving thing / Was the eye of the
+blackbird.”
+ANSWER: Harmonium
+[10] “It was evening all afternoon” in the last section of “Thirteen Ways of Looking at a Blackbird,” a poem by this
+author of Harmonium.
+ANSWER: Wallace Stevens
+[10] A “dresser of deal” lacks “three glass knobs” in this poem by Stevens which begins, “Call the roller of big
+cigars.”
+ANSWER: “The Emperor of Ice-Cream” <CM; American Literature>
+4. One version of this theorem implies that an object the size of a pea could be cut into pieces and reformed into one
+the size of the Sun. For 10 points each:
+[10] Name this paradox which states that a solid such as a sphere could be decomposed and remade into two
+identical copies each with the volume of the original without morphing the decomposed pieces in any way or adding
+new pieces.
+ANSWER: Banach-Tarski paradox [or theorem]
+[10] In the formula for the volume of a sphere, this will be the power on the radius; intuitively, it is one more than
+the power in the volume for a circle's area since a sphere has one more dimension than a circle.
+ANSWER: three [or 3]
+[10] Suppose you were only given a cross-section of a sphere. You could use a method based around the volumes of
+cylindrical "shells" to find the volume of the whole sphere, or, more thematically, use this other method, whose
+formula resembles the integral form of a sphere's volume, to find its volume,
+ANSWER: disk method [or disc integration; accept washer method] <CS>
+5. A scientist from this country modified her countryman's most famous theory, adding the extra qualifier "nearly" to
+its name. For 10 points each:
+[10] Name this country home to the developer of the neutral theory of molecular evolution. A professor born in this
+country won a Nobel Prize for discovering the green fluorescent protein with his American students Martin Chalfie
+and Roger Tsien.
+ANSWER: Japan [or Nippon-koku; or Nihon-koku]
+[10] Tomoko Ohta's nearly neutral theory, like her mentor Kimura's theory, opposes the idea that this process is the
+main mechanism of evolution. Darwin contrasted it with an artificial, human type, and it is the "Means" by which
+the Origin of Species occurs according to the full title of his magnum opus.
+ANSWER: natural selection
+[10] Ohta believes her nearly neutral theory fell out of favor in the 90s due to the advent of this technology. Sanger
+names one method for this task, which is more commonly done with Craig Venter's "shotgun" method.
+ANSWER: DNA sequencing [or clear equivalents] <CS; Biology>
+6. For a particle in perfectly circular motion, this quantity equals the product of mass, velocity, and radius. For 10
+points each:
+[10] Name this quantity which is defined as the product of moment of inertia and angular velocirty, or the cross
+product of its linear analogue and a position vector. Its linear analogue equals mass times velocity.
+ANSWER: angular momentum [do NOT accept or prompt on "(linear) momentum"]
+[10] Emmy Noether's first theorem has important applications with regards to angular momentum calculations as it
+states that for any system with some sort of differential symmetry, some variable in the system must have this
+property.
+ANSWER: It is time-invariant [accept anything about a variable not changing with time OR being conserved
+with respect to time; accept having a conservation law; accept having a time derivative equal to zero]
+[10] The standard technical definition of Noether's theorem concerns differentiable symmetries of this quantity of a
+system, which equals the integral of energy with respect to time. In classical mechanics, a particle will take the path
+which minimizes this quantity according to the principle of least [this quantity].
+ANSWER: action [accept principle of least action] <CS>
+7. This woman’s destruction of an enemy ship is said to have inspired the quote “My men have become women, and
+my women, men”. For 10 points each,
+[10] Name this naval commander from Halicarnassus who allied with Xerxes at the Battle of Salamis.
+ANSWER: Artemisia I of Caria
+[10] The Battle of Salamis was fought between these ships, which were known for their ramming ability.
+Artemisia’s fleet of them was crippled by a storm and the greater maneuverability of their Greek counterparts.
+ANSWER: triremes
+[10] Artemisia allied with this empire at Salamis, which fought the Greeks in a series of namesake wars.
+ANSWER: Persian Empire <KK; Ancient and British History>
+8. In a novel by this author, Trefry unintentionally helps reunite two lovers under the new names of Caesar and
+Clemene. For ten points each:
+[10] Name this British author of a novel where the title African prince kills his lover Imoinda while enslaved in
+Suriname, Oroonoko.
+ANSWER: Aphra Behn
+[10] This other author created Tony Last, who also journeys to South America, but he is forced to stay there as the
+prisoner of the illiterate Mr. Todd in the Amazon rainforest in the novel A Handful of Dust.
+ANSWER: Evelyn Waugh
+[10] A Handful of Dust began as a short story Waugh wrote, which he originally titled “The Man Who Liked” this
+author. As Mr. Todd’s prisoner, Tony is forced to read the works of this author of A Tale of Two Cities to him.
+ANSWER: Charles Dickens <CM; British Literature>
+9. This president presided over the Financial Panic of 1873. For 10 points each,
+[10] Name this president who succeeded Andrew Johnson and served as commander of the Union Army during the
+Civil War. The last of the Reconstruction Amendments was passed during his presidency.
+ANSWER: Ulysses S. Grant (accept Hiram Ulysses Grant)
+[10] This conspiracy in the scandal-ridden Grant administration bribed government officials so that manufacturers of
+its namesake product could avoid taxes. Grant’s private secretary Orville Babcock was implicated in this scandal.
+ANSWER: Whiskey Ring
+[10] Another scandal in the Grant administration was organized by this Congressman, who bribed officials with
+discounted Credit Mobilier stock. One of this man’s beneficiaries was Schuyler Colfax, Grant’s vice president.
+ANSWER: Oakes Ames <KK; American History>
+10. LGBT representation on television still leaves much to be desired. For 10 points each, answer the following
+questions about lesbian couples on TV who are no longer together.
+[10] The characters Callie and Arizona, played by Sara Ramirez and Jessica Capshaw, were formerly in a
+relationship on this medical drama which recently celebrated its 300th episode.
+ANSWER: Grey's Anatomy
+[10] On The CW's Supergirl, DEO Agent Alex Danvers broke off her engagement to this character. This NYPD cop
+shares her surname with the protagonist of a Mark Twain novel.
+ANSWER: Maggie Sawyer [accept either underlined name]
+[10] Fans were furious when character of Commander Lexa on The 100 was killed after she consummated her
+relationship with Clarke. Her death is referred to by this prevalent media trope.
+ANSWER: Bury Your Gays trope [prompt on “Dead Lesbian Syndrome”] <KE; Popular Culture>
+11. Albert Cleage wrote a book about the Messiah with this quality, and founded the Shrine of the [this] Madonna
+Church. For 10 points each:
+[10] Name this phenotype which describes a theology spearheaded by James Cone, whose The Cross and the
+Lynching Tree elaborates on his view that Jesus should be viewed as having this skin color.
+ANSWER: black skin [or equivalents]
+[10] James Cone's "black theology" is viewed as an offshoot of this blend of Christianity and Marxist thought
+promoted by Latin American thinkers like Gustavo Gutierrez. It seeks to improve the condition of the poor and
+oppressed.
+ANSWER: liberation theology
+[10] Chapter 3, verse 28 of this Pauline epistle is a favorite of left-leaning theologians, since it declares: "There is
+neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ
+Jesus." It also enumerates the works of the flesh and the fruit of the Spirit.
+ANSWER: Epistle to the Galatians [or Letter to the Galatians] <CS; Religion and Mythology>
+12. Sune Lindqvist discovered postholes from this building in 1926. For 10 points each:
+[10] Identify this building described in Snorri's Ynglinga saga. Adam of Bremen reported that up to seventy-two
+bodies were hung at this Swedish building, where three gods including Wodan and Thor sat on a triple throne.
+ANSWER: The Temple at Uppsala [or the Temple at Gamla Uppsala; or the Temple at Old Uppsala]
+[10] An ithyphallic depiction of this god was also present on the triple throne at the Temple at Uppsala. Like his
+twin sister, he was a god of fertility.
+ANSWER: Frey [or Freyr; do not accept Freyja or Freya]
+[10] An evergreen at the site of the Temple of Uppsala likely represented this Norse World-Tree.
+ANSWER: Yggdrasil <CS; Religion and Mythology>
+13. In this play, Estrella becomes displeased with Astolfo for wearing a locket with another woman’s portrait on his
+neck. For ten points each:
+[10] Name this Calderon play in which a prophecy leads King Basilio to imprison his son Segismundo in a tower.
+ANSWER: Life Is a Dream
+[10] This playwright wrote about Agnes, the daughter of Indra, descending to Earth in A Dream Play. He also wrote
+about Hummel helping Arkenholz become disillusioned with a Stockholm family in The Ghost Sonata.
+ANSWER: August Strindberg
+[10] Strindberg authored this play where the title character recalls her dream of being unable to get down from a
+pillar to the valet Jean, who eventually convinces her to commit suicide with a razor.
+ANSWER: Miss Julie <CM; European Literature>
+14. This book suggests that the reader should discard its propositions once she understands them, as one throws a
+ladder aside after climbing it. For 10 points each:
+[10] Name this book organized into numbered propositions. Its fourth section introduced truth tables, and its first
+opens "The world is everything that is the case."
+ANSWER: Tractatus Logico-Philosophicus [prompt on "Tractatus"; accept, but do not otherwise reveal
+Wittgenstein's Tractatus]
+[10] The Tractatus was written by this Austrian student of Russell and Moore, who later changed his mind from the
+"picture theory" of language to a theory based on "family resemblances" in his Philosophical Investigations.
+ANSWER: Ludwig Wittgenstein
+[10] The Tractatus' proposition 5.1 claims that the arrangement of truth functions in series is the foundation of the
+theory of this subject. Three of the major schools regarding this subject are frequentism, propensity theory, and a
+"subjective" school which follows Thomas Bayes by defining it in terms of a "degree of belief" or "credence."
+ANSWER: probability [do not accept "statistics"] <CS; Philosophy>
+15. A ruler of this country may have caused Rene Descartes’s death by forcing him to march to her frigid castle at
+5:00 AM daily. For ten points each,
+[10] Name this Nordic country once ruled by Queen Christina from Stockholm. After the Thirty Years’ War, this
+country was granted the territory of Pomerania.
+ANSWER: Sweden
+[10] Sweden belonged to this trade alliance designed to counter the Hanseatic League. The founder of this alliance,
+Queen Margaret, ruled both Sweden and Denmark and was known as the “Lady King”.
+ANSWER: Kalmar Union
+[10] Since she had no desire to marry, Queen Christina abdicated the Swedish throne and performed this action.
+Prior to performing this action, Christina practiced her father Gustavus Adolphus’ Lutheran faith.
+ANSWER: converting to Catholicism (accept equivalents, prompt on “converting to Christianity”) <KK; European
+History>
+16. The cumene process produces this compound alongside phenol. For 10 points each:
+[10] Name this compound, the most common solvent for the Jones oxidation. It is used to clean lab glassware, and
+commercially as nail polish remover.
+ANSWER: acetone
+[10] Acetone is the simplest ketone. Ketones, which consist of a carbonyl in the middle of a chain, are easily
+confused with this functional group consisting of a carbonyl at the end of a carbon chain.
+ANSWER: aldehydes
+[10] With the exception of alpha-hydroxy ketones, ketones can be distinguished from aldehydes by the Tollens'
+reagent, which typically creates one of these distinctive objects in a reaction vessel.
+ANSWER: silver mirror [prompt on partial] <CS; Chemistry>
+17. One resident of this city, Kirsha, is a seller and user of hashish who desires young boys and owns a café. For ten
+points each:
+[10] Name this city which is home to three generations of the al-Jawad family, which includes Kamal, Yasin,
+Fahmy, and the patriarch, Sayyid Ahmad.
+ANSWER: Cairo
+[10] The Cairo Trilogy is written by this Egyptian author, who also wrote about Said Mahran’s attempts to kill the
+journalist who put him in prison in The Thief and the Dogs.
+ANSWER: Naguib Mahfouz
+[10] This other Egyptian city is the namesake of a “quartet” by Lawrence Durrell, in which the exiled schoolteacher
+L.G. Darley observes the impact of World War II on the world around him.
+ANSWER: Alexandria [accept Alexandria Quartet] <CM; Ancient and World Literature>
+18. This polity defeated the Kingdom of Mysore at the Siege of Seringapatam. For ten points each,
+[10] Name this trading conglomerate that often feuded with its Dutch counterpart. After the Battle of Plassey, this
+company found itself in control of much of its namesake country.
+ANSWER: British East India Company (prompt on partial)
+[10] This British statesman got his start as a clerk for the British East India company. After serving as
+Governor-General of Bencoolen, this leader founded the modern state of Singapore.
+ANSWER: Sir Stamford Raffles
+[10] One of Raffles’ most famous roles was his involvement in the conquest of this Indonesian island, which had
+previously been held by the Dutch East India Company. The colonial capital of Batavia was located on this island.
+ANSWER: Java <KK; World History>
+19. Composer and piece required. This piece's first movement opens Andante non troppo e molto maestoso with a
+descending fortissimo "triplet-dotted quarter" pattern played twice in the horns, before a smooth tenuto piano solo.
+For 10 points each:
+[10] Name this concerto originally written for Nikolai Rubinstein, who called it "unplayable" and got into a feud
+with the composer; Hans von Bulow played the solo part at the Boston premiere instead.
+ANSWER: Tchaikovsky's Piano Concerto No. 1 [or Tchaikovsky's first piano concerto; both composer and
+piece are required, so prompt on partial]
+[10] Tchaikovsky's is probably best known for the 1812 Overture, which uses this unusual instrument in its finale. It
+is used more often as an engine of war.
+ANSWER: Cannon
+[10] Tchaikovsky wrote a C major piece in this genre for string orchestra, and another "melancolique" one. Mozart's
+Eine Kleine Nachtmusik is another piece in this genre, which is usually translated as either "a little night music" or
+"a little [this genre]."
+ANSWER: Serenade <CS; Fine Arts Auditory>
+20. William Boyd created an art hoax centered around an abstract expressionist with this surname who destroyed
+99% of his work. For 10 points each:
+[10] Give this name of the institution which awards the Turner Prize. Chinese artist Ai Weiwei filled the Turbine
+Hall of its Modern branch with sunflower seeds.
+ANSWER: Tate [accept Nat Tate; accept Tate Museum or Tate Modern] (The Ai Weiwei work is called Sunflower
+Seeds)
+[10] Ai Weiwei destroyed an artwork in this medium from the Han dynasty for a photo series and painted the
+Coca-Cola logo over another. The Ming dynasty traded a number of artworks in this medium for European goods.
+ANSWER: pottery [or porcelain; accept Dropping a Han Dynasty Urn or Coca Cola Vase]
+[10] This Chinese aesthetic principle with a mystical background seeks to harmonize everything with the natural
+surroundings. Its practitioners are divided into Form and Compass schools, and its name means "wind-water."
+ANSWER: feng shui ["fung shway"] <CS; Fine Arts Visual>

@@ -1,2081 +1,1340 @@
 {
-    "entities": {
-        "line # 1": [
-            "Chapelle Rouge -> Chapelle Rouge (score: 0.5)",
-            "reconstructed -> Reconstruction (architecture) (score: 0.11763129383325577)",
-            "open-air -> Open-air museum (score: 0.11399129778146744)"
-        ],
-        "line # 2": [
-            "order of succession -> Order of succession (score: 0.17010308802127838)",
-            "ruler -> Monarch (score: 0.27496272325515747)"
-        ],
-        "line # 3": [
-            "same name -> Magadheera (score: 0.11620166152715683)",
-            "regent -> Regent (score: 0.23298105597496033)",
-            "Thutmose III -> Thutmose III (score: 0.7060778141021729)"
-        ],
-        "line # 4": [],
-        "line # 5": [
-            "Hyksos -> Hyksos (score: 0.5497677326202393)",
-            "invasion -> Invasion (TV series) (score: 0.10791907459497452)",
-            "land of Punt -> Land of Punt (score: 0.5)",
-            "ruler -> Monarch (score: 0.11041117459535599)"
-        ],
-        "line # 6": [
-            "image -> Image (score: 0.15903425216674805)",
-            "name -> Name (score: 0.10607398301362991)",
-            "female -> Female (score: 0.10806851089000702)",
-            "pharaoh -> Pharaoh (score: 0.4291823208332062)",
-            "Egypt -> Ancient Egypt (score: 0.5797362923622131)"
-        ],
-        "line # 7": [
-            "Hatshepsut -> Hatshepsut (score: 0.6666666865348816)",
-            "Hatchepsut -> Hatshepsut (score: 0.48818397521972656)",
-            "Ancient -> Ancient history (score: 0.17984096705913544)",
-            "British -> British people (score: 0.18355074524879456)",
-            "British History -> History of the British Isles (score: 0.2648375332355499)"
-        ],
-        "line # 8": [
-            "Isis Unveiled -> Isis Unveiled (score: 0.8776700496673584)",
-            "Helena Blavatsky -> Helena Blavatsky (score: 0.5)",
-            "theory -> Theory (score: 0.20365506410598755)"
-        ],
-        "line # 9": [
-            "Darwinian evolution -> Darwinism (score: 0.32976198196411133)",
-            "Vyasa -> Vyasa (score: 0.36133748292922974)"
-        ],
-        "line # 10": [
-            "demon -> Demon (score: 0.12646883726119995)",
-            "thighs -> Poultry (score: 0.11554357409477234)",
-            "on the threshold -> On the Threshold (score: 0.1732456237077713)",
-            "threshold -> On the Threshold (score: 0.18904083967208862)"
-        ],
-        "line # 11": [
-            "Satya Yuga -> Satya Yuga (score: 0.5)",
-            "will -> Free will (score: 0.14602164924144745)"
-        ],
-        "line # 12": [
-            "one -> One-party state (score: 0.1306016892194748)",
-            "figures -> Effigy (score: 0.1213197261095047)",
-            "besieged -> Siege (score: 0.15340329706668854)"
-        ],
-        "line # 13": [
-            "Buddha -> Gautama Buddha (score: 0.4179537892341614)",
-            "Kalki -> Kalki (score: 0.46490049362182617)",
-            "charioteer -> Ratha (score: 0.23355336487293243)",
-            "Arjuna -> Arjuna (score: 0.5294972062110901)",
-            "Gita -> Bhagavad Gita (score: 0.24252091348171234)"
-        ],
-        "line # 14": [
-            "Rama -> Rama (score: 0.3936484754085541)",
-            "Krishna -> Krishna (score: 0.3927243649959564)",
-            "incarnations -> Avatar (score: 0.23452049493789673)",
-            "deity -> Hindu deities (score: 0.30033808946609497)"
-        ],
-        "line # 15": [
-            "avatars -> Avatar (score: 0.2766572833061218)",
-            "Vishnu -> Vishnu (score: 0.7683010697364807)",
-            "avatars -> Avatar (score: 0.3365369439125061)",
-            "Krishna -> Krishna (score: 0.41356292366981506)",
-            "Dashavatara -> Dashavatara (score: 0.6184724569320679)",
-            "Religion -> Religion (score: 0.14120879769325256)"
-        ],
-        "line # 16": [],
-        "line # 17": [
-            "piano -> Piano (score: 0.18198935687541962)"
-        ],
-        "line # 18": [
-            "death -> Death (score: 0.1473536640405655)",
-            "central -> Central nervous system (score: 0.13209792971611023)",
-            "characters -> Phenotypic trait (score: 0.2322772592306137)",
-            "a man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)"
-        ],
-        "line # 19": [
-            "who -> World Health Organization (score: 0.20743224024772644)",
-            "shoots himself -> Suicide (score: 0.14527331292629242)"
-        ],
-        "line # 20": [
-            "manuscript -> Manuscript (score: 0.11350870132446289)",
-            "protagonist -> Protagonist (score: 0.1885274201631546)",
-            "baby -> Infant (score: 0.11684180796146393)",
-            "Eilert Lovborg -> Hedda Gabler (score: 0.24682432413101196)"
-        ],
-        "line # 21": [
-            "play -> Play (activity) (score: 0.10411127656698227)",
-            "wife -> Wife (score: 0.2158423215150833)",
-            "suicide -> Suicide (score: 0.23925665020942688)",
-            "pistol -> Pistol (score: 0.21645832061767578)"
-        ],
-        "line # 22": [
-            "Henrik Ibsen -> Henrik Ibsen (score: 0.5)"
-        ],
-        "line # 23": [
-            "Hedda Gabler -> Hedda Gabler (score: 0.5945689678192139)"
-        ],
-        "line # 24": [
-            "artist -> Painting (score: 0.13440771400928497)",
-            "pose -> List of human positions (score: 0.10341175645589828)",
-            "Michelangelo -> Michelangelo (score: 0.5849289894104004)",
-            "Isaiah -> Isaiah (score: 0.26289108395576477)",
-            "paint -> Paint (score: 0.11171169579029083)",
-            "Mein Kampf -> Mein Kampf (score: 0.5)"
-        ],
-        "line # 25": [
-            "sandwich -> Sandwich (2006 film) (score: 0.1466117799282074)",
-            "murder -> Murder (score: 0.17301791906356812)",
-            "black -> Black people (score: 0.23306415975093842)",
-            "black men -> African Americans (score: 0.21941980719566345)",
-            "Southern Justice -> The Godwinns (score: 0.1515151560306549)",
-            "series -> Television program (score: 0.11184711754322052)"
-        ],
-        "line # 26": [
-            "Look magazine -> Look (American magazine) (score: 0.2216981202363968)",
-            "tomato -> Tomato (score: 0.2719824016094208)",
-            "KKK -> Ku Klux Klan (score: 0.2814304828643799)",
-            "racial slur -> Nigger (score: 0.3228282332420349)",
-            "slur -> Pejorative (score: 0.29753565788269043)"
-        ],
-        "line # 27": [
-            "Problem We All Live With -> The Problem We All Live With (score: 0.5)",
-            "Ruby Bridges -> Ruby Bridges (score: 0.5)"
-        ],
-        "line # 28": [
-            "dissenter -> Dissenting opinion (score: 0.17892976105213165)",
-            "standing -> Standing army (score: 0.11405093967914581)",
-            "town meeting -> Town meeting (score: 0.32895615696907043)",
-            "turkey -> Turkey (score: 0.3570716679096222)",
-            "on the table -> Table (parliamentary procedure) (score: 0.2543242871761322)",
-            "table -> Table (parliamentary procedure) (score: 0.25630202889442444)"
-        ],
-        "line # 29": [
-            "Thanksgiving -> Thanksgiving (score: 0.15379546582698822)",
-            "who -> The Who (score: 0.1399766504764557)",
-            "Four Freedoms -> Four Freedoms (score: 0.3733905553817749)",
-            "Rosie the Riveter -> Rosie the Riveter (score: 0.4597315490245819)",
-            "illustrator -> Illustrator (score: 0.23996853828430176)"
-        ],
-        "line # 30": [
-            "Saturday Evening Post -> The Saturday Evening Post (score: 0.4933774769306183)"
-        ],
-        "line # 31": [
-            "Norman -> Norman language (score: 0.1447489857673645)",
-            "Perceval -> Perceval, the Story of the Grail (score: 0.15656226873397827)",
-            "Rockwell -> Norman Rockwell (score: 0.11394888162612915)",
-            "Fine Arts -> Fine art (score: 0.23235540091991425)",
-            "Visual -> Visual arts (score: 0.32206860184669495)"
-        ],
-        "line # 32": [
-            "surname -> Surname (score: 0.1093621477484703)",
-            "calorimeter -> Calorimeter (score: 0.367930144071579)",
-            "respiration -> Respiration (physiology) (score: 0.2096547931432724)"
-        ],
-        "line # 33": [],
-        "line # 34": [
-            "surname -> Surname (score: 0.14816473424434662)",
-            "Elementary Treatise on Chemistry -> Trait\u00e9 \u00c9l\u00e9mentaire de Chimie (score: 0.25)"
-        ],
-        "line # 35": [
-            "Richard Kirwan -> Richard Kirwan (score: 0.5)",
-            "properties -> Chemical property (score: 0.1305639147758484)",
-            "acids -> Acid (score: 0.134378120303154)",
-            "surname -> Surname (score: 0.10727480053901672)"
-        ],
-        "line # 36": [
-            "study -> Research (score: 0.13236555457115173)",
-            "scientific -> Science (score: 0.19844971597194672)",
-            "portrait -> Portrait (score: 0.21531474590301514)",
-            "Jacques-Louis David -> Jacques-Louis David (score: 0.7180261611938477)",
-            "A man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)"
-        ],
-        "line # 37": [
-            "surname -> Surname (score: 0.12910141050815582)",
-            "term -> Time (score: 0.17054373025894165)",
-            "caloric -> Caloric theory (score: 0.3142583966255188)",
-            "heat flow -> Heat transfer (score: 0.38114652037620544)",
-            "analyzed -> Musical analysis (score: 0.15155620872974396)",
-            "changes -> Chord progression (score: 0.15256287157535553)"
-        ],
-        "line # 38": [
-            "combustion -> Combustion (score: 0.2055908441543579)",
-            "Georg Stahl -> Georg Ernst Stahl (score: 0.5831000208854675)",
-            "phlogiston theory -> Phlogiston theory (score: 0.5)",
-            "last name -> Surname (score: 0.11399275064468384)"
-        ],
-        "line # 39": [
-            "husband -> Husband (score: 0.13412915170192719)",
-            "oxygen -> Oxygen (score: 0.2875502109527588)"
-        ],
-        "line # 40": [
-            "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
-            "Lavoisier -> Antoine Lavoisier (score: 0.1381578892469406)",
-            "Antoine Lavoisier -> Antoine Lavoisier (score: 0.5)",
-            "KK -> Kappa Kappa Psi (score: 0.12615099549293518)",
-            "Chemistry -> Chemistry (score: 0.3074648082256317)"
-        ],
-        "line # 41": [
-            "Jeff -> Jeff Jarrett (score: 0.11544809490442276)",
-            "his show -> The Howard Stern Show (score: 0.13072407245635986)",
-            "Jeff -> Jeff Jarrett (score: 0.13101010024547577)"
-        ],
-        "line # 42": [
-            "wheelchair -> Wheelchair (score: 0.10816864669322968)"
-        ],
-        "line # 43": [
-            "You -> With You (Jessica Simpson song) (score: 0.11209645867347717)",
-            "Feel -> Feel (Robbie Williams song) (score: 0.16736015677452087)",
-            "John Pastore -> John O. Pastore (score: 0.5392401814460754)",
-            "hearing -> United States congressional hearing (score: 0.20147846639156342)",
-            "public television -> PBS (score: 0.1667882800102234)"
-        ],
-        "line # 44": [
-            "Clemmons -> Fran\u00e7ois Clemmons (score: 0.5886077284812927)",
-            "Betty Aberlin -> Betty Aberlin (score: 0.5)"
-        ],
-        "line # 45": [
-            "X the owl -> Neighborhood of Make-Believe (score: 1.0)",
-            "Henrietta Pussycat -> Neighborhood of Make-Believe (score: 0.5)",
-            "Tiger -> Tiger (score: 0.3394570052623749)"
-        ],
-        "line # 46": [
-            "trolley -> Tram (score: 0.17306628823280334)",
-            "points -> Railroad switch (score: 0.12625743448734283)"
-        ],
-        "line # 47": [],
-        "line # 48": [
-            "Mister Rogers -> Fred Rogers (score: 0.5369565486907959)",
-            "Fred Rogers -> Fred Rogers (score: 0.5)",
-            "Popular Culture -> Popular culture (score: 0.14851748943328857)"
-        ],
-        "line # 49": [
-            "Giannina Braschi -> Giannina Braschi (score: 0.5)",
-            "first novel -> Debut novel (score: 0.12824057042598724)",
-            "novel -> Novel (score: 0.20672854781150818)",
-            "hybrid -> Cross-genre (score: 0.10966253280639648)",
-            "English -> English language (score: 0.2290215790271759)",
-            "language -> Language (score: 0.11150310933589935)",
-            "memoir -> Memoir (score: 0.1591479331254959)",
-            "written -> Writing (score: 0.19015446305274963)"
-        ],
-        "line # 50": [
-            "language -> Language (score: 0.10539257526397705)",
-            "a man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)",
-            "man who -> The Man Who (score: 0.19087904691696167)",
-            "who -> The Who (score: 0.24163857102394104)",
-            "miles -> Miles Davis (score: 0.15054841339588165)",
-            "biochemist -> Biochemistry (score: 0.21092456579208374)"
-        ],
-        "line # 51": [
-            "one novel -> One: A Novel (score: 0.1666666716337204)",
-            "language -> Language (score: 0.1465897411108017)",
-            "Motorcycle Diaries -> The Motorcycle Diaries (film) (score: 0.5)"
-        ],
-        "line # 52": [
-            "Water -> Water (score: 0.13814160227775574)",
-            "Chocolate -> Chocolate (score: 0.19517657160758972)",
-            "written -> Writing (score: 0.20627336204051971)",
-            "language -> Language (score: 0.22956065833568573)",
-            "magical realist -> Magic realism (score: 0.5820337533950806)",
-            "realist novel -> Literary realism (score: 0.49198853969573975)",
-            "written -> Writing (score: 0.22104264795780182)",
-            "language -> Language (score: 0.15355364978313446)"
-        ],
-        "line # 53": [
-            "Buendia family -> One Hundred Years of Solitude (score: 0.5)",
-            "Macondo -> Macondo (score: 0.2070707082748413)",
-            "language -> Language (score: 0.23509098589420319)",
-            "write -> Writing (score: 0.2587449550628662)"
-        ],
-        "line # 54": [
-            "Gabriel Garc\u00eda M\u00e1rquez -> Gabriel Garc\u00eda M\u00e1rquez (score: 0.5)"
-        ],
-        "line # 55": [
-            "Spanish -> Spain (score: 0.21636183559894562)",
-            "espa\u00f1ol -> Spanish language (score: 0.11439885944128036)"
-        ],
-        "line # 56": [
-            "rondo -> Rondo (score: 0.3597363531589508)",
-            "composer -> Composer (score: 0.240225151181221)",
-            "ninth -> Symphony No. 9 (Beethoven) (score: 0.19481408596038818)",
-            "piano -> Piano (score: 0.3524671494960785)",
-            "piano concerto -> Piano concerto (score: 0.35262322425842285)",
-            "minuet -> Minuet (score: 0.4203672409057617)"
-        ],
-        "line # 57": [
-            "tempo -> Tempo (score: 0.24353164434432983)",
-            "concerto -> Concerto (score: 0.15186379849910736)",
-            "written -> Writing (score: 0.11266928166151047)",
-            "music -> Music (score: 0.1698942333459854)",
-            "music book -> Sheet music (score: 0.132215216755867)",
-            "written -> Writing (score: 0.18308791518211365)"
-        ],
-        "line # 58": [
-            "Nannerl -> Maria Anna Mozart (score: 0.381381094455719)",
-            "compositions -> Musical composition (score: 0.2501547932624817)",
-            "soprano -> Soprano (score: 0.3430604040622711)",
-            "solo -> Solo (music) (score: 0.2678079307079315)",
-            "sections -> Section (music) (score: 0.1868719607591629)"
-        ],
-        "line # 59": [
-            "Mass in C minor -> Great Mass in C minor, K. 427 (score: 0.4442675709724426)",
-            "C minor -> Piano Concerto No. 24 (Mozart) (score: 0.47549179196357727)",
-            "his wife -> Constanze Mozart (score: 0.197604700922966)",
-            "Constanze Weber -> Constanze Mozart (score: 0.42105263471603394)"
-        ],
-        "line # 60": [
-            "piano -> Piano (score: 0.28890007734298706)",
-            "piano concerto -> Piano concerto (score: 0.2258244752883911)"
-        ],
-        "line # 61": [
-            "K\u00f6chel -> Ludwig Ritter von K\u00f6chel (score: 0.28784269094467163)",
-            "catalogue -> Hoboken-Verzeichnis (score: 0.2377263605594635)",
-            "composer -> Composer (score: 0.14236196875572205)"
-        ],
-        "line # 62": [
-            "Franz -> Franz Lachner (score: 0.1294226199388504)",
-            "Sussmayr -> Franz Xaver S\u00fcssmayr (score: 0.30457526445388794)",
-            "unfinished -> Symphony No. 8 (Schubert) (score: 0.3024384081363678)",
-            "D minor -> D minor (score: 0.3329755663871765)",
-            "Requiem -> Requiem (score: 0.35546115040779114)",
-            "composed -> Musical composition (score: 0.11648698151111603)",
-            "Austrian -> Austrians (score: 0.12437520921230316)",
-            "composer -> Composer (score: 0.22695450484752655)"
-        ],
-        "line # 63": [
-            "prodigy -> The Prodigy (score: 0.19700895249843597)"
-        ],
-        "line # 64": [
-            "ANSWER -> Fugue (score: 0.2789689600467682)",
-            "Wolfgang Amadeus Mozart -> Wolfgang Amadeus Mozart (score: 0.5)",
-            "Mozart -> Wolfgang Amadeus Mozart (score: 0.46628978848457336)",
-            "CS -> Czech language (score: 0.14316880702972412)",
-            "Fine Arts -> Fine art (score: 0.12115179002285004)",
-            "Auditory -> Hearing (score: 0.19064481556415558)"
-        ],
-        "line # 65": [
-            "One member -> First-past-the-post voting (score: 0.15447789430618286)",
-            "phylum -> Phylum (score: 0.30288970470428467)",
-            "features -> Feature detection (nervous system) (score: 0.2393830120563507)",
-            "axon -> Axon (score: 0.6919347047805786)",
-            "Alan Hodgkin -> Alan Lloyd Hodgkin (score: 0.8230088949203491)"
-        ],
-        "line # 66": [
-            "Huxley -> Thomas Henry Huxley (score: 0.2708113491535187)",
-            "understand -> Understanding (score: 0.23984038829803467)",
-            "mechanics -> Mechanics (score: 0.22117125988006592)",
-            "action potentials -> Action potential (score: 0.3161245584487915)",
-            "class -> Class (biology) (score: 0.27852725982666016)",
-            "phylum -> Phylum (score: 0.3824451267719269)"
-        ],
-        "line # 67": [
-            "surfaces -> Surface (score: 0.1670512855052948)",
-            "bundle -> Fiber bundle (score: 0.126058429479599)",
-            "filaments -> Stamen (score: 0.11585231125354767)",
-            "byssus -> Byssus (score: 0.4933304488658905)",
-            "phylum -> Phylum (score: 0.3402087092399597)"
-        ],
-        "line # 68": [
-            "odontophore -> Odontophore (score: 0.5350216627120972)",
-            "phylum -> Phylum (score: 0.34232622385025024)",
-            "mantle -> Mantle (mollusc) (score: 0.27254003286361694)",
-            "secrete -> Secretion (score: 0.1980077177286148)",
-            "conchiolin -> Conchiolin (score: 0.6747599244117737)",
-            "form -> Morphology (biology) (score: 0.15862499177455902)"
-        ],
-        "line # 69": [
-            "shells -> Exoskeleton (score: 0.27119186520576477)",
-            "food -> Food (score: 0.16800294816493988)",
-            "scraper -> Grazing (score: 0.30412644147872925)",
-            "radula -> Radula (score: 0.7270947098731995)",
-            "phylum -> Phylum (score: 0.41775691509246826)",
-            "cephalopods -> Cephalopod (score: 0.32914671301841736)"
-        ],
-        "line # 70": [
-            "invertebrate -> Invertebrate (score: 0.5064281225204468)",
-            "species -> Species (score: 0.20719249546527863)",
-            "name -> Nomenclature (score: 0.11365433782339096)",
-            "phylum -> Phylum (score: 0.402660608291626)",
-            "clams -> Clam (score: 0.2924131751060486)",
-            "snails -> Snail (score: 0.25186461210250854)",
-            "giant squids -> Giant squid (score: 0.3060947358608246)"
-        ],
-        "line # 71": [
-            "Mollusca -> Mollusca (score: 0.1546686440706253)",
-            "mollusks -> Mollusca (score: 0.15929126739501953)",
-            "Biology -> Biology (score: 0.14104467630386353)"
-        ],
-        "line # 72": [
-            "Emil Cioran -> Emil Cioran (score: 0.823727011680603)",
-            "aphorism -> Aphorism (score: 0.5166894197463989)",
-            "action -> Action (philosophy) (score: 0.13997326791286469)"
-        ],
-        "line # 73": [
-            "Despair -> Existential crisis (score: 0.21719583868980408)",
-            "action -> Action theory (philosophy) (score: 0.301215261220932)",
-            "philosophical -> Philosophical fiction (score: 0.28968286514282227)",
-            "problem -> Problem solving (score: 0.21222491562366486)",
-            "essay -> Essay (score: 0.14887188374996185)"
-        ],
-        "line # 74": [
-            "one -> Neoplatonism (score: 0.12725169956684113)",
-            "must -> Must (score: 0.12942087650299072)",
-            "title -> Title (score: 0.18235652148723602)",
-            "Greek -> Ancient Greek (score: 0.32980528473854065)",
-            "happy -> Happiness (score: 0.29352036118507385)",
-            "Kierkegaard -> S\u00f8ren Kierkegaard (score: 0.4045732915401459)",
-            "leap of faith -> Leap of faith (score: 0.5991992950439453)",
-            "philosophical -> Philosophy (score: 0.2617357075214386)"
-        ],
-        "line # 75": [
-            "book -> Book (score: 0.17175379395484924)",
-            "appendix -> Addendum (score: 0.1465793401002884)",
-            "Kafka -> Franz Kafka (score: 0.25746166706085205)",
-            "book -> Book (score: 0.10270033031702042)",
-            "subject -> Subject (documents) (score: 0.10221165418624878)"
-        ],
-        "line # 76": [
-            "Kirilov -> Radoslav Kirilov (score: 0.12837837636470795)",
-            "God -> God (score: 0.20385010540485382)",
-            "action -> Action theory (philosophy) (score: 0.24420523643493652)",
-            "divided -> Classification of the sciences (Peirce) (score: 0.10729694366455078)",
-            "types -> Agnosticism (score: 0.18542374670505524)",
-            "altruistic -> Altruism (score: 0.282321572303772)"
-        ],
-        "line # 77": [
-            "anomic -> Anomie (score: 0.38440239429473877)",
-            "sociological -> Sociology (score: 0.31011050939559937)",
-            "work -> Employment (score: 0.20422324538230896)",
-            "Emile Durkheim -> \u00c9mile Durkheim (score: 0.5)",
-            "name -> Name (score: 0.13963602483272552)",
-            "subject -> Subject (philosophy) (score: 0.19817619025707245)",
-            "Myth of Sisyphus -> The Myth of Sisyphus (score: 0.8082263469696045)"
-        ],
-        "line # 78": [
-            "subtypes -> Schizophrenia (score: 0.14274345338344574)",
-            "seppuku -> Seppuku (score: 0.6280689239501953)"
-        ],
-        "line # 79": [
-            "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
-            "altruistic suicide -> Altruistic suicide (score: 0.4375)",
-            "anomic suicide -> Suicide (book) (score: 0.3333333432674408)",
-            "specific -> Sensitivity and specificity (score: 0.10097453743219376)"
-        ],
-        "line # 80": [
-            "forms -> Theory of Forms (score: 0.2241923063993454)",
-            "CS -> Computer science (score: 0.23546022176742554)",
-            "Philosophy -> Philosophy (score: 0.3328731656074524)",
-            "Social Science -> Social science (score: 0.35516244173049927)"
-        ],
-        "line # 81": [
-            "Alvin Plantinga -> Alvin Plantinga (score: 0.9565200805664062)",
-            "William Lane Craig -> William Lane Craig (score: 0.5)"
-        ],
-        "line # 82": [
-            "alternative -> Alternative medicine (score: 0.11155540496110916)",
-            "Molinism -> Molinism (score: 0.5704586505889893)",
-            "Scriptural -> Bible (score: 0.1615554541349411)",
-            "Romans -> Epistle to the Romans (score: 0.31701159477233887)",
-            "Romans 9 -> Romans 9 (score: 0.1439657062292099)"
-        ],
-        "line # 83": [
-            "Esau -> Esau (score: 0.2047872394323349)",
-            "Esau and Jacob -> Esau and Jacob (score: 0.20000000298023224)",
-            "Modern -> Modern Hebrew (score: 0.11198800057172775)",
-            "pastors -> Pastor (score: 0.1532452404499054)",
-            "theological -> Theology (score: 0.1884477436542511)",
-            "John -> Gospel of John (score: 0.14769263565540314)"
-        ],
-        "line # 84": [
-            "MacArthur -> John F. MacArthur (score: 0.449238121509552)",
-            "John Piper -> John Piper (theologian) (score: 0.8073278665542603)",
-            "Open Theism -> Open theism (score: 0.5)",
-            "Arminianism -> Arminianism (score: 0.6981102228164673)",
-            "mainstream -> Mainstream (score: 0.160293847322464)"
-        ],
-        "line # 85": [
-            "depravity -> Total depravity (score: 0.1517215073108673)",
-            "limited atonement -> Limited atonement (score: 0.6474887132644653)",
-            "TULIP -> Calvinism (score: 0.22720085084438324)",
-            "acronym -> Acronym (score: 0.11882214993238449)"
-        ],
-        "line # 86": [
-            "five points -> Georgia State University (score: 0.1963222324848175)",
-            "deterministic -> Determinism (score: 0.33878907561302185)",
-            "theological -> Theology (score: 0.19172599911689758)",
-            "position -> Phylogenetic tree (score: 0.1650339961051941)",
-            "derived -> Etymology (score: 0.1267499029636383)"
-        ],
-        "line # 87": [
-            "Christian -> Christianity (score: 0.428913414478302)",
-            "Christian Religion -> Christianity (score: 0.40092870593070984)",
-            "written -> Torah (score: 0.1772167980670929)",
-            "Genevan -> Geneva (score: 0.15157340466976166)",
-            "reformer -> Protestant Reformation (score: 0.16835477948188782)"
-        ],
-        "line # 88": [
-            "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
-            "Calvinism -> Calvinism (score: 0.4381953775882721)",
-            "determinism -> Determinism (score: 0.33384570479393005)",
-            "double predestination -> Predestination (score: 0.5)"
-        ],
-        "line # 89": [
-            "predestination -> Predestination (score: 0.5902445912361145)",
-            "CS -> Missionaries of St. Charles Borromeo (score: 0.13871337473392487)",
-            "Religion and Mythology -> Religion and mythology (score: 0.2473648190498352)"
-        ],
-        "line # 90": [
-            "spy -> Espionage (score: 0.22592821717262268)",
-            "girl with the red hair -> The Girl with the Red Hair (score: 0.5)",
-            "out -> Outing (score: 0.28200891613960266)",
-            "assassinations -> Moscone\u2013Milk assassinations (score: 0.2932063639163971)"
-        ],
-        "line # 91": [
-            "February Strike -> February strike (score: 0.5)",
-            "HMS Hereward -> HMS Hereward (H93) (score: 0.5)"
-        ],
-        "line # 92": [
-            "Manstein Plan -> Manstein Plan (score: 0.5)"
-        ],
-        "line # 93": [
-            "country -> Venezuela (score: 0.10860766470432281)",
-            "Zeeland -> Zeeland (score: 0.6416914463043213)",
-            "Queen Wilhelmina -> Wilhelmina of the Netherlands (score: 0.5464683771133423)",
-            "Miep -> Hungarian Justice and Life Party (score: 0.11221146583557129)"
-        ],
-        "line # 94": [
-            "Gies -> Jan Gies (score: 0.5137659907341003)",
-            "Anne Frank -> Anne Frank (score: 0.3327043950557709)",
-            "Nazis -> Nazism (score: 0.2762375473976135)",
-            "Secret Annex -> Anne Frank House (score: 0.3134911358356476)",
-            "European -> Culture of Europe (score: 0.14565534889698029)",
-            "country -> Nation state (score: 0.15347960591316223)"
-        ],
-        "line # 95": [
-            "capital -> Madrid (score: 0.28926265239715576)",
-            "Amsterdam -> Amsterdam (score: 0.5295270085334778)"
-        ],
-        "line # 96": [
-            "Netherlands -> Netherlands (score: 0.5086661577224731)",
-            "Holland -> Netherlands (score: 0.40635061264038086)",
-            "Dutch Republic -> Dutch Republic (score: 0.5690096616744995)"
-        ],
-        "line # 97": [
-            "film -> Film (score: 0.13375429809093475)",
-            "film set -> Set construction (score: 0.13176950812339783)"
-        ],
-        "line # 98": [
-            "amour -> Amour (2012 film) (score: 0.15815681219100952)",
-            "Martin Scorsese -> Martin Scorsese (score: 0.8303012847900391)",
-            "Van Gogh -> Van Gogh (1991 film) (score: 0.13972342014312744)"
-        ],
-        "line # 99": [
-            "camera -> Camera (score: 0.33064571022987366)",
-            "pans -> Panning (camera) (score: 0.2969655990600586)",
-            "film -> Photographic film (score: 0.3581109344959259)",
-            "country -> Nation state (score: 0.1097555011510849)"
-        ],
-        "line # 100": [
-            "film -> Film (score: 0.14558115601539612)",
-            "medium -> Mass media (score: 0.10490323603153229)"
-        ],
-        "line # 101": [
-            "warrior -> Warrior (score: 0.13958080112934113)",
-            "temple -> Egyptian temple (score: 0.1728297770023346)",
-            "one -> Neoplatonism (score: 0.13201946020126343)",
-            "settings -> Setting (narrative) (score: 0.17161200940608978)",
-            "movie -> Film (score: 0.23477749526500702)",
-            "film -> Film (score: 0.27684834599494934)",
-            "short story -> Short story (score: 0.16829219460487366)"
-        ],
-        "line # 102": [
-            "set -> Set theory (score: 0.15698301792144775)",
-            "gate -> Logic gate (score: 0.17856188118457794)",
-            "points -> Score (game) (score: 0.16848886013031006)",
-            "setting -> Setting (narrative) (score: 0.16789281368255615)",
-            "Rashomon -> Rashomon (score: 0.7113545536994934)",
-            "Tokyo Story -> Tokyo Story (score: 0.8904972672462463)"
-        ],
-        "line # 103": [
-            "ANSWER -> Answer (album) (score: 0.1324015110731125)",
-            "Japan -> Japan (score: 0.6412383317947388)",
-            "Nippon-koku -> Japan (score: 0.3717948794364929)",
-            "Nihon-koku -> Japan (score: 0.25443679094314575)",
-            "Alain Resnais -> Alain Resnais (score: 0.9191799163818359)",
-            "Hiroshima mon amour -> Hiroshima mon amour (score: 0.5)"
-        ],
-        "line # 104": [
-            "Kurosawa's Dreams -> Dreams (1990 film) (score: 0.628896951675415)",
-            "Rashomon -> Rashomon (score: 0.8473193645477295)",
-            "Yasujiro Ozu -> Yasujir\u014d Ozu (score: 0.8907890915870667)",
-            "Tokyo Story -> Tokyo Story (score: 0.5)",
-            "CS -> Computer science (score: 0.11700443923473358)",
-            "Fine Arts -> Fine art (score: 0.23235540091991425)"
-        ],
-        "line # 105": [
-            "Battle of Black Jack -> Battle of Black Jack (score: 0.5)",
-            "Francis Coleman -> Francis Coleman (score: 0.3055555522441864)"
-        ],
-        "line # 106": [
-            "Charles Dow -> Charles Dow (score: 0.5)",
-            "Wakarusa River -> Wakarusa River (score: 0.5)",
-            "side -> A-side and B-side (score: 0.11814898997545242)"
-        ],
-        "line # 107": [
-            "Brooklyn -> Brooklyn (score: 0.2786719501018524)",
-            "Beecher's Bibles -> Beecher's Bibles (score: 0.5)",
-            "Border ruffians -> Border Ruffian (score: 0.6714661121368408)"
-        ],
-        "line # 108": [
-            "state -> State (polity) (score: 0.2268586903810501)",
-            "illegally -> Illegal immigration (score: 0.21471263468265533)",
-            "election -> Election (score: 0.1874716877937317)",
-            "conflict -> War in Afghanistan (2001\u201314) (score: 0.15832270681858063)",
-            "Lecompton constitution -> Lecompton Constitution (score: 0.6401815414428711)"
-        ],
-        "line # 109": [
-            "conflict -> American Indian Wars (score: 0.14879705011844635)",
-            "slavery -> Slavery (score: 0.29603856801986694)",
-            "Topeka constitution -> Topeka Constitution (score: 0.7108029723167419)",
-            "antebellum -> History of the Southern United States (score: 0.15110421180725098)"
-        ],
-        "line # 110": [
-            "conflict -> Vietnam War (score: 0.11282648891210556)",
-            "Midwestern state -> Midwestern State University (score: 0.1541089117527008)"
-        ],
-        "line # 111": [
-            "Bleeding Kansas -> Bleeding Kansas (score: 0.5)",
-            "Bloody Kansas -> Bleeding Kansas (score: 0.4166666567325592)",
-            "Border War -> Border War (1910\u201319) (score: 0.1304713785648346)",
-            "equivalents -> Translation (score: 0.1390196979045868)"
-        ],
-        "line # 112": [
-            "conflict -> War in Afghanistan (2001\u201314) (score: 0.1657203882932663)",
-            "Kansas -> Kansas (score: 0.29239365458488464)",
-            "BA -> Bachelor of Arts (score: 0.2153950184583664)",
-            "American -> Americans (score: 0.26137179136276245)",
-            "American History -> History of the United States (score: 0.23142416775226593)"
-        ],
-        "line # 113": [
-            "one novel -> One: A Novel (score: 0.1666666716337204)",
-            "Lawrence Redding -> Lawrence &quot;Lipbone&quot; Redding (score: 0.1666666716337204)"
-        ],
-        "line # 114": [
-            "murder -> Murder in English law (score: 0.1896810531616211)",
-            "mystifying -> Deception (score: 0.14869308471679688)",
-            "Murder at the Vicarage -> The Murder at the Vicarage (score: 0.5)"
-        ],
-        "line # 115": [
-            "Wargrave -> Wargrave (score: 0.3175182342529297)",
-            "murdering -> Murder (score: 0.12061242759227753)",
-            "racial slur -> Pejorative (score: 0.3307299017906189)",
-            "slur -> Pejorative (score: 0.3407319486141205)"
-        ],
-        "line # 116": [
-            "red -> List of Pok\u00e9mon Adventures characters (score: 0.11444605141878128)",
-            "kimono -> Kimono (score: 0.3903881311416626)",
-            "protagonist -> Protagonist (score: 0.1976843774318695)"
-        ],
-        "line # 117": [
-            "novel -> Novel (score: 0.15318626165390015)",
-            "author -> Author (score: 0.13166803121566772)",
-            "murder -> Murder (score: 0.10324230790138245)",
-            "Cassetti -> Marco Cassetti (score: 0.1111111119389534)",
-            "revealed -> Revelation (score: 0.10331670939922333)",
-            "revenge -> Revenge (score: 0.15607291460037231)",
-            "murder -> Murder (score: 0.15357519686222076)",
-            "Daisy -> Daisy (2006 film) (score: 0.11230182647705078)"
-        ],
-        "line # 118": [
-            "Armstrong -> Lance Armstrong (score: 0.12840281426906586)",
-            "name -> Names of God in Judaism (score: 0.11252022534608841)",
-            "creator -> God (score: 0.1322658509016037)",
-            "detectives -> Detective fiction (score: 0.18509621918201447)",
-            "Miss Marple -> Miss Marple (TV series) (score: 0.7930781841278076)",
-            "Hercule Poirot -> Hercule Poirot (score: 0.5)",
-            "who -> The Who (score: 0.12410452216863632)"
-        ],
-        "line # 119": [
-            "Murder on the Orient Express -> Murder on the Orient Express (1974 film) (score: 0.5)"
-        ],
-        "line # 120": [
-            "Mary -> Mary Shelley (score: 0.24442589282989502)",
-            "Clarissa -> Clarissa (score: 0.2188049554824829)",
-            "Christie -> Agatha Christie (score: 0.20309320092201233)",
-            "Mary -> Mary Shelley (score: 0.24442589282989502)",
-            "Clarissa -> Clarissa (score: 0.21659055352210999)",
-            "Miller -> Arthur Miller (score: 0.1910001039505005)",
-            "British Literature -> British literature (score: 0.3297879695892334)"
-        ],
-        "line # 121": [
-            "high-intensity -> High-intensity discharge lamp (score: 0.18026623129844666)",
-            "signal -> Military communications (score: 0.1726413369178772)",
-            "electromagnetic spectrum -> Electromagnetic spectrum (score: 0.5120914578437805)",
-            "Wow -> Wow! signal (score: 0.1795930564403534)"
-        ],
-        "line # 122": [
-            "extraterrestrial life -> Astrobiology (score: 0.6351823806762695)",
-            "Faraday -> Michael Faraday (score: 0.16540727019309998)"
-        ],
-        "line # 123": [
-            "region -> Blu-ray (score: 0.11153317242860794)",
-            "EM spectrum -> Electromagnetic spectrum (score: 0.49830710887908936)",
-            "Neutral hydrogen -> Hydrogen line (score: 0.15568862855434418)",
-            "interstellar medium -> Interstellar medium (score: 0.47380951046943665)"
-        ],
-        "line # 124": [
-            "21-centimeter line -> Hydrogen line (score: 0.4561060965061188)",
-            "frequency -> Utility frequency (score: 0.299958735704422)",
-            "frequency range -> Bandwidth (signal processing) (score: 0.22250114381313324)",
-            "technique -> Technology (score: 0.1592990607023239)",
-            "aperture -> Aperture (score: 0.3472234606742859)"
-        ],
-        "line # 125": [
-            "very-long-baseline interferometry -> Very-long-baseline interferometry (score: 0.3926756680011749)",
-            "interferometry -> Interferometry (score: 0.562543511390686)",
-            "antennae -> Antenna (radio) (score: 0.4268915057182312)",
-            "very large array -> Karl G. Jansky Very Large Array (score: 0.8499131798744202)",
-            "Arecibo -> Arecibo Observatory (score: 0.5773418545722961)"
-        ],
-        "line # 126": [
-            "Observatory -> Observatory (score: 0.14570501446723938)",
-            "detect -> Sensor (score: 0.11830811947584152)",
-            "waves -> Wave (score: 0.19910477101802826)",
-            "points -> Point (geometry) (score: 0.14812293648719788)",
-            "electromagnetic spectrum -> Electromagnetic spectrum (score: 0.5120914578437805)",
-            "long -> Longitude (score: 0.17891937494277954)"
-        ],
-        "line # 127": [
-            "wavelengths -> Wavelength (score: 0.1966038942337036)",
-            "earth -> Earth (score: 0.17088110744953156)",
-            "transmit -> Transmitter (score: 0.18519331514835358)",
-            "pop music -> Popular music (score: 0.1611192524433136)"
-        ],
-        "line # 128": [
-            "radio waves -> Radio wave (score: 0.466058611869812)",
-            "radio spectrum -> Radio frequency (score: 0.20822280645370483)",
-            "prompt -> Command-line interface (score: 0.1132354885339737)",
-            "microwaves -> Microwave (score: 0.13458144664764404)"
-        ],
-        "line # 129": [
-            "book -> Book (score: 0.11211979389190674)",
-            "Magic -> Magic (paranormal) (score: 0.15635967254638672)",
-            "Mystery -> Mystery fiction (score: 0.22465091943740845)",
-            "region -> DVD region code (score: 0.12622705101966858)",
-            "written -> Screenplay (score: 0.15500128269195557)",
-            "Alexandra David-Neel -> Alexandra David-N\u00e9el (score: 0.5)"
-        ],
-        "line # 130": [
-            "foreigners -> Vikings (score: 0.10816783457994461)",
-            "Theosophists -> Theosophy (score: 0.3198275864124298)",
-            "Heinrich Himmler -> Heinrich Himmler (score: 0.7021849155426025)",
-            "trips -> TRIPS Agreement (score: 0.1129763275384903)",
-            "region -> Djibouti (score: 0.13421094417572021)"
-        ],
-        "line # 131": [
-            "mythical -> Mythology (score: 0.13364067673683167)",
-            "land -> Earth (score: 0.11958827078342438)",
-            "Shambhala -> Shambhala (score: 0.39689159393310547)",
-            "Francis Younghusband -> Francis Younghusband (score: 0.7698432207107544)",
-            "expedition -> Exploration (score: 0.12002824246883392)"
-        ],
-        "line # 132": [
-            "Kailash -> Mount Kailash (score: 0.24826955795288086)",
-            "Mount Meru -> Mount Meru (score: 0.5)",
-            "scriptures -> Hindu texts (score: 0.23854495584964752)",
-            "Sutlej -> Sutlej (score: 0.6218574047088623)",
-            "Brahmaputra -> Brahmaputra River (score: 0.5831247568130493)"
-        ],
-        "line # 133": [
-            "folk religion -> Folk religion (score: 0.5898855328559875)",
-            "Bon -> Bon (score: 0.35560983419418335)",
-            "region -> Autonomous regions of China (score: 0.24989107251167297)"
-        ],
-        "line # 134": [
-            "Dharamshala -> Dharamsala (score: 0.4207475185394287)",
-            "region -> Autonomous regions of China (score: 0.18692396581172943)",
-            "Lhasa -> Lhasa (score: 0.7212912440299988)",
-            "Dalai Lama -> Dalai Lama (score: 0.745398759841919)"
-        ],
-        "line # 135": [
-            "Tibet Autonomous Region -> Tibet Autonomous Region (score: 0.5)",
-            "Autonomous Region -> Tibet Autonomous Region (score: 0.14793364703655243)",
-            "Bod -> Bod\u00f8 (score: 0.36873042583465576)",
-            "Xizang -> Tibet Autonomous Region (score: 0.39223170280456543)"
-        ],
-        "line # 136": [
-            "commutator -> Commutator (score: 0.5856724977493286)",
-            "components -> Euclidean vector (score: 0.3106103539466858)",
-            "quantity -> Quantity (score: 0.18461410701274872)",
-            "operator -> Operator (mathematics) (score: 0.20557168126106262)"
-        ],
-        "line # 137": [
-            "positive or negative -> Sign (mathematics) (score: 0.2543027997016907)",
-            "negative -> Electric charge (score: 0.32112351059913635)",
-            "h-bar -> Planck constant (score: 0.426422119140625)",
-            "quantization -> Quantization (physics) (score: 0.4881848096847534)",
-            "energy -> Energy (score: 0.3116561770439148)",
-            "Bohr model -> Bohr model (score: 0.781833291053772)",
-            "quantization -> Quantization (physics) (score: 0.5290877223014832)"
-        ],
-        "line # 138": [
-            "value -> Angular momentum operator (score: 0.2401759773492813)",
-            "quantity -> Physical quantity (score: 0.3088403344154358)",
-            "azimuthal quantum number -> Azimuthal quantum number (score: 0.8080686926841736)"
-        ],
-        "line # 139": [
-            "theorem -> Theorem (score: 0.26114600896835327)",
-            "rotational symmetry -> Rotational symmetry (score: 0.4789752960205078)",
-            "conservation law -> Conservation law (score: 0.3162790834903717)",
-            "quantity -> Physical quantity (score: 0.17398178577423096)",
-            "type -> Type\u2013token distinction (score: 0.14660823345184326)"
-        ],
-        "line # 140": [
-            "derivative -> Derivative (score: 0.25145649909973145)",
-            "respect -> Dependent and independent variables (score: 0.24605657160282135)",
-            "time -> Time (score: 0.2802692949771881)",
-            "torque -> Torque (score: 0.3897445797920227)",
-            "points -> Point (geometry) (score: 0.16615064442157745)",
-            "name -> Name (score: 0.1359405517578125)",
-            "quantity -> Quantity (score: 0.2727879583835602)",
-            "symbolized -> List of logic symbols (score: 0.23285557329654694)"
-        ],
-        "line # 141": [
-            "product -> Product (mathematics) (score: 0.2751980721950531)",
-            "moment of inertia -> Moment of inertia (score: 0.929912805557251)",
-            "angular velocity -> Angular velocity (score: 0.2850467264652252)"
-        ],
-        "line # 142": [
-            "angular momentum -> Angular momentum (score: 0.3353535234928131)",
-            "prompt -> Command-line interface (score: 0.1123337522149086)",
-            "linear -> Linearity (score: 0.44391030073165894)",
-            "linear momentum -> Momentum (score: 0.3412018418312073)"
-        ],
-        "line # 143": [
-            "Physics -> Physics (score: 0.10984925925731659)"
-        ],
-        "line # 144": [
-            "claims -> Insurance (score: 0.11435002833604813)"
-        ],
-        "line # 145": [
-            "beekeeping -> Beekeeping (score: 0.22311653196811676)"
-        ],
-        "line # 146": [
-            "vowels -> Lao alphabet (score: 0.12530985474586487)",
-            "author -> Author (score: 0.10779597610235214)",
-            "art -> Art (score: 0.14115221798419952)",
-            "poem -> Poetry (score: 0.14871597290039062)"
-        ],
-        "line # 147": [
-            "ash -> Fraxinus (score: 0.15199938416481018)",
-            "red hair -> Red hair (score: 0.2687458097934723)",
-            "eat -> Cannibalism (score: 0.20221514999866486)",
-            "men -> Man (score: 0.19314759969711304)",
-            "author -> Author (score: 0.10223273932933807)",
-            "poem -> Poetry (score: 0.16929595172405243)"
-        ],
-        "line # 148": [
-            "a man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)",
-            "man in black -> Man in Black (Lost) (score: 0.1948424130678177)"
-        ],
-        "line # 149": [
-            "American -> American poetry (score: 0.17517666518688202)",
-            "poet -> Poet (score: 0.24984639883041382)",
-            "Lady Lazarus -> Lady Lazarus (score: 0.8804358243942261)",
-            "Daddy -> Daddy (poem) (score: 0.5008295774459839)",
-            "Bell Jar -> The Bell Jar (score: 0.5)"
-        ],
-        "line # 150": [
-            "Sylvia Plath -> Sylvia Plath (score: 0.5)",
-            "American Literature -> American literature (score: 0.16014760732650757)"
-        ],
-        "line # 151": [
-            "empire -> Empire (film magazine) (score: 0.1965218484401703)",
-            "Promaucae -> Promaucae people (score: 0.5)",
-            "savage -> Barbarian (score: 0.12764492630958557)"
-        ],
-        "line # 152": [
-            "Maule River -> Maule River (score: 0.5)",
-            "Garcilaso de la Vega -> Garcilaso de la Vega (poet) (score: 0.35757574439048767)"
-        ],
-        "line # 153": [
-            "cavalry -> Cavalry (score: 0.2579852044582367)",
-            "bolas -> Bolas (score: 0.20830287039279938)",
-            "friar -> Friar (score: 0.22792905569076538)",
-            "Bible -> Bible (score: 0.20974907279014587)"
-        ],
-        "line # 154": [
-            "empire -> Spanish Empire (score: 0.19440807402133942)",
-            "who -> World Health Organization (score: 0.10595197975635529)",
-            "Cajamarca -> Cajamarca (score: 0.43946272134780884)"
-        ],
-        "line # 155": [
-            "empire -> Roman Empire (score: 0.13618698716163635)",
-            "ruler -> Ajaw (score: 0.10077167302370071)",
-            "Atahualpa -> Atahualpa (score: 0.5018534064292908)",
-            "gold -> Gold (score: 0.12800374627113342)",
-            "silver -> Silver (score: 0.2824605107307434)",
-            "points -> Point (geometry) (score: 0.12496670335531235)",
-            "name -> Names of God in Judaism (score: 0.15446682274341583)",
-            "empire -> Roman Empire (score: 0.17292414605617523)"
-        ],
-        "line # 156": [
-            "conquered -> Spanish conquest of the Inca Empire (score: 0.35431793332099915)",
-            "Francisco Pizarro -> Francisco Pizarro (score: 0.8475102186203003)",
-            "Peru -> Peru (score: 0.633836567401886)"
-        ],
-        "line # 157": [
-            "Incan Empire -> Inca Empire (score: 0.24626865983009338)",
-            "Tawantinsuyu -> Inca Empire (score: 0.4500407576560974)",
-            "KK -> Imperial and Royal (score: 0.10201509296894073)"
-        ],
-        "line # 158": [],
-        "line # 159": [
-            "Blizzard -> Blizzard Entertainment (score: 0.13211199641227722)",
-            "dangerous woman -> Dangerous Woman (album) (score: 0.3305084705352783)",
-            "America -> Americas (score: 0.1349169909954071)",
-            "organize -> Trade union (score: 0.12296069413423538)"
-        ],
-        "line # 160": [
-            "strikes -> Strike action (score: 0.14819245040416718)",
-            "points -> Railroad switch (score: 0.14127440750598907)"
-        ],
-        "line # 161": [
-            "Name -> Brand (score: 0.11047925055027008)",
-            "community organizer -> Community organizing (score: 0.2568163275718689)",
-            "who -> World Health Organization (score: 0.1854582577943802)",
-            "child labor -> Child labour (score: 0.381039559841156)",
-            "protest -> Demonstration (protest) (score: 0.36757200956344604)",
-            "March -> Demonstration (protest) (score: 0.31348007917404175)",
-            "Mill -> Factory (score: 0.17428547143936157)",
-            "Children -> Child labour (score: 0.22326992452144623)"
-        ],
-        "line # 162": [
-            "progressive -> Progressivism in the United States (score: 0.10902541875839233)"
-        ],
-        "line # 163": [
-            "Mother Jones -> Mary Harris Jones (score: 0.8891786336898804)",
-            "Mary Harris Jones -> Mary Harris Jones (score: 0.5)"
-        ],
-        "line # 164": [
-            "Mother Jones -> Mary Harris Jones (score: 0.5003151297569275)",
-            "major -> Major (score: 0.16688844561576843)",
-            "union -> Union (American Civil War) (score: 0.16804125905036926)",
-            "opposition -> Opposition Party (United States) (score: 0.10052864253520966)"
-        ],
-        "line # 165": [
-            "discriminatory -> Discrimination (score: 0.2038092166185379)",
-            "policies -> Insurance policy (score: 0.21039508283138275)",
-            "unskilled laborers -> Laborer (score: 0.27335020899772644)",
-            "members -> Unrepresented Nations and Peoples Organization (score: 0.11051132529973984)",
-            "Wobblies -> Industrial Workers of the World (score: 0.25534260272979736)"
-        ],
-        "line # 166": [
-            "ANSWER -> A.N.S.W.E.R. (score: 0.25369948148727417)",
-            "IWW -> Industrial Workers of the World (score: 0.5053456425666809)",
-            "Industrial Workers of the World -> Industrial Workers of the World (score: 0.5)"
-        ],
-        "line # 167": [
-            "Mother Jones -> Mother Jones (magazine) (score: 0.389178603887558)",
-            "Virden Massacre -> Battle of Virden (score: 0.5)",
-            "strike -> Strike action (score: 0.1627182513475418)",
-            "workers -> Working class (score: 0.24543620645999908)"
-        ],
-        "line # 168": [
-            "extracted -> Liquid\u2013liquid extraction (score: 0.1493198573589325)",
-            "coal -> Coal (score: 0.24791505932807922)",
-            "precious metals -> Precious metal (score: 0.2377302646636963)",
-            "ground -> Mill (grinding) (score: 0.33984583616256714)"
-        ],
-        "line # 169": [
-            "American -> Americans (score: 0.1583227962255478)",
-            "American History -> History of the United States (score: 0.18672077357769012)"
-        ],
-        "line # 170": [
-            "American -> American poetry (score: 0.16466762125492096)",
-            "women writers -> Women's writing (literary category) (score: 0.12511995434761047)",
-            "who -> World Health Organization (score: 0.1330583244562149)",
-            "other women -> Mothers of the Plaza de Mayo (score: 0.17330984771251678)",
-            "women -> Women's rights (score: 0.14005130529403687)"
-        ],
-        "line # 171": [
-            "once -> Once (film) (score: 0.10438496619462967)",
-            "singer -> Singing (score: 0.12605935335159302)",
-            "Tracy Chapman -> Tracy Chapman (score: 0.5)",
-            "Celie -> Pieter Celie (score: 0.5)",
-            "Shug Avery -> The Color Purple (score: 0.30629608035087585)"
-        ],
-        "line # 172": [
-            "Color Purple -> The Color Purple (film) (score: 0.5)"
-        ],
-        "line # 173": [
-            "Alice Walker -> Alice Walker (score: 0.5)"
-        ],
-        "line # 174": [
-            "Russell -> Bertrand Russell (score: 0.12267691642045975)",
-            "Amy Lowell -> Amy Lowell (score: 0.453987717628479)"
-        ],
-        "line # 175": [
-            "Ezra Pound -> Ezra Pound (score: 0.5930131673812866)",
-            "who -> The Who (score: 0.12006271630525589)",
-            "abandoned -> Urban decay (score: 0.1716262400150299)",
-            "movement -> Art movement (score: 0.24970103800296783)",
-            "Vorticism -> Vorticism (score: 0.6751431226730347)"
-        ],
-        "line # 176": [
-            "ANSWER -> Fugue (score: 0.2195393294095993)",
-            "Imagism -> Imagism (score: 0.7586354613304138)",
-            "Imagist -> Imagism (score: 0.7148774266242981)"
-        ],
-        "line # 177": [
-            "Lota de Macedo Soares -> Lota de Macedo Soares (score: 0.5)",
-            "art of losing -> The Art of Losing (score: 0.5)"
-        ],
-        "line # 178": [
-            "villanelle -> Villanelle (score: 0.28773584961891174)"
-        ],
-        "line # 179": [
-            "Elizabeth Bishop -> Elizabeth Bishop (score: 0.49339208006858826)",
-            "American Literature -> American literature (score: 0.16014760732650757)"
-        ],
-        "line # 180": [
-            "compound -> Chemical compound (score: 0.12895092368125916)",
-            "introduced -> Invasive species (score: 0.10651721060276031)",
-            "quantities -> Quantity (score: 0.1473345011472702)",
-            "nickel -> Nickel (score: 0.22088482975959778)"
-        ],
-        "line # 181": [
-            "famine -> Great Famine (Ireland) (score: 0.21076403558254242)",
-            "points -> Points of the compass (score: 0.13732855021953583)"
-        ],
-        "line # 182": [
-            "Name -> Nomenclature (score: 0.15042687952518463)",
-            "compound -> Chemical compound (score: 0.18177348375320435)",
-            "cyanobacteria -> Cyanobacteria (score: 0.5)",
-            "namesake -> Passport (score: 0.13134707510471344)",
-            "event -> Convention (meeting) (score: 0.12404047697782516)",
-            "Siderian -> Siderian (score: 0.5838741660118103)"
-        ],
-        "line # 183": [
-            "methanogens -> Methanogen (score: 0.2083333283662796)",
-            "mass extinction -> Extinction event (score: 0.24710983037948608)"
-        ],
-        "line # 184": [
-            "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
-            "Great Oxygenation Event -> Great Oxygenation Event (score: 0.5)"
-        ],
-        "line # 185": [
-            "Great Oxygenation Event -> Great Oxygenation Event (score: 0.5)"
-        ],
-        "line # 186": [
-            "Huron -> Lake Huron (score: 0.17503610253334045)",
-            "long -> Longitude (score: 0.1870265007019043)",
-            "periods -> Orbital period (score: 0.11616707593202591)",
-            "temperatures -> Temperature (score: 0.20694014430046082)",
-            "interglacials -> Interglacial (score: 0.14739364385604858)"
-        ],
-        "line # 187": [
-            "ice age -> Ice age (score: 0.2866753339767456)"
-        ],
-        "line # 188": [
-            "Methanogens -> Methanogen (score: 0.5655679702758789)",
-            "Great Oxygenation event -> Great Oxygenation Event (score: 0.5)",
-            "obligate -> Obligate anaerobe (score: 0.18179668486118317)",
-            "type -> Type (biology) (score: 0.13408614695072174)"
-        ],
-        "line # 189": [
-            "organisms -> Organism (score: 0.3055671453475952)",
-            "metabolism -> Metabolism (score: 0.42553389072418213)",
-            "oxygen -> Oxygen (score: 0.43481960892677307)"
-        ],
-        "line # 190": [
-            "obligate -> Obligate anaerobe (score: 0.1914069503545761)",
-            "anaerobes -> Anaerobic organism (score: 0.27511921525001526)",
-            "CS -> Caesium (score: 0.11572979390621185)",
-            "Science -> Science (journal) (score: 0.15016774833202362)"
-        ],
-        "line # 191": [
-            "crowned -> Coronation (score: 0.1820545196533203)",
-            "English -> Kingdom of England (score: 0.237568199634552)"
-        ],
-        "line # 192": [
-            "Name -> Toponymy (score: 0.12798970937728882)",
-            "Henry I -> Henry the Fowler (score: 0.38040781021118164)",
-            "Stephen of Blois -> Stephen, King of England (score: 0.5)"
-        ],
-        "line # 193": [
-            "Lincoln -> Lincoln, England (score: 0.1349535882472992)",
-            "Rout of Winchester -> Rout of Winchester (score: 0.5)"
-        ],
-        "line # 194": [
-            "Empress Matilda -> Empress Matilda (score: 1.0)",
-            "Matilda of England -> Empress Matilda (score: 0.5)",
-            "Empress Maude -> Empress Matilda (score: 0.25)"
-        ],
-        "line # 195": [
-            "word -> Logos (score: 0.30882230401039124)",
-            "names -> Names of God in Judaism (score: 0.30300408601760864)",
-            "succession crisis -> Succession crisis (Latter Day Saints) (score: 0.28122371435165405)",
-            "death -> Death (personification) (score: 0.1185249611735344)",
-            "Henry I -> Henry I of England (score: 0.5274280905723572)",
-            "Matilda -> Empress Matilda (score: 0.2793653607368469)"
-        ],
-        "line # 196": [
-            "son -> God the Son (score: 0.20159663259983063)",
-            "ascension -> Ascension of Jesus (score: 0.2613949775695801)",
-            "throne -> Throne (score: 0.23368000984191895)",
-            "word -> Logos (Christianity) (score: 0.19527184963226318)",
-            "government -> Government (score: 0.13215447962284088)"
-        ],
-        "line # 197": [
-            "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
-            "accept -> Accept (band) (score: 0.1519223153591156)"
-        ],
-        "line # 198": [
-            "incident -> Incidence (epidemiology) (score: 0.22589819133281708)",
-            "killed -> Death (score: 0.1790652573108673)",
-            "prospective -> Prospective cohort study (score: 0.21685566008090973)",
-            "heir -> Heir presumptive (score: 0.11539552360773087)",
-            "William Adelin -> William Adelin (score: 0.7499494552612305)"
-        ],
-        "line # 199": [
-            "Anarchy -> Anarchism (score: 0.17668098211288452)",
-            "Flowers -> Flower (score: 0.13669250905513763)",
-            "red -> Red (score: 0.18066294491291046)",
-            "color -> Color (score: 0.1246766746044159)",
-            "War of the Roses -> Wars of the Roses (score: 0.6583721041679382)"
-        ],
-        "line # 200": [
-            "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
-            "White Ship -> White Ship (score: 0.5)"
-        ],
-        "line # 201": [
-            "A man -> Military Intelligence Directorate (Israel) (score: 0.383431613445282)",
-            "title -> Nobility (score: 0.11734332144260406)",
-            "Lahore Fort -> Lahore Fort (score: 0.5)",
-            "Adi Granth -> Guru Granth Sahib (score: 0.5)"
-        ],
-        "line # 202": [
-            "Arjan Dev -> Guru Arjan (score: 0.15239860117435455)",
-            "Dev -> Deva (Hinduism) (score: 0.1691819578409195)"
-        ],
-        "line # 203": [],
-        "line # 204": [
-            "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
-            "guru -> Guru (score: 0.2170359194278717)",
-            "accept -> Accept (band) (score: 0.10253690928220749)",
-            "acharya -> Acharya (score: 0.22963790595531464)"
-        ],
-        "line # 205": [
-            "religion -> Religion (score: 0.24066968262195587)",
-            "Guru Nanak -> Guru Nanak (score: 0.7320647239685059)",
-            "gurus -> Sikh gurus (score: 0.452019065618515)",
-            "Gobind Singh -> Guru Gobind Singh (score: 0.4555308222770691)",
-            "Singh -> Bhai Mani Singh (score: 0.4055781662464142)",
-            "holy -> Sacred (score: 0.21046796441078186)",
-            "Guru -> Sikh gurus (score: 0.31082308292388916)"
-        ],
-        "line # 206": [
-            "Granth Sahib -> Guru Granth Sahib (score: 0.210173100233078)",
-            "Sahib -> Sahib (score: 0.23151418566703796)",
-            "female -> Woman (score: 0.1740717589855194)"
-        ],
-        "line # 207": [
-            "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
-            "Sikhism -> Sikhism (score: 0.5050750374794006)",
-            "accept -> Accept (band) (score: 0.10253690928220749)",
-            "Gurmat -> Gurmat (score: 0.2849137485027313)"
-        ],
-        "line # 208": [
-            "Guru Gobind Singh -> Guru Gobind Singh (score: 0.4840708076953888)",
-            "Singh -> Guru Gobind Singh (score: 0.3677443861961365)",
-            "Sikhs -> Sikh (score: 0.4311472475528717)",
-            "one -> Neoplatonism (score: 0.14528939127922058)"
-        ],
-        "line # 209": [
-            "male -> Male (score: 0.22995470464229584)",
-            "male or female -> Gender of connectors and fasteners (score: 0.12692466378211975)",
-            "female -> Female (score: 0.21494567394256592)",
-            "lion -> Lion (score: 0.15276168286800385)",
-            "crown prince -> Crown prince (score: 0.12657949328422546)"
-        ],
-        "line # 210": [],
-        "line # 211": [
-            "Singh -> Manmohan Singh (score: 0.12526512145996094)",
-            "Kaur -> Kaur (score: 0.154205784201622)",
-            "Religion and Mythology -> World (score: 0.20258593559265137)"
-        ],
-        "line # 212": [
-            "cities -> Polis (score: 0.2905082702636719)",
-            "Magna Graecia -> Magna Graecia (score: 0.6139841079711914)",
-            "general -> General officer (score: 0.10968304425477982)",
-            "victory -> Nike (mythology) (score: 0.1757739782333374)",
-            "Heraclea -> Heraclea Lucania (score: 0.3910497725009918)"
-        ],
-        "line # 213": [],
-        "line # 214": [
-            "Name -> Roman naming conventions (score: 0.12476406246423721)",
-            "general -> General officer (score: 0.10523964464664459)",
-            "Rome -> Ancient Rome (score: 0.35212987661361694)"
-        ],
-        "line # 215": [
-            "Romans -> Ancient Rome (score: 0.2380303591489792)",
-            "ruined -> Ruins (score: 0.1370357871055603)"
-        ],
-        "line # 216": [
-            "Pyrrhus -> Pyrrhus of Epirus (score: 0.3958219885826111)",
-            "Epirus -> Epirus (score: 0.6545331478118896)"
-        ],
-        "line # 217": [
-            "Pyrrhus -> Pyrrhus of Epirus (score: 0.4009566605091095)",
-            "invasion -> Roman conquest of Britain (score: 0.2068082094192505)",
-            "siege -> Siege (score: 0.17981325089931488)",
-            "militaristic -> Militarism (score: 0.1755189597606659)",
-            "Greek -> Ancient Greek (score: 0.3593790829181671)",
-            "Greek city-state -> Polis (score: 0.37974387407302856)",
-            "city-state -> Polis (score: 0.507727861404419)",
-            "Arachidamia -> Arachidamia (score: 0.7593944072723389)"
-        ],
-        "line # 218": [
-            "organize -> Trade union (score: 0.1445551961660385)",
-            "women -> Women's rights (score: 0.13149866461753845)",
-            "city-state -> Polis (score: 0.21065372228622437)",
-            "main -> Main (river) (score: 0.14652220904827118)",
-            "army -> Corps (score: 0.1341215819120407)",
-            "Crete -> Crete (score: 0.4861924350261688)"
-        ],
-        "line # 219": [
-            "Sparta -> Sparta (score: 0.5697841048240662)",
-            "Lacedaemon -> Sparta (score: 0.75)"
-        ],
-        "line # 220": [
-            "female -> Woman (score: 0.11104857921600342)",
-            "Sparta -> Sparta (score: 0.3657418191432953)",
-            "who -> World Health Organization (score: 0.11943798512220383)",
-            "her husband -> Martin Luther King, Jr. (score: 0.12484442442655563)",
-            "Leonidas I -> Leonidas I (score: 0.5)"
-        ],
-        "line # 221": [
-            "decode -> Decode (song) (score: 0.12729521095752716)",
-            "warning -> Warning (Green Day album) (score: 0.11245725303888321)",
-            "Xerxes -> Xerxes I (score: 0.30679723620414734)",
-            "invasion -> Invasion (score: 0.13862213492393494)",
-            "clearing -> Deforestation (score: 0.1314571052789688)",
-            "wax -> Wax (score: 0.21468639373779297)",
-            "tablet -> Tablet (pharmacy) (score: 0.12956352531909943)"
-        ],
-        "line # 222": [
-            "Gorgo -> Gorgon (score: 0.29472053050994873)",
-            "Ancient -> Ancient history (score: 0.1793329268693924)",
-            "British -> British people (score: 0.18355074524879456)",
-            "British History -> History of the British Isles (score: 0.2648375332355499)"
-        ],
-        "line # 223": [
-            "Manhattan Project -> Manhattan Project (score: 0.5)",
-            "scientist -> Science (score: 0.1017947793006897)",
-            "ethnicity -> Ethnic group (score: 0.19690066576004028)",
-            "reasoned -> Reason (score: 0.15263177454471588)",
-            "xenon -> Xenon (score: 0.2563222646713257)"
-        ],
-        "line # 224": [
-            "plutonium -> Plutonium (score: 0.49852246046066284)",
-            "B Reactor -> B Reactor (score: 0.6010867357254028)"
-        ],
-        "line # 225": [
-            "Name -> Names of God in Judaism (score: 0.1623753309249878)",
-            "ethnicity -> Ethnic group (score: 0.17423950135707855)",
-            "physicist -> Physicist (score: 0.18585292994976044)"
-        ],
-        "line # 226": [
-            "Nobel Prize in Physics -> Nobel Prize in Physics (score: 0.5)",
-            "conducted -> Conducting (score: 0.12328047305345535)"
-        ],
-        "line # 227": [],
-        "line # 228": [
-            "Chien-Shiung Wu -> Chien-Shiung Wu (score: 0.5938372611999512)",
-            "experiment -> Experiment (score: 0.1369955837726593)",
-            "weak interaction -> Weak interaction (score: 0.5)"
-        ],
-        "line # 229": [
-            "property -> Property (philosophy) (score: 0.15336264669895172)",
-            "states -> Quantum state (score: 0.31880056858062744)",
-            "coordinates -> Coordinate system (score: 0.3112388849258423)",
-            "wavefunction -> Wave function (score: 0.4950800836086273)",
-            "symmetric -> Symmetry (score: 0.2415620982646942)",
-            "symmetries -> Symmetry (score: 0.3156849443912506)"
-        ],
-        "line # 230": [],
-        "line # 231": [
-            "parity conservation -> Parity (physics) (score: 0.14705882966518402)",
-            "CP symmetry -> CP violation (score: 0.5)",
-            "CPT symmetry -> CPT symmetry (score: 0.5)"
-        ],
-        "line # 232": [
-            "Wu experiment -> Wu experiment (score: 0.5)",
-            "measured -> Measurement (score: 0.14758294820785522)",
-            "observing -> Observation (score: 0.177212655544281)",
-            "direction -> Euclidean vector (score: 0.2861800491809845)",
-            "electrons -> Electron (score: 0.3195892870426178)"
-        ],
-        "line # 233": [
-            "phenomenon -> Phenomenon (score: 0.15292035043239594)",
-            "cobalt-60 -> Cobalt-60 (score: 0.5900417566299438)",
-            "atoms -> Atom (score: 0.20119787752628326)",
-            "phenomenon -> Phenomenon (score: 0.10564138740301132)",
-            "atomic mass constant -> Atomic mass constant (score: 0.5)"
-        ],
-        "line # 234": [
-            "number -> Number (score: 0.3834041357040405)",
-            "one -> 1 (number) (score: 0.3834250569343567)"
-        ],
-        "line # 235": [
-            "KK -> Kappa Kappa Psi (score: 0.10839433968067169)",
-            "Physics -> Physics (score: 0.17097264528274536)"
-        ],
-        "line # 236": [
-            "fossil -> Fossil (score: 0.15443523228168488)"
-        ],
-        "line # 237": [
-            "Big -> Toronto (score: 0.18559159338474274)",
-            "points -> Point (ice hockey) (score: 0.18883289396762848)"
-        ],
-        "line # 238": [
-            "artist -> Musician (score: 0.1264619082212448)",
-            "Honeysuckle Rose -> Honeysuckle Rose (song) (score: 0.5)",
-            "all my love -> All My Love (TV series) (score: 0.13649025559425354)",
-            "Ain -> Ain (score: 0.11898016929626465)"
-        ],
-        "line # 239": [],
-        "line # 240": [
-            "Fats Waller -> Fats Waller (score: 0.5)",
-            "Thomas Wright -> Thomas Wright (antiquarian) (score: 0.23021583259105682)"
-        ],
-        "line # 241": [
-            "Fats Waller -> Fats Waller (score: 0.5886131525039673)",
-            "instrument -> String instrument (score: 0.17874033749103546)",
-            "Art Tatum -> Art Tatum (score: 0.5)",
-            "arrangements -> Arrangement (score: 0.1767585426568985)",
-            "Tea for Two -> Tea for Two (song) (score: 0.5483763217926025)"
-        ],
-        "line # 242": [
-            "Tiger Rag -> Tiger Rag (score: 0.4369369447231293)",
-            "standard -> Jazz standard (score: 0.152390718460083)",
-            "rhythm section -> Rhythm section (score: 0.3840540051460266)",
-            "bass -> Bassline (score: 0.3907622694969177)",
-            "drummer -> Drum kit (score: 0.26656025648117065)"
-        ],
-        "line # 243": [
-            "ANSWER -> Call and response (music) (score: 0.12107179313898087)",
-            "piano -> Piano (score: 0.38752979040145874)",
-            "pianoforte -> Piano (score: 0.31364545226097107)",
-            "keyboard -> Keyboard instrument (score: 0.31073811650276184)"
-        ],
-        "line # 244": [
-            "Honeysuckle Rose -> Honeysuckle Rose (song) (score: 0.8909628391265869)",
-            "Ain't Misbehavin -> Ain't Misbehavin' (song) (score: 0.6932753324508667)",
-            "recorded -> Recording (score: 0.11201395094394684)",
-            "bands -> Musical ensemble (score: 0.142549067735672)"
-        ],
-        "line # 245": [
-            "term -> Terminology (score: 0.24641500413417816)",
-            "adjective -> Adjective (score: 0.3553083539009094)",
-            "word -> Word (score: 0.29112789034843445)",
-            "comes -> Etymology (score: 0.23622915148735046)",
-            "repertoire -> Character encoding (score: 0.19773612916469574)"
-        ],
-        "line # 246": [
-            "canon -> Canon (music) (score: 0.2893083393573761)",
-            "classical music -> Classical music (score: 0.3122827708721161)"
-        ],
-        "line # 247": [
-            "ANSWER -> Call and response (music) (score: 0.1658458113670349)",
-            "jazz -> Jazz (score: 0.3487003743648529)",
-            "jazz standards -> Jazz standard (score: 0.3187808394432068)",
-            "repertoire -> Character encoding (score: 0.16524462401866913)",
-            "CS -> Computer science (score: 0.19682924449443817)",
-            "Fine Arts -> Fine art (score: 0.23235540091991425)"
-        ],
-        "line # 248": [
-            "Ellen Swallow Richards -> Ellen Swallow Richards (score: 0.5)"
-        ],
-        "line # 249": [
-            "Richards -> Amy Richards (score: 0.12784050405025482)",
-            "first woman -> Women in the Israel Defense Forces (score: 0.11551830172538757)",
-            "woman -> Woman (score: 0.16293196380138397)",
-            "admitted -> Graduation (score: 0.11926350742578506)",
-            "institution -> Institution (score: 0.18431706726551056)",
-            "female -> Woman (score: 0.14098109304904938)",
-            "Robert Woodward -> Robert Burns Woodward (score: 0.21055470407009125)"
-        ],
-        "line # 250": [
-            "Gilbert Lewis -> Gilbert Lewis (actor) (score: 0.4285714328289032)",
-            "time -> Time (magazine) (score: 0.1192585676908493)",
-            "Cambridge -> University of Cambridge (score: 0.21644774079322815)",
-            "Harvard University -> Harvard University (score: 0.6076211333274841)"
-        ],
-        "line # 251": [
-            "ANSWER -> Phrases from The Hitchhiker's Guide to the Galaxy (score: 0.1411551982164383)",
-            "Massachusetts Institute of Technology -> Massachusetts Institute of Technology (score: 0.6370850205421448)"
-        ],
-        "line # 252": [
-            "Richards -> I. A. Richards (score: 0.16244719922542572)",
-            "thesis -> Thesis (score: 0.17385302484035492)",
-            "Vassar -> Vassar College (score: 0.15434964001178741)",
-            "element -> Chemical element (score: 0.15534797310829163)",
-            "iron ore -> Iron ore (score: 0.38109350204467773)",
-            "element -> Chemical element (score: 0.16753923892974854)"
-        ],
-        "line # 253": [
-            "catalyst -> Catalysis (score: 0.33288320899009705)",
-            "contact process -> Contact process (score: 0.730597198009491)",
-            "synthesizing -> Chemical synthesis (score: 0.2768077254295349)",
-            "sulfuric acid -> Sulfuric acid (score: 0.7360434532165527)"
-        ],
-        "line # 254": [
-            "vanadium -> Vanadium (score: 0.5313123464584351)",
-            "vanadium oxide -> Vanadium(V) oxide (score: 0.24625268578529358)",
-            "oxide -> Oxide (score: 0.2470582127571106)"
-        ],
-        "line # 255": [
-            "samples -> Sampling (signal processing) (score: 0.14766496419906616)",
-            "map -> Map (score: 0.17380179464817047)",
-            "led -> Light-emitting diode (score: 0.12901346385478973)",
-            "Massachusetts -> Massachusetts (score: 0.2146894335746765)"
-        ],
-        "line # 256": [
-            "process -> Systems engineering (score: 0.18942517042160034)",
-            "chlorination -> Water chlorination (score: 0.25911056995391846)",
-            "Common -> Common land (score: 0.10145050287246704)",
-            "technologies -> Technology (score: 0.20030392706394196)"
-        ],
-        "line # 257": [
-            "capacitive deionization -> Capacitive deionization (score: 0.8228636980056763)",
-            "reverse osmosis -> Reverse osmosis (score: 0.7638086080551147)"
-        ],
-        "line # 258": [
-            "water purification -> Water purification (score: 0.5558347702026367)",
-            "sewage treatment -> Sewage treatment (score: 0.17849384248256683)"
-        ],
-        "line # 259": [
-            "descriptive -> Positivism (score: 0.13146519660949707)",
-            "CS -> Computer science (score: 0.17990198731422424)",
-            "Chemistry -> Chemistry (score: 0.2600225806236267)"
-        ],
-        "line # 260": [
-            "actions -> Lawsuit (score: 0.13562199473381042)",
-            "Chikamatsu Monzaemon -> Chikamatsu Monzaemon (score: 0.5)",
-            "play -> Play (theatre) (score: 0.2642977237701416)",
-            "set -> Setting (narrative) (score: 0.17287969589233398)"
-        ],
-        "line # 261": [
-            "Ryunosuke Akutagawa -> Ry\u016bnosuke Akutagawa (score: 0.7867391109466553)",
-            "Note to a Certain Old Friend -> A Note to a Certain Old Friend (score: 0.5)",
-            "Friend -> Quakers (score: 0.14795584976673126)"
-        ],
-        "line # 262": [],
-        "line # 263": [],
-        "line # 264": [
-            "Chikamatsu -> Chikamatsu Monzaemon (score: 0.5007789731025696)",
-            "Love Suicides at Sonezaki -> The Love Suicides at Sonezaki (score: 0.5)",
-            "bunraku -> Bunraku (score: 0.75)",
-            "bunraku play -> Bunraku (score: 0.3928571343421936)",
-            "actors -> Acting (score: 0.14578764140605927)"
-        ],
-        "line # 265": [
-            "Carlo Collodi -> Carlo Collodi (score: 0.6446130871772766)",
-            "Pinocchio -> Pinocchio (1940 film) (score: 0.4742669463157654)",
-            "real -> Real versus nominal value (economics) (score: 0.1184418648481369)"
-        ],
-        "line # 266": [
-            "puppets -> Puppet (score: 0.17908135056495667)",
-            "dolls -> Doll (score: 0.1521487534046173)",
-            "marionettes -> Marionette (score: 0.2469097375869751)"
-        ],
-        "line # 267": [
-            "author -> Author (score: 0.121515192091465)",
-            "suicide -> Suicide (score: 0.12462630867958069)",
-            "failed coup -> 1991 Soviet coup d'\u00e9tat attempt (score: 0.10757440328598022)",
-            "Japanese -> Empire of Japan (score: 0.2702648639678955)",
-            "Japanese government -> Government of Japan (score: 0.3058560788631439)",
-            "Mizoguchi -> Kenji Mizoguchi (score: 0.1917843371629715)",
-            "sets -> Scenic design (score: 0.1058882549405098)",
-            "fire -> Conflagration (score: 0.1880873292684555)"
-        ],
-        "line # 268": [
-            "novel -> Novel (score: 0.17484964430332184)",
-            "Temple of the Golden Pavilion -> The Temple of the Golden Pavilion (score: 0.6781398057937622)"
-        ],
-        "line # 269": [
-            "Yukio Mishima -> Yukio Mishima (score: 0.5)",
-            "World Literature -> World literature (score: 0.15564224123954773)"
-        ],
-        "line # 270": [
-            "seventh symphony -> Symphony No. 7 (Beethoven) (score: 0.260869562625885)",
-            "one -> One (U2 song) (score: 0.1399921327829361)",
-            "composer -> Composer (score: 0.16866832971572876)",
-            "Angel -> Angel (score: 0.1564297080039978)",
-            "Angel of Light -> Lucifer (score: 0.31532272696495056)"
-        ],
-        "line # 271": [],
-        "line # 272": [
-            "Name -> Place names in Ireland (score: 0.27599796652793884)",
-            "Einojuhani Rautavaara -> Einojuhani Rautavaara (score: 0.5)",
-            "composer -> Composer (score: 0.2679138481616974)"
-        ],
-        "line # 273": [
-            "C major -> C major (score: 0.37348461151123047)",
-            "major seventh -> Major seventh (score: 0.3885698616504669)",
-            "seventh symphony -> Symphony No. 7 (Beethoven) (score: 0.260869562625885)"
-        ],
-        "line # 274": [
-            "Jarvenpaa -> J\u00e4rvenp\u00e4\u00e4 (score: 0.37050360441207886)"
-        ],
-        "line # 275": [
-            "Finland -> Finland (score: 0.5642577409744263)",
-            "Suomi -> Finland (score: 0.29925161600112915)"
-        ],
-        "line # 276": [
-            "composer -> Composer (score: 0.17566627264022827)",
-            "Finnish national anthem -> Maamme (score: 0.28125)",
-            "nationalistic -> Musical nationalism (score: 0.3984632194042206)",
-            "tone poem -> Symphonic poem (score: 0.5974246859550476)",
-            "Finlandia -> Finlandia (score: 0.4356866776943207)"
-        ],
-        "line # 277": [
-            "protest -> Protest (score: 0.26133835315704346)",
-            "pieces -> Musical composition (score: 0.1727256327867508)",
-            "Kalevala -> Kalevala (score: 0.6051888465881348)"
-        ],
-        "line # 278": [
-            "ANSWER -> Fugue (score: 0.2737135887145996)",
-            "Jean Sibelius -> Jean Sibelius (score: 0.7696434259414673)"
-        ],
-        "line # 279": [
-            "Sibelius -> Jean Sibelius (score: 0.31436365842819214)",
-            "concerto -> Concerto (score: 0.3308742642402649)",
-            "D minor -> D minor (score: 0.23599013686180115)",
-            "instrument -> Musical instrument (score: 0.1695900857448578)",
-            "polonaise -> Polonaise (score: 0.2066636085510254)"
-        ],
-        "line # 280": [
-            "string instrument -> String instrument (score: 0.45393863320350647)",
-            "standard -> Standard (music) (score: 0.10962758958339691)",
-            "orchestra -> Orchestra (score: 0.20057785511016846)"
-        ],
-        "line # 281": [
-            "ANSWER -> Call and response (music) (score: 0.11309996992349625)",
-            "violin -> Violin (score: 0.41408681869506836)",
-            "fiddle -> Violin (score: 0.40669363737106323)",
-            "CS -> Computer science (score: 0.11700443923473358)",
-            "Fine Arts -> Fine art (score: 0.23235540091991425)",
-            "Auditory -> Hearing (score: 0.19064481556415558)"
-        ],
-        "line # 282": [
-            "about about -> About URI scheme (score: 0.5)",
-            "rock -> Rock music (score: 0.1497000753879547)",
-            "bands -> Musical ensemble (score: 0.12619543075561523)"
-        ],
-        "line # 283": [
-            "This woman -> This Woman (LeAnn Rimes album) (score: 0.1163877546787262)",
-            "backed -> A-side and B-side (score: 0.12520311772823334)",
-            "Blackhearts -> Joan Jett (score: 0.11571327596902847)",
-            "iconic -> Pop icon (score: 0.1299343705177307)",
-            "song -> Song (score: 0.15143491327762604)",
-            "I Love Rock 'n Roll -> I Love Rock 'n' Roll (score: 0.5)",
-            "bright red -> Bright Red (score: 0.10345610976219177)",
-            "red -> Red (King Crimson album) (score: 0.10640642791986465)"
-        ],
-        "line # 284": [
-            "jumpsuit -> Jumpsuit (score: 0.10626185685396194)"
-        ],
-        "line # 285": [
-            "ANSWER -> The Answer (band) (score: 0.2686266601085663)",
-            "Joan Jett -> Joan Jett (score: 0.7448520660400391)"
-        ],
-        "line # 286": [
-            "Nancy Wilson -> Nancy Wilson (jazz singer) (score: 0.5)",
-            "hits -> Hit single (score: 0.11519631743431091)",
-            "Barracuda -> Barracuda (song) (score: 0.1645631045103073)"
-        ],
-        "line # 287": [],
-        "line # 288": [
-            "ANSWER -> The Answer (band) (score: 0.25825583934783936)",
-            "Heart -> Heart (band) (score: 0.2661709189414978)"
-        ],
-        "line # 289": [
-            "Cranberries -> The Cranberries (score: 0.6297951340675354)",
-            "fronted -> Lead vocalist (score: 0.14633233845233917)",
-            "Dolores O'Riordan -> Dolores O'Riordan (score: 0.5)",
-            "rock -> Rock music (score: 0.5467120409011841)",
-            "rock band -> Rock music (score: 0.5224964618682861)",
-            "country -> Country music (score: 0.2594606578350067)",
-            "home -> Home (Michael Bubl\u00e9 song) (score: 0.11527438461780548)"
-        ],
-        "line # 290": [
-            "Sinead O'Connor -> Sin\u00e9ad O'Connor (score: 0.5)",
-            "Connor -> Sin\u00e9ad O'Connor (score: 0.35878023505210876)",
-            "U2 -> U2 (score: 0.7606738805770874)",
-            "Ed Sheeran -> Ed Sheeran (score: 0.7836745381355286)"
-        ],
-        "line # 291": [
-            "ANSWER -> The Answer (band) (score: 0.1182640939950943)",
-            "Republic of Ireland -> Republic of Ireland (score: 0.8571715354919434)",
-            "Eire -> Republic of Ireland (score: 0.34818941354751587)"
-        ],
-        "line # 292": [
-            "Isengrim -> Reynard (score: 0.1825646013021469)"
-        ],
-        "line # 293": [
-            "urine -> Urine (score: 0.17805641889572144)"
-        ],
-        "line # 294": [
-            "Reynard -> Reynard (score: 0.3069160580635071)",
-            "one -> One (U2 song) (score: 0.11556021869182587)",
-            "animals -> The Animals (score: 0.1121826097369194)",
-            "European folklore -> Ghost (score: 0.25764328241348267)",
-            "Bruin -> Brown bear (score: 0.2491907775402069)",
-            "Bear -> Bear (score: 0.15995009243488312)",
-            "Tybalt -> Tybalt (score: 0.1964285671710968)",
-            "the Cat -> T.H.E. Cat (score: 0.5)"
-        ],
-        "line # 295": [
-            "King Noble -> Reynard (score: 0.21805354952812195)",
-            "Lion -> Lion (score: 0.20638929307460785)"
-        ],
-        "line # 296": [
-            "fox -> Fox (score: 0.3866460621356964)",
-            "vulpes -> Vulpes (score: 0.5111034512519836)",
-            "vulpes vulpes -> Red fox (score: 0.42763587832450867)"
-        ],
-        "line # 297": [
-            "Popular -> Popular music (score: 0.10208884626626968)",
-            "middle ages -> Middle Ages (score: 0.29617631435394287)",
-            "real -> Real number (score: 0.12123973667621613)",
-            "imaginary -> Imaginary number (score: 0.13020041584968567)"
-        ],
-        "line # 298": [
-            "description -> Taxonomy (biology) (score: 0.22775033116340637)",
-            "animals -> Animal (score: 0.2369631677865982)"
-        ],
-        "line # 299": [
-            "bestiaries -> Bestiary (score: 0.5446428656578064)",
-            "bestiary -> Bestiary (score: 0.3474903404712677)"
-        ],
-        "line # 300": [
-            "Foxes -> Kitsune (score: 0.1370299607515335)",
-            "appearances -> Phenomenon (score: 0.11926046758890152)",
-            "myths -> Folklore (score: 0.13130801916122437)",
-            "kitsune -> Kitsun\u00e9 (score: 0.4541778862476349)"
-        ],
-        "line # 301": [
-            "form -> Art (score: 0.1574467569589615)",
-            "human -> Human (score: 0.2015097439289093)",
-            "women -> Woman (score: 0.19394689798355103)",
-            "mythical creatures -> Legendary creature (score: 0.22299182415008545)",
-            "kappa -> Kappa (folklore) (score: 0.2144884169101715)"
-        ],
-        "line # 302": [
-            "ANSWER -> Answer (album) (score: 0.1324015110731125)",
-            "Japan -> Japan (score: 0.6412383317947388)",
-            "Nippon-koku -> Japan (score: 0.40205153822898865)",
-            "Nihon-koku -> Japan (score: 0.3068431615829468)",
-            "Religion and Mythology -> World (score: 0.109375)"
-        ],
-        "line # 303": [
-            "maul -> Sledgehammer (score: 0.18363772332668304)"
-        ],
-        "line # 304": [
-            "mock -> Parody (score: 0.1264154464006424)",
-            "points -> Score (game) (score: 0.12733347713947296)"
-        ],
-        "line # 305": [
-            "fruit -> Fruit (score: 0.11364009976387024)",
-            "Come -> Orgasm (score: 0.10035797953605652)"
-        ],
-        "line # 306": [],
-        "line # 307": [
-            "Goblin Market -> Goblin Market (score: 0.25)"
-        ],
-        "line # 308": [
-            "Goblin Market -> Goblin Market (score: 0.25)",
-            "written -> Writer (score: 0.19045397639274597)",
-            "poet -> Poet (score: 0.2651674747467041)",
-            "Pre-Raphaelite Brotherhood -> Pre-Raphaelite Brotherhood (score: 0.6375011205673218)",
-            "who -> The Who (score: 0.18575599789619446)",
-            "can -> Can (band) (score: 0.244594544172287)",
-            "Him -> HIM (Finnish band) (score: 0.2438296228647232)"
-        ],
-        "line # 309": [
-            "am -> 12-hour clock (score: 0.14820824563503265)",
-            "Jesus Christ -> Jesus (score: 0.25735533237457275)",
-            "heart -> Heart (symbol) (score: 0.1335275024175644)",
-            "In the bleak midwinter -> In the Bleak Midwinter (score: 0.4107142984867096)"
-        ],
-        "line # 310": [
-            "ANSWER -> Phrases from The Hitchhiker's Guide to the Galaxy (score: 0.10301840305328369)",
-            "Christina Rossetti -> Christina Rossetti (score: 0.5)",
-            "prompt -> Command-line interface (score: 0.10316261649131775)"
-        ],
-        "line # 311": [
-            "In the bleak midwinter -> In the Bleak Midwinter (score: 0.4107142984867096)",
-            "bleak midwinter -> In the Bleak Midwinter (score: 0.40495866537094116)",
-            "Silent Night -> Silent Night (score: 0.4616163969039917)",
-            "Charles -> Charles Wesley (score: 0.31428268551826477)"
-        ],
-        "line # 312": [
-            "Wesley -> Charles Wesley (score: 0.2866877317428589)",
-            "Wesley's -> John Wesley (score: 0.21402765810489655)",
-            "s \"Hark -> Soft Hard Real-Time Kernel (score: 0.5)",
-            "Hark! The Herald Angels Sing -> Hark! The Herald Angels Sing (score: 0.4943181872367859)"
-        ],
-        "line # 313": [
-            "ANSWER -> Call and response (music) (score: 0.15429110825061798)",
-            "Christmas -> Christmas (score: 0.2764768600463867)",
-            "Christmas carols -> Christmas carol (score: 0.3785530626773834)",
-            "noel -> Christmas (score: 0.21470022201538086)",
-            "Advent -> Advent (score: 0.16544419527053833)",
-            "carols -> Christmas carol (score: 0.17442545294761658)",
-            "Christmas -> Christmas (score: 0.27580979466438293)",
-            "Christmas songs -> Christmas carol (score: 0.19639399647712708)",
-            "hymns -> Hymn (score: 0.18605582416057587)",
-            "British -> British Empire (score: 0.12061336636543274)"
-        ],
-        "line # 314": [],
-        "line # 315": [
-            "glomerulus -> Glomerulus (kidney) (score: 0.18309858441352844)"
-        ],
-        "line # 316": [
-            "nephron -> Nephron (score: 0.6333715319633484)",
-            "artificially -> Chemical synthesis (score: 0.15099933743476868)"
-        ],
-        "line # 317": [
-            "dialysis -> Dialysis (score: 0.4177558422088623)",
-            "dialysis machine -> Dialysis (score: 0.3788018524646759)",
-            "description -> Hair (score: 0.11879722028970718)"
-        ],
-        "line # 318": [
-            "blood -> Blood (score: 0.10037215054035187)",
-            "filtration -> Filtration (score: 0.22037863731384277)",
-            "description -> Hair (score: 0.12957608699798584)",
-            "filtering -> Filtration (score: 0.16707231104373932)",
-            "impurities -> Impurity (score: 0.24289001524448395)",
-            "blood -> Blood (score: 0.2589929699897766)"
-        ],
-        "line # 319": [
-            "nephron -> Nephron (score: 0.9471943974494934)",
-            "glomerular filtrate -> Glomerulus (kidney) (score: 0.17391304671764374)",
-            "substance -> Chemical compound (score: 0.12333361059427261)",
-            "supersaturation -> Supersaturation (score: 0.5411492586135864)",
-            "causes -> Paralysis (score: 0.1924183964729309)"
-        ],
-        "line # 320": [
-            "kidney stones -> Kidney stone (score: 0.16103602945804596)",
-            "substance -> Substance theory (score: 0.13603302836418152)",
-            "ureter -> Ureter (score: 0.5)",
-            "bladder -> Urinary bladder (score: 0.2177731692790985)"
-        ],
-        "line # 321": [
-            "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
-            "urine -> Urine (score: 0.2802618443965912)",
-            "pee -> Urine (score: 0.2776426076889038)",
-            "tubular fluid -> Tubular fluid (score: 0.2142857164144516)"
-        ],
-        "line # 322": [
-            "ureter -> Ureter (score: 0.5)",
-            "smooth muscle -> Smooth muscle tissue (score: 0.22233299911022186)",
-            "muscle -> Muscle (score: 0.17047807574272156)"
-        ],
-        "line # 323": [
-            "esophagus -> Esophagus (score: 0.6511451005935669)",
-            "vas deferens -> Vas deferens (score: 0.7179086208343506)",
-            "assure -> French ship Assur\u00e9 (1667) (score: 0.1666666716337204)",
-            "sperm -> Spermatozoon (score: 0.11105331778526306)"
-        ],
-        "line # 324": [],
-        "line # 325": [
-            "peristalsis -> Peristalsis (score: 0.5548657774925232)",
-            "CS -> Computer science (score: 0.13757748901844025)",
-            "Biology -> Biology (score: 0.26218003034591675)"
-        ],
-        "line # 326": [
-            "Ching Shih -> Ching Shih (score: 0.8973897695541382)",
-            "pirate -> Piracy (score: 0.38338953256607056)",
-            "sail -> Sail (score: 0.1271827220916748)"
-        ],
-        "line # 327": [
-            "Ching Shih -> Ching Shih (score: 0.5)"
-        ],
-        "line # 328": [
-            "country -> Nation state (score: 0.19469745457172394)",
-            "Qing dynasty -> Qing dynasty (score: 0.6580818295478821)",
-            "Ching Shih -> Ching Shih (score: 0.5)",
-            "amnesty -> Amnesty (score: 0.11290439963340759)",
-            "defeat -> Battle of France (score: 0.14497429132461548)",
-            "battle -> Battle (score: 0.17962265014648438)"
-        ],
-        "line # 329": [
-            "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
-            "China -> China (score: 0.37211132049560547)",
-            "Zhongguo -> China (score: 0.26662972569465637)",
-            "People's Republic of China -> China (score: 0.3605557680130005)"
-        ],
-        "line # 330": [
-            "One -> 1 (number) (score: 0.20404919981956482)",
-            "factors -> Divisor (score: 0.18108400702476501)",
-            "Ching Shih -> Ching Shih (score: 0.5)",
-            "country -> Nation state (score: 0.12196328490972519)",
-            "Battle -> Battle of Hastings (score: 0.17111869156360626)"
-        ],
-        "line # 331": [
-            "Tiger -> Tiger (score: 0.19396138191223145)",
-            "Mouth -> River delta (score: 0.12694409489631653)",
-            "Macau -> Macau (score: 0.48384732007980347)"
-        ],
-        "line # 332": [
-            "Portugal -> Portugal (score: 0.32722485065460205)"
-        ],
-        "line # 333": [
-            "Qing China -> Qing dynasty (score: 0.3004385828971863)",
-            "warships -> Warship (score: 0.18618957698345184)",
-            "fight -> Combat (score: 0.12731850147247314)"
-        ],
-        "line # 334": [
-            "Ching Shih -> Ching Shih (score: 0.5)",
-            "types -> Roll-on/roll-off (score: 0.31334245204925537)",
-            "ships -> Ship (score: 0.32284510135650635)",
-            "ship -> Ship (score: 0.27819132804870605)",
-            "type -> Movable type (score: 0.1665068417787552)",
-            "fired -> Kiln (score: 0.11441310495138168)",
-            "Dogger Bank Incident -> Dogger Bank incident (score: 0.5)"
-        ],
-        "line # 335": [
-            "fishing -> Recreational fishing (score: 0.27489063143730164)",
-            "fishing vessels -> Fishing vessel (score: 0.23803260922431946)",
-            "fishing -> Recreational fishing (score: 0.27489063143730164)",
-            "fishing boats -> Fishing vessel (score: 0.23873740434646606)"
-        ],
-        "line # 336": [
-            "painted -> Painting (score: 0.12497730553150177)",
-            "Elisabeth Louise Vigee-Lebrun -> Louise \u00c9lisabeth Vig\u00e9e Le Brun (score: 0.5)"
-        ],
-        "line # 337": [],
-        "line # 338": [
-            "subject -> Citizenship (score: 0.1647384911775589)",
-            "Lebrun -> Charles-Fran\u00e7ois Lebrun, duc de Plaisance (score: 0.14655348658561707)",
-            "France -> France national rugby league team (score: 0.2270311713218689)",
-            "Let them eat cake -> Let them eat cake (score: 0.47727271914482117)"
-        ],
-        "line # 339": [
-            "Marie Antoinette -> Marie Antoinette (score: 0.9847383499145508)"
-        ],
-        "line # 340": [
-            "partial answers -> Partial Answers (score: 0.125)"
-        ],
-        "line # 341": [
-            "Vigee-Lebrun -> Louise \u00c9lisabeth Vig\u00e9e Le Brun (score: 0.25958162546157837)",
-            "Self-Portrait -> Self-portrait (score: 0.2309013307094574)",
-            "Flemish -> Flanders (score: 0.15432514250278473)",
-            "Portrait of Susanna Lunden -> Portrait of Susanna Lunden (score: 0.5)"
-        ],
-        "line # 342": [
-            "adjectival -> Adjective (score: 0.3938297629356384)",
-            "adjectival form -> Adjective (score: 0.38777101039886475)",
-            "name -> Name (score: 0.13839811086654663)",
-            "voluptuous -> Female body shape (score: 0.16256365180015564)",
-            "nudes -> Nude (art) (score: 0.2647411525249481)",
-            "painted -> Body painting (score: 0.23355035483837128)"
-        ],
-        "line # 343": [
-            "ANSWER -> Fugue (score: 0.12410415709018707)",
-            "Peter Paul Rubens -> Peter Paul Rubens (score: 0.5)",
-            "Rubens -> Paul Rubens (composer) (score: 0.1472446471452713)",
-            "Rubenesque -> Peter Paul Rubens (score: 0.2847496569156647)"
-        ],
-        "line # 344": [
-            "Le Brun -> Charles Le Brun (score: 0.28414633870124817)",
-            "Brun -> Charles Le Brun (score: 0.26480773091316223)",
-            "painting -> Painting (score: 0.16451357305049896)",
-            "Sibyl -> Sibyl (score: 0.19656001031398773)",
-            "art -> Art (score: 0.11691723763942719)"
-        ],
-        "line # 345": [
-            "Royal Academy -> Royal Academy of Arts (score: 0.30804088711738586)",
-            "Charles Le Brun -> Charles Le Brun (score: 0.5)",
-            "Brun -> Charles Le Brun (score: 0.22092494368553162)",
-            "painting -> Painting (score: 0.15231573581695557)",
-            "Alexander -> Alexander the Great (score: 0.28238749504089355)",
-            "Babylon -> Babylon (score: 0.33698129653930664)",
-            "genre -> Genre (score: 0.16073057055473328)"
-        ],
-        "line # 346": [
-            "ANSWER: history -> Answer to History (score: 0.5)",
-            "history paintings -> History painting (score: 0.5067567825317383)",
-            "Visual -> Visual arts (score: 0.32206860184669495)"
-        ],
-        "line # 347": [
-            "economist -> Economist (score: 0.4061223268508911)",
-            "Nobel -> Nobel Prize in Physics (score: 0.2845124304294586)",
-            "Gunnar Myrdal -> Gunnar Myrdal (score: 0.5)",
-            "reactionaries -> Reactionary (score: 0.10256410390138626)"
-        ],
-        "line # 348": [],
-        "line # 349": [
-            "Austrian economist -> Austrian School (score: 0.2323794662952423)",
-            "economist -> The Economist (score: 0.3404406011104584)",
-            "consequence -> Logical consequence (score: 0.13509084284305573)",
-            "central planning -> Economic planning (score: 0.3643348813056946)"
-        ],
-        "line # 350": [
-            "Road to Serfdom -> The Road to Serfdom (score: 0.5)"
-        ],
-        "line # 351": [
-            "Friedrich Hayek -> Friedrich Hayek (score: 0.5)"
-        ],
-        "line # 352": [
-            "Asian -> Asian people (score: 0.2074526846408844)",
-            "60s -> 1960s (score: 0.12585753202438354)",
-            "rise -> Sea level rise (score: 0.13256783783435822)"
-        ],
-        "line # 353": [
-            "Amy Chua -> Amy Chua (score: 0.5)",
-            "Asian -> Asian people (score: 0.27222105860710144)",
-            "mother -> Mother (score: 0.1091313436627388)",
-            "nicknamed -> Nickname (score: 0.17232881486415863)",
-            "big cat -> Curtis Hughes (score: 0.5118961334228516)"
-        ],
-        "line # 354": [],
-        "line # 355": [
-            "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
-            "Four Asian Tigers -> Four Asian Tigers (score: 0.5)",
-            "Asian Tigers -> Four Asian Tigers (score: 0.1339285671710968)",
-            "accept -> Accept (band) (score: 0.13391757011413574)",
-            "Four Asian Dragons -> Four Asian Tigers (score: 0.5)"
-        ],
-        "line # 356": [
-            "Little Dragons -> The Little Dragons (score: 0.5)"
-        ],
-        "line # 357": [
-            "Myrdal -> Gunnar Myrdal (score: 0.10983677208423615)",
-            "coined -> Neologism (score: 0.12462896853685379)",
-            "portmanteau -> Portmanteau (score: 0.6147158741950989)",
-            "negative -> Deflation (score: 0.14841753244400024)",
-            "trends -> Market trend (score: 0.20870542526245117)"
-        ],
-        "line # 358": [
-            "Phillips curve -> Phillips curve (score: 0.5899460911750793)",
-            "Abenomics -> Abenomics (score: 0.5353409051895142)",
-            "Japan -> Japan (score: 0.32706543803215027)"
-        ],
-        "line # 359": [
-            "attack -> Attack on Pearl Harbor (score: 0.13425284624099731)",
-            "deflation -> Deflation (score: 0.3290005922317505)"
-        ],
-        "line # 360": [
-            "stagflation -> Stagflation (score: 0.5083926320075989)",
-            "CS -> Computer science (score: 0.21487700939178467)",
-            "Philosophy -> Philosophy (score: 0.26583611965179443)",
-            "Social Science -> Social science (score: 0.3712804913520813)"
-        ],
-        "line # 361": [
-            "Pope Francis -> Pope Francis (score: 0.5)",
-            "endorsed -> Political endorsement (score: 0.20042741298675537)",
-            "Donald Trump -> Donald Trump (score: 0.6996238231658936)",
-            "president -> President of the United States (score: 0.16598042845726013)",
-            "popular -> Popular music (score: 0.11088382452726364)"
-        ],
-        "line # 362": [
-            "news -> NeWS (score: 0.28043290972709656)",
-            "points -> Point (typography) (score: 0.27853286266326904)"
-        ],
-        "line # 363": [
-            "Facebook -> Facebook (score: 0.31880253553390503)",
-            "2016 election -> United States presidential election, 2016 (score: 0.2288135588169098)",
-            "Trump -> Donald Trump (score: 0.23551887273788452)"
-        ],
-        "line # 364": [
-            "CNN -> CNN (score: 0.5095771551132202)",
-            "news -> News (score: 0.10633336007595062)"
-        ],
-        "line # 365": [],
-        "line # 366": [
-            "Trump -> Donald Trump (score: 0.23228609561920166)",
-            "black -> African Americans (score: 0.18050166964530945)",
-            "CNN -> CNN (score: 0.5089039206504822)",
-            "anchor -> News presenter (score: 0.17057740688323975)",
-            "television -> Television (score: 0.16039474308490753)"
-        ],
-        "line # 367": [
-            "marijuana -> Cannabis (drug) (score: 0.3940373361110687)",
-            "Ferguson riots -> Ferguson unrest (score: 0.25)"
-        ],
-        "line # 368": [
-            "Don Lemon -> Don Lemon (score: 0.5)"
-        ],
-        "line # 369": [
-            "fake news -> News satire (score: 0.22405144572257996)",
-            "media platform -> Multimedia framework (score: 0.12341398000717163)",
-            "platform -> Java (software platform) (score: 0.12442952394485474)",
-            "Infowars -> Alex Jones (radio host) (score: 0.2046269178390503)"
-        ],
-        "line # 370": [
-            "Facebook -> Facebook (score: 0.43742606043815613)",
-            "YouTube -> YouTube (score: 0.48237740993499756)",
-            "podcasts -> Podcast (score: 0.1792561262845993)",
-            "Apple -> Apple Inc. (score: 0.2342430055141449)",
-            "hate speech -> Hate speech (score: 0.38472262024879456)"
-        ],
-        "line # 371": [
-            "ANSWER -> Answer (comics) (score: 0.10439018160104752)",
-            "Alex -> Havok (comics) (score: 0.10790158808231354)",
-            "Emric -> Jasmin Emri\u0107 (score: 0.5)",
-            "Jones -> Jones Radio Networks (score: 0.20021121203899384)",
-            "CC -> IHeartMedia (score: 0.18662050366401672)",
-            "Current Events -> News (score: 0.24364298582077026)"
-        ],
-        "line # 372": [
-            "play -> Play (theatre) (score: 0.1433114856481552)",
-            "crime -> Crime fiction (score: 0.15847954154014587)",
-            "Christine Papin -> Christine and L\u00e9a Papin (score: 0.3333333432674408)"
-        ],
-        "line # 373": [],
-        "line # 374": [
-            "Name -> Surname (score: 0.11120618879795074)",
-            "Jean Genet -> Jean Genet (score: 0.7070655822753906)",
-            "play -> Play (theatre) (score: 0.17198364436626434)",
-            "role-play -> Sexual roleplay (score: 0.13426625728607178)"
-        ],
-        "line # 375": [
-            "Madame -> Procuring (prostitution) (score: 0.11333440244197845)",
-            "murder -> Murder (score: 0.22135895490646362)"
-        ],
-        "line # 376": [
-            "Maids -> The Maids (score: 0.27821317315101624)",
-            "Les Bonnes -> The Maids (score: 0.30319148302078247)"
-        ],
-        "line # 377": [
-            "Genet -> Jean Genet (score: 0.26091450452804565)",
-            "Romanian -> Romanian literature (score: 0.2515169680118561)",
-            "playwright -> Playwright (score: 0.28124332427978516)",
-            "Theater of the Absurd -> Theatre of the Absurd (score: 0.5290409326553345)",
-            "one -> Neoplatonism (score: 0.2004484385251999)"
-        ],
-        "line # 378": [
-            "rhinoceros -> Rhinoceros (score: 0.3188355565071106)"
-        ],
-        "line # 379": [
-            "ANSWER -> Fugue (score: 0.17300979793071747)",
-            "Eugene Ionesco -> Eug\u00e8ne Ionesco (score: 0.6689395904541016)"
-        ],
-        "line # 380": [
-            "always -> Always (Bon Jovi song) (score: 0.22316423058509827)",
-            "hair -> Hair (musical) (score: 0.24145907163619995)",
-            "Smiths -> The Smiths (score: 0.2949582040309906)"
-        ],
-        "line # 381": [
-            "play -> Play (activity) (score: 0.18646280467510223)"
-        ],
-        "line # 382": [
-            "ANSWER -> Answer song (score: 0.11896111071109772)",
-            "bald soprano -> The Bald Soprano (score: 0.5)",
-            "prima -> Louis Prima (score: 0.12305646389722824)"
-        ]
-    }
+    "entities": [
+        "Chapelle Rouge -> Chapelle Rouge (score: 0.5)",
+        "reconstructed -> Reconstruction (architecture) (score: 0.11763129383325577)",
+        "open-air -> Open-air museum (score: 0.11399129778146744)",
+        "order of succession -> Order of succession (score: 0.17010308802127838)",
+        "ruler -> Monarch (score: 0.27496272325515747)",
+        "same name -> Magadheera (score: 0.11620166152715683)",
+        "regent -> Regent (score: 0.23298105597496033)",
+        "Thutmose III -> Thutmose III (score: 0.7060778141021729)",
+        "Hyksos -> Hyksos (score: 0.5497677326202393)",
+        "invasion -> Invasion (TV series) (score: 0.10791907459497452)",
+        "land of Punt -> Land of Punt (score: 0.5)",
+        "ruler -> Monarch (score: 0.11041117459535599)",
+        "image -> Image (score: 0.15903425216674805)",
+        "name -> Name (score: 0.10607398301362991)",
+        "female -> Female (score: 0.10806851089000702)",
+        "pharaoh -> Pharaoh (score: 0.4291823208332062)",
+        "Egypt -> Ancient Egypt (score: 0.5797362923622131)",
+        "Hatshepsut -> Hatshepsut (score: 0.6666666865348816)",
+        "Hatchepsut -> Hatshepsut (score: 0.48818397521972656)",
+        "Ancient -> Ancient history (score: 0.17984096705913544)",
+        "British -> British people (score: 0.18355074524879456)",
+        "British History -> History of the British Isles (score: 0.2648375332355499)",
+        "Isis Unveiled -> Isis Unveiled (score: 0.8776700496673584)",
+        "Helena Blavatsky -> Helena Blavatsky (score: 0.5)",
+        "theory -> Theory (score: 0.20365506410598755)",
+        "Darwinian evolution -> Darwinism (score: 0.32976198196411133)",
+        "Vyasa -> Vyasa (score: 0.36133748292922974)",
+        "demon -> Demon (score: 0.12646883726119995)",
+        "thighs -> Poultry (score: 0.11554357409477234)",
+        "on the threshold -> On the Threshold (score: 0.1732456237077713)",
+        "threshold -> On the Threshold (score: 0.18904083967208862)",
+        "Satya Yuga -> Satya Yuga (score: 0.5)",
+        "will -> Free will (score: 0.14602164924144745)",
+        "one -> One-party state (score: 0.1306016892194748)",
+        "figures -> Effigy (score: 0.1213197261095047)",
+        "besieged -> Siege (score: 0.15340329706668854)",
+        "Buddha -> Gautama Buddha (score: 0.4179537892341614)",
+        "Kalki -> Kalki (score: 0.46490049362182617)",
+        "charioteer -> Ratha (score: 0.23355336487293243)",
+        "Arjuna -> Arjuna (score: 0.5294972062110901)",
+        "Gita -> Bhagavad Gita (score: 0.24252091348171234)",
+        "Rama -> Rama (score: 0.3936484754085541)",
+        "Krishna -> Krishna (score: 0.3927243649959564)",
+        "incarnations -> Avatar (score: 0.23452049493789673)",
+        "deity -> Hindu deities (score: 0.30033808946609497)",
+        "avatars -> Avatar (score: 0.2766572833061218)",
+        "Vishnu -> Vishnu (score: 0.7683010697364807)",
+        "avatars -> Avatar (score: 0.3365369439125061)",
+        "Krishna -> Krishna (score: 0.41356292366981506)",
+        "Dashavatara -> Dashavatara (score: 0.6184724569320679)",
+        "Religion -> Religion (score: 0.14120879769325256)",
+        "piano -> Piano (score: 0.18198935687541962)",
+        "death -> Death (score: 0.1473536640405655)",
+        "central -> Central nervous system (score: 0.13209792971611023)",
+        "characters -> Phenotypic trait (score: 0.2322772592306137)",
+        "a man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)",
+        "who -> World Health Organization (score: 0.20743224024772644)",
+        "shoots himself -> Suicide (score: 0.14527331292629242)",
+        "manuscript -> Manuscript (score: 0.11350870132446289)",
+        "protagonist -> Protagonist (score: 0.1885274201631546)",
+        "baby -> Infant (score: 0.11684180796146393)",
+        "Eilert Lovborg -> Hedda Gabler (score: 0.24682432413101196)",
+        "play -> Play (activity) (score: 0.10411127656698227)",
+        "wife -> Wife (score: 0.2158423215150833)",
+        "suicide -> Suicide (score: 0.23925665020942688)",
+        "pistol -> Pistol (score: 0.21645832061767578)",
+        "Henrik Ibsen -> Henrik Ibsen (score: 0.5)",
+        "Hedda Gabler -> Hedda Gabler (score: 0.5945689678192139)",
+        "artist -> Painting (score: 0.13440771400928497)",
+        "pose -> List of human positions (score: 0.10341175645589828)",
+        "Michelangelo -> Michelangelo (score: 0.5849289894104004)",
+        "Isaiah -> Isaiah (score: 0.26289108395576477)",
+        "paint -> Paint (score: 0.11171169579029083)",
+        "Mein Kampf -> Mein Kampf (score: 0.5)",
+        "sandwich -> Sandwich (2006 film) (score: 0.1466117799282074)",
+        "murder -> Murder (score: 0.17301791906356812)",
+        "black -> Black people (score: 0.23306415975093842)",
+        "black men -> African Americans (score: 0.21941980719566345)",
+        "Southern Justice -> The Godwinns (score: 0.1515151560306549)",
+        "series -> Television program (score: 0.11184711754322052)",
+        "Look magazine -> Look (American magazine) (score: 0.2216981202363968)",
+        "tomato -> Tomato (score: 0.2719824016094208)",
+        "KKK -> Ku Klux Klan (score: 0.2814304828643799)",
+        "racial slur -> Nigger (score: 0.3228282332420349)",
+        "slur -> Pejorative (score: 0.29753565788269043)",
+        "Problem We All Live With -> The Problem We All Live With (score: 0.5)",
+        "Ruby Bridges -> Ruby Bridges (score: 0.5)",
+        "dissenter -> Dissenting opinion (score: 0.17892976105213165)",
+        "standing -> Standing army (score: 0.11405093967914581)",
+        "town meeting -> Town meeting (score: 0.32895615696907043)",
+        "turkey -> Turkey (score: 0.3570716679096222)",
+        "on the table -> Table (parliamentary procedure) (score: 0.2543242871761322)",
+        "table -> Table (parliamentary procedure) (score: 0.25630202889442444)",
+        "Thanksgiving -> Thanksgiving (score: 0.15379546582698822)",
+        "who -> The Who (score: 0.1399766504764557)",
+        "Four Freedoms -> Four Freedoms (score: 0.3733905553817749)",
+        "Rosie the Riveter -> Rosie the Riveter (score: 0.4597315490245819)",
+        "illustrator -> Illustrator (score: 0.23996853828430176)",
+        "Saturday Evening Post -> The Saturday Evening Post (score: 0.4933774769306183)",
+        "Norman -> Norman language (score: 0.1447489857673645)",
+        "Perceval -> Perceval, the Story of the Grail (score: 0.15656226873397827)",
+        "Rockwell -> Norman Rockwell (score: 0.11394888162612915)",
+        "Fine Arts -> Fine art (score: 0.23235540091991425)",
+        "Visual -> Visual arts (score: 0.32206860184669495)",
+        "surname -> Surname (score: 0.1093621477484703)",
+        "calorimeter -> Calorimeter (score: 0.367930144071579)",
+        "respiration -> Respiration (physiology) (score: 0.2096547931432724)",
+        "surname -> Surname (score: 0.14816473424434662)",
+        "Elementary Treatise on Chemistry -> Trait\u00e9 \u00c9l\u00e9mentaire de Chimie (score: 0.25)",
+        "Richard Kirwan -> Richard Kirwan (score: 0.5)",
+        "properties -> Chemical property (score: 0.1305639147758484)",
+        "acids -> Acid (score: 0.134378120303154)",
+        "surname -> Surname (score: 0.10727480053901672)",
+        "study -> Research (score: 0.13236555457115173)",
+        "scientific -> Science (score: 0.19844971597194672)",
+        "portrait -> Portrait (score: 0.21531474590301514)",
+        "Jacques-Louis David -> Jacques-Louis David (score: 0.7180261611938477)",
+        "A man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)",
+        "surname -> Surname (score: 0.12910141050815582)",
+        "term -> Time (score: 0.17054373025894165)",
+        "caloric -> Caloric theory (score: 0.3142583966255188)",
+        "heat flow -> Heat transfer (score: 0.38114652037620544)",
+        "analyzed -> Musical analysis (score: 0.15155620872974396)",
+        "changes -> Chord progression (score: 0.15256287157535553)",
+        "combustion -> Combustion (score: 0.2055908441543579)",
+        "Georg Stahl -> Georg Ernst Stahl (score: 0.5831000208854675)",
+        "phlogiston theory -> Phlogiston theory (score: 0.5)",
+        "last name -> Surname (score: 0.11399275064468384)",
+        "husband -> Husband (score: 0.13412915170192719)",
+        "oxygen -> Oxygen (score: 0.2875502109527588)",
+        "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
+        "Lavoisier -> Antoine Lavoisier (score: 0.1381578892469406)",
+        "Antoine Lavoisier -> Antoine Lavoisier (score: 0.5)",
+        "KK -> Kappa Kappa Psi (score: 0.12615099549293518)",
+        "Chemistry -> Chemistry (score: 0.3074648082256317)",
+        "Jeff -> Jeff Jarrett (score: 0.11544809490442276)",
+        "his show -> The Howard Stern Show (score: 0.13072407245635986)",
+        "Jeff -> Jeff Jarrett (score: 0.13101010024547577)",
+        "wheelchair -> Wheelchair (score: 0.10816864669322968)",
+        "You -> With You (Jessica Simpson song) (score: 0.11209645867347717)",
+        "Feel -> Feel (Robbie Williams song) (score: 0.16736015677452087)",
+        "John Pastore -> John O. Pastore (score: 0.5392401814460754)",
+        "hearing -> United States congressional hearing (score: 0.20147846639156342)",
+        "public television -> PBS (score: 0.1667882800102234)",
+        "Clemmons -> Fran\u00e7ois Clemmons (score: 0.5886077284812927)",
+        "Betty Aberlin -> Betty Aberlin (score: 0.5)",
+        "X the owl -> Neighborhood of Make-Believe (score: 1.0)",
+        "Henrietta Pussycat -> Neighborhood of Make-Believe (score: 0.5)",
+        "Tiger -> Tiger (score: 0.3394570052623749)",
+        "trolley -> Tram (score: 0.17306628823280334)",
+        "points -> Railroad switch (score: 0.12625743448734283)",
+        "Mister Rogers -> Fred Rogers (score: 0.5369565486907959)",
+        "Fred Rogers -> Fred Rogers (score: 0.5)",
+        "Popular Culture -> Popular culture (score: 0.14851748943328857)",
+        "Giannina Braschi -> Giannina Braschi (score: 0.5)",
+        "first novel -> Debut novel (score: 0.12824057042598724)",
+        "novel -> Novel (score: 0.20672854781150818)",
+        "hybrid -> Cross-genre (score: 0.10966253280639648)",
+        "English -> English language (score: 0.2290215790271759)",
+        "language -> Language (score: 0.11150310933589935)",
+        "memoir -> Memoir (score: 0.1591479331254959)",
+        "written -> Writing (score: 0.19015446305274963)",
+        "language -> Language (score: 0.10539257526397705)",
+        "a man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)",
+        "man who -> The Man Who (score: 0.19087904691696167)",
+        "who -> The Who (score: 0.24163857102394104)",
+        "miles -> Miles Davis (score: 0.15054841339588165)",
+        "biochemist -> Biochemistry (score: 0.21092456579208374)",
+        "one novel -> One: A Novel (score: 0.1666666716337204)",
+        "language -> Language (score: 0.1465897411108017)",
+        "Motorcycle Diaries -> The Motorcycle Diaries (film) (score: 0.5)",
+        "Water -> Water (score: 0.13814160227775574)",
+        "Chocolate -> Chocolate (score: 0.19517657160758972)",
+        "written -> Writing (score: 0.20627336204051971)",
+        "language -> Language (score: 0.22956065833568573)",
+        "magical realist -> Magic realism (score: 0.5820337533950806)",
+        "realist novel -> Literary realism (score: 0.49198853969573975)",
+        "written -> Writing (score: 0.22104264795780182)",
+        "language -> Language (score: 0.15355364978313446)",
+        "Buendia family -> One Hundred Years of Solitude (score: 0.5)",
+        "Macondo -> Macondo (score: 0.2070707082748413)",
+        "language -> Language (score: 0.23509098589420319)",
+        "write -> Writing (score: 0.2587449550628662)",
+        "Gabriel Garc\u00eda M\u00e1rquez -> Gabriel Garc\u00eda M\u00e1rquez (score: 0.5)",
+        "Spanish -> Spain (score: 0.21636183559894562)",
+        "espa\u00f1ol -> Spanish language (score: 0.11439885944128036)",
+        "rondo -> Rondo (score: 0.3597363531589508)",
+        "composer -> Composer (score: 0.240225151181221)",
+        "ninth -> Symphony No. 9 (Beethoven) (score: 0.19481408596038818)",
+        "piano -> Piano (score: 0.3524671494960785)",
+        "piano concerto -> Piano concerto (score: 0.35262322425842285)",
+        "minuet -> Minuet (score: 0.4203672409057617)",
+        "tempo -> Tempo (score: 0.24353164434432983)",
+        "concerto -> Concerto (score: 0.15186379849910736)",
+        "written -> Writing (score: 0.11266928166151047)",
+        "music -> Music (score: 0.1698942333459854)",
+        "music book -> Sheet music (score: 0.132215216755867)",
+        "written -> Writing (score: 0.18308791518211365)",
+        "Nannerl -> Maria Anna Mozart (score: 0.381381094455719)",
+        "compositions -> Musical composition (score: 0.2501547932624817)",
+        "soprano -> Soprano (score: 0.3430604040622711)",
+        "solo -> Solo (music) (score: 0.2678079307079315)",
+        "sections -> Section (music) (score: 0.1868719607591629)",
+        "Mass in C minor -> Great Mass in C minor, K. 427 (score: 0.4442675709724426)",
+        "C minor -> Piano Concerto No. 24 (Mozart) (score: 0.47549179196357727)",
+        "his wife -> Constanze Mozart (score: 0.197604700922966)",
+        "Constanze Weber -> Constanze Mozart (score: 0.42105263471603394)",
+        "piano -> Piano (score: 0.28890007734298706)",
+        "piano concerto -> Piano concerto (score: 0.2258244752883911)",
+        "K\u00f6chel -> Ludwig Ritter von K\u00f6chel (score: 0.28784269094467163)",
+        "catalogue -> Hoboken-Verzeichnis (score: 0.2377263605594635)",
+        "composer -> Composer (score: 0.14236196875572205)",
+        "Franz -> Franz Lachner (score: 0.1294226199388504)",
+        "Sussmayr -> Franz Xaver S\u00fcssmayr (score: 0.30457526445388794)",
+        "unfinished -> Symphony No. 8 (Schubert) (score: 0.3024384081363678)",
+        "D minor -> D minor (score: 0.3329755663871765)",
+        "Requiem -> Requiem (score: 0.35546115040779114)",
+        "composed -> Musical composition (score: 0.11648698151111603)",
+        "Austrian -> Austrians (score: 0.12437520921230316)",
+        "composer -> Composer (score: 0.22695450484752655)",
+        "prodigy -> The Prodigy (score: 0.19700895249843597)",
+        "ANSWER -> Fugue (score: 0.2789689600467682)",
+        "Wolfgang Amadeus Mozart -> Wolfgang Amadeus Mozart (score: 0.5)",
+        "Mozart -> Wolfgang Amadeus Mozart (score: 0.46628978848457336)",
+        "CS -> Czech language (score: 0.14316880702972412)",
+        "Fine Arts -> Fine art (score: 0.12115179002285004)",
+        "Auditory -> Hearing (score: 0.19064481556415558)",
+        "One member -> First-past-the-post voting (score: 0.15447789430618286)",
+        "phylum -> Phylum (score: 0.30288970470428467)",
+        "features -> Feature detection (nervous system) (score: 0.2393830120563507)",
+        "axon -> Axon (score: 0.6919347047805786)",
+        "Alan Hodgkin -> Alan Lloyd Hodgkin (score: 0.8230088949203491)",
+        "Huxley -> Thomas Henry Huxley (score: 0.2708113491535187)",
+        "understand -> Understanding (score: 0.23984038829803467)",
+        "mechanics -> Mechanics (score: 0.22117125988006592)",
+        "action potentials -> Action potential (score: 0.3161245584487915)",
+        "class -> Class (biology) (score: 0.27852725982666016)",
+        "phylum -> Phylum (score: 0.3824451267719269)",
+        "surfaces -> Surface (score: 0.1670512855052948)",
+        "bundle -> Fiber bundle (score: 0.126058429479599)",
+        "filaments -> Stamen (score: 0.11585231125354767)",
+        "byssus -> Byssus (score: 0.4933304488658905)",
+        "phylum -> Phylum (score: 0.3402087092399597)",
+        "odontophore -> Odontophore (score: 0.5350216627120972)",
+        "phylum -> Phylum (score: 0.34232622385025024)",
+        "mantle -> Mantle (mollusc) (score: 0.27254003286361694)",
+        "secrete -> Secretion (score: 0.1980077177286148)",
+        "conchiolin -> Conchiolin (score: 0.6747599244117737)",
+        "form -> Morphology (biology) (score: 0.15862499177455902)",
+        "shells -> Exoskeleton (score: 0.27119186520576477)",
+        "food -> Food (score: 0.16800294816493988)",
+        "scraper -> Grazing (score: 0.30412644147872925)",
+        "radula -> Radula (score: 0.7270947098731995)",
+        "phylum -> Phylum (score: 0.41775691509246826)",
+        "cephalopods -> Cephalopod (score: 0.32914671301841736)",
+        "invertebrate -> Invertebrate (score: 0.5064281225204468)",
+        "species -> Species (score: 0.20719249546527863)",
+        "name -> Nomenclature (score: 0.11365433782339096)",
+        "phylum -> Phylum (score: 0.402660608291626)",
+        "clams -> Clam (score: 0.2924131751060486)",
+        "snails -> Snail (score: 0.25186461210250854)",
+        "giant squids -> Giant squid (score: 0.3060947358608246)",
+        "Mollusca -> Mollusca (score: 0.1546686440706253)",
+        "mollusks -> Mollusca (score: 0.15929126739501953)",
+        "Biology -> Biology (score: 0.14104467630386353)",
+        "Emil Cioran -> Emil Cioran (score: 0.823727011680603)",
+        "aphorism -> Aphorism (score: 0.5166894197463989)",
+        "action -> Action (philosophy) (score: 0.13997326791286469)",
+        "Despair -> Existential crisis (score: 0.21719583868980408)",
+        "action -> Action theory (philosophy) (score: 0.301215261220932)",
+        "philosophical -> Philosophical fiction (score: 0.28968286514282227)",
+        "problem -> Problem solving (score: 0.21222491562366486)",
+        "essay -> Essay (score: 0.14887188374996185)",
+        "one -> Neoplatonism (score: 0.12725169956684113)",
+        "must -> Must (score: 0.12942087650299072)",
+        "title -> Title (score: 0.18235652148723602)",
+        "Greek -> Ancient Greek (score: 0.32980528473854065)",
+        "happy -> Happiness (score: 0.29352036118507385)",
+        "Kierkegaard -> S\u00f8ren Kierkegaard (score: 0.4045732915401459)",
+        "leap of faith -> Leap of faith (score: 0.5991992950439453)",
+        "philosophical -> Philosophy (score: 0.2617357075214386)",
+        "book -> Book (score: 0.17175379395484924)",
+        "appendix -> Addendum (score: 0.1465793401002884)",
+        "Kafka -> Franz Kafka (score: 0.25746166706085205)",
+        "book -> Book (score: 0.10270033031702042)",
+        "subject -> Subject (documents) (score: 0.10221165418624878)",
+        "Kirilov -> Radoslav Kirilov (score: 0.12837837636470795)",
+        "God -> God (score: 0.20385010540485382)",
+        "action -> Action theory (philosophy) (score: 0.24420523643493652)",
+        "divided -> Classification of the sciences (Peirce) (score: 0.10729694366455078)",
+        "types -> Agnosticism (score: 0.18542374670505524)",
+        "altruistic -> Altruism (score: 0.282321572303772)",
+        "anomic -> Anomie (score: 0.38440239429473877)",
+        "sociological -> Sociology (score: 0.31011050939559937)",
+        "work -> Employment (score: 0.20422324538230896)",
+        "Emile Durkheim -> \u00c9mile Durkheim (score: 0.5)",
+        "name -> Name (score: 0.13963602483272552)",
+        "subject -> Subject (philosophy) (score: 0.19817619025707245)",
+        "Myth of Sisyphus -> The Myth of Sisyphus (score: 0.8082263469696045)",
+        "subtypes -> Schizophrenia (score: 0.14274345338344574)",
+        "seppuku -> Seppuku (score: 0.6280689239501953)",
+        "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
+        "altruistic suicide -> Altruistic suicide (score: 0.4375)",
+        "anomic suicide -> Suicide (book) (score: 0.3333333432674408)",
+        "specific -> Sensitivity and specificity (score: 0.10097453743219376)",
+        "forms -> Theory of Forms (score: 0.2241923063993454)",
+        "CS -> Computer science (score: 0.23546022176742554)",
+        "Philosophy -> Philosophy (score: 0.3328731656074524)",
+        "Social Science -> Social science (score: 0.35516244173049927)",
+        "Alvin Plantinga -> Alvin Plantinga (score: 0.9565200805664062)",
+        "William Lane Craig -> William Lane Craig (score: 0.5)",
+        "alternative -> Alternative medicine (score: 0.11155540496110916)",
+        "Molinism -> Molinism (score: 0.5704586505889893)",
+        "Scriptural -> Bible (score: 0.1615554541349411)",
+        "Romans -> Epistle to the Romans (score: 0.31701159477233887)",
+        "Romans 9 -> Romans 9 (score: 0.1439657062292099)",
+        "Esau -> Esau (score: 0.2047872394323349)",
+        "Esau and Jacob -> Esau and Jacob (score: 0.20000000298023224)",
+        "Modern -> Modern Hebrew (score: 0.11198800057172775)",
+        "pastors -> Pastor (score: 0.1532452404499054)",
+        "theological -> Theology (score: 0.1884477436542511)",
+        "John -> Gospel of John (score: 0.14769263565540314)",
+        "MacArthur -> John F. MacArthur (score: 0.449238121509552)",
+        "John Piper -> John Piper (theologian) (score: 0.8073278665542603)",
+        "Open Theism -> Open theism (score: 0.5)",
+        "Arminianism -> Arminianism (score: 0.6981102228164673)",
+        "mainstream -> Mainstream (score: 0.160293847322464)",
+        "depravity -> Total depravity (score: 0.1517215073108673)",
+        "limited atonement -> Limited atonement (score: 0.6474887132644653)",
+        "TULIP -> Calvinism (score: 0.22720085084438324)",
+        "acronym -> Acronym (score: 0.11882214993238449)",
+        "five points -> Georgia State University (score: 0.1963222324848175)",
+        "deterministic -> Determinism (score: 0.33878907561302185)",
+        "theological -> Theology (score: 0.19172599911689758)",
+        "position -> Phylogenetic tree (score: 0.1650339961051941)",
+        "derived -> Etymology (score: 0.1267499029636383)",
+        "Christian -> Christianity (score: 0.428913414478302)",
+        "Christian Religion -> Christianity (score: 0.40092870593070984)",
+        "written -> Torah (score: 0.1772167980670929)",
+        "Genevan -> Geneva (score: 0.15157340466976166)",
+        "reformer -> Protestant Reformation (score: 0.16835477948188782)",
+        "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
+        "Calvinism -> Calvinism (score: 0.4381953775882721)",
+        "determinism -> Determinism (score: 0.33384570479393005)",
+        "double predestination -> Predestination (score: 0.5)",
+        "predestination -> Predestination (score: 0.5902445912361145)",
+        "CS -> Missionaries of St. Charles Borromeo (score: 0.13871337473392487)",
+        "Religion and Mythology -> Religion and mythology (score: 0.2473648190498352)",
+        "spy -> Espionage (score: 0.22592821717262268)",
+        "girl with the red hair -> The Girl with the Red Hair (score: 0.5)",
+        "out -> Outing (score: 0.28200891613960266)",
+        "assassinations -> Moscone\u2013Milk assassinations (score: 0.2932063639163971)",
+        "February Strike -> February strike (score: 0.5)",
+        "HMS Hereward -> HMS Hereward (H93) (score: 0.5)",
+        "Manstein Plan -> Manstein Plan (score: 0.5)",
+        "country -> Venezuela (score: 0.10860766470432281)",
+        "Zeeland -> Zeeland (score: 0.6416914463043213)",
+        "Queen Wilhelmina -> Wilhelmina of the Netherlands (score: 0.5464683771133423)",
+        "Miep -> Hungarian Justice and Life Party (score: 0.11221146583557129)",
+        "Gies -> Jan Gies (score: 0.5137659907341003)",
+        "Anne Frank -> Anne Frank (score: 0.3327043950557709)",
+        "Nazis -> Nazism (score: 0.2762375473976135)",
+        "Secret Annex -> Anne Frank House (score: 0.3134911358356476)",
+        "European -> Culture of Europe (score: 0.14565534889698029)",
+        "country -> Nation state (score: 0.15347960591316223)",
+        "capital -> Madrid (score: 0.28926265239715576)",
+        "Amsterdam -> Amsterdam (score: 0.5295270085334778)",
+        "Netherlands -> Netherlands (score: 0.5086661577224731)",
+        "Holland -> Netherlands (score: 0.40635061264038086)",
+        "Dutch Republic -> Dutch Republic (score: 0.5690096616744995)",
+        "film -> Film (score: 0.13375429809093475)",
+        "film set -> Set construction (score: 0.13176950812339783)",
+        "amour -> Amour (2012 film) (score: 0.15815681219100952)",
+        "Martin Scorsese -> Martin Scorsese (score: 0.8303012847900391)",
+        "Van Gogh -> Van Gogh (1991 film) (score: 0.13972342014312744)",
+        "camera -> Camera (score: 0.33064571022987366)",
+        "pans -> Panning (camera) (score: 0.2969655990600586)",
+        "film -> Photographic film (score: 0.3581109344959259)",
+        "country -> Nation state (score: 0.1097555011510849)",
+        "film -> Film (score: 0.14558115601539612)",
+        "medium -> Mass media (score: 0.10490323603153229)",
+        "warrior -> Warrior (score: 0.13958080112934113)",
+        "temple -> Egyptian temple (score: 0.1728297770023346)",
+        "one -> Neoplatonism (score: 0.13201946020126343)",
+        "settings -> Setting (narrative) (score: 0.17161200940608978)",
+        "movie -> Film (score: 0.23477749526500702)",
+        "film -> Film (score: 0.27684834599494934)",
+        "short story -> Short story (score: 0.16829219460487366)",
+        "set -> Set theory (score: 0.15698301792144775)",
+        "gate -> Logic gate (score: 0.17856188118457794)",
+        "points -> Score (game) (score: 0.16848886013031006)",
+        "setting -> Setting (narrative) (score: 0.16789281368255615)",
+        "Rashomon -> Rashomon (score: 0.7113545536994934)",
+        "Tokyo Story -> Tokyo Story (score: 0.8904972672462463)",
+        "ANSWER -> Answer (album) (score: 0.1324015110731125)",
+        "Japan -> Japan (score: 0.6412383317947388)",
+        "Nippon-koku -> Japan (score: 0.3717948794364929)",
+        "Nihon-koku -> Japan (score: 0.25443679094314575)",
+        "Alain Resnais -> Alain Resnais (score: 0.9191799163818359)",
+        "Hiroshima mon amour -> Hiroshima mon amour (score: 0.5)",
+        "Kurosawa's Dreams -> Dreams (1990 film) (score: 0.628896951675415)",
+        "Rashomon -> Rashomon (score: 0.8473193645477295)",
+        "Yasujiro Ozu -> Yasujir\u014d Ozu (score: 0.8907890915870667)",
+        "Tokyo Story -> Tokyo Story (score: 0.5)",
+        "CS -> Computer science (score: 0.11700443923473358)",
+        "Fine Arts -> Fine art (score: 0.23235540091991425)",
+        "Battle of Black Jack -> Battle of Black Jack (score: 0.5)",
+        "Francis Coleman -> Francis Coleman (score: 0.3055555522441864)",
+        "Charles Dow -> Charles Dow (score: 0.5)",
+        "Wakarusa River -> Wakarusa River (score: 0.5)",
+        "side -> A-side and B-side (score: 0.11814898997545242)",
+        "Brooklyn -> Brooklyn (score: 0.2786719501018524)",
+        "Beecher's Bibles -> Beecher's Bibles (score: 0.5)",
+        "Border ruffians -> Border Ruffian (score: 0.6714661121368408)",
+        "state -> State (polity) (score: 0.2268586903810501)",
+        "illegally -> Illegal immigration (score: 0.21471263468265533)",
+        "election -> Election (score: 0.1874716877937317)",
+        "conflict -> War in Afghanistan (2001\u201314) (score: 0.15832270681858063)",
+        "Lecompton constitution -> Lecompton Constitution (score: 0.6401815414428711)",
+        "conflict -> American Indian Wars (score: 0.14879705011844635)",
+        "slavery -> Slavery (score: 0.29603856801986694)",
+        "Topeka constitution -> Topeka Constitution (score: 0.7108029723167419)",
+        "antebellum -> History of the Southern United States (score: 0.15110421180725098)",
+        "conflict -> Vietnam War (score: 0.11282648891210556)",
+        "Midwestern state -> Midwestern State University (score: 0.1541089117527008)",
+        "Bleeding Kansas -> Bleeding Kansas (score: 0.5)",
+        "Bloody Kansas -> Bleeding Kansas (score: 0.4166666567325592)",
+        "Border War -> Border War (1910\u201319) (score: 0.1304713785648346)",
+        "equivalents -> Translation (score: 0.1390196979045868)",
+        "conflict -> War in Afghanistan (2001\u201314) (score: 0.1657203882932663)",
+        "Kansas -> Kansas (score: 0.29239365458488464)",
+        "BA -> Bachelor of Arts (score: 0.2153950184583664)",
+        "American -> Americans (score: 0.26137179136276245)",
+        "American History -> History of the United States (score: 0.23142416775226593)",
+        "one novel -> One: A Novel (score: 0.1666666716337204)",
+        "Lawrence Redding -> Lawrence &quot;Lipbone&quot; Redding (score: 0.1666666716337204)",
+        "murder -> Murder in English law (score: 0.1896810531616211)",
+        "mystifying -> Deception (score: 0.14869308471679688)",
+        "Murder at the Vicarage -> The Murder at the Vicarage (score: 0.5)",
+        "Wargrave -> Wargrave (score: 0.3175182342529297)",
+        "murdering -> Murder (score: 0.12061242759227753)",
+        "racial slur -> Pejorative (score: 0.3307299017906189)",
+        "slur -> Pejorative (score: 0.3407319486141205)",
+        "red -> List of Pok\u00e9mon Adventures characters (score: 0.11444605141878128)",
+        "kimono -> Kimono (score: 0.3903881311416626)",
+        "protagonist -> Protagonist (score: 0.1976843774318695)",
+        "novel -> Novel (score: 0.15318626165390015)",
+        "author -> Author (score: 0.13166803121566772)",
+        "murder -> Murder (score: 0.10324230790138245)",
+        "Cassetti -> Marco Cassetti (score: 0.1111111119389534)",
+        "revealed -> Revelation (score: 0.10331670939922333)",
+        "revenge -> Revenge (score: 0.15607291460037231)",
+        "murder -> Murder (score: 0.15357519686222076)",
+        "Daisy -> Daisy (2006 film) (score: 0.11230182647705078)",
+        "Armstrong -> Lance Armstrong (score: 0.12840281426906586)",
+        "name -> Names of God in Judaism (score: 0.11252022534608841)",
+        "creator -> God (score: 0.1322658509016037)",
+        "detectives -> Detective fiction (score: 0.18509621918201447)",
+        "Miss Marple -> Miss Marple (TV series) (score: 0.7930781841278076)",
+        "Hercule Poirot -> Hercule Poirot (score: 0.5)",
+        "who -> The Who (score: 0.12410452216863632)",
+        "Murder on the Orient Express -> Murder on the Orient Express (1974 film) (score: 0.5)",
+        "Mary -> Mary Shelley (score: 0.24442589282989502)",
+        "Clarissa -> Clarissa (score: 0.2188049554824829)",
+        "Christie -> Agatha Christie (score: 0.20309320092201233)",
+        "Mary -> Mary Shelley (score: 0.24442589282989502)",
+        "Clarissa -> Clarissa (score: 0.21659055352210999)",
+        "Miller -> Arthur Miller (score: 0.1910001039505005)",
+        "British Literature -> British literature (score: 0.3297879695892334)",
+        "high-intensity -> High-intensity discharge lamp (score: 0.18026623129844666)",
+        "signal -> Military communications (score: 0.1726413369178772)",
+        "electromagnetic spectrum -> Electromagnetic spectrum (score: 0.5120914578437805)",
+        "Wow -> Wow! signal (score: 0.1795930564403534)",
+        "extraterrestrial life -> Astrobiology (score: 0.6351823806762695)",
+        "Faraday -> Michael Faraday (score: 0.16540727019309998)",
+        "region -> Blu-ray (score: 0.11153317242860794)",
+        "EM spectrum -> Electromagnetic spectrum (score: 0.49830710887908936)",
+        "Neutral hydrogen -> Hydrogen line (score: 0.15568862855434418)",
+        "interstellar medium -> Interstellar medium (score: 0.47380951046943665)",
+        "21-centimeter line -> Hydrogen line (score: 0.4561060965061188)",
+        "frequency -> Utility frequency (score: 0.299958735704422)",
+        "frequency range -> Bandwidth (signal processing) (score: 0.22250114381313324)",
+        "technique -> Technology (score: 0.1592990607023239)",
+        "aperture -> Aperture (score: 0.3472234606742859)",
+        "very-long-baseline interferometry -> Very-long-baseline interferometry (score: 0.3926756680011749)",
+        "interferometry -> Interferometry (score: 0.562543511390686)",
+        "antennae -> Antenna (radio) (score: 0.4268915057182312)",
+        "very large array -> Karl G. Jansky Very Large Array (score: 0.8499131798744202)",
+        "Arecibo -> Arecibo Observatory (score: 0.5773418545722961)",
+        "Observatory -> Observatory (score: 0.14570501446723938)",
+        "detect -> Sensor (score: 0.11830811947584152)",
+        "waves -> Wave (score: 0.19910477101802826)",
+        "points -> Point (geometry) (score: 0.14812293648719788)",
+        "electromagnetic spectrum -> Electromagnetic spectrum (score: 0.5120914578437805)",
+        "long -> Longitude (score: 0.17891937494277954)",
+        "wavelengths -> Wavelength (score: 0.1966038942337036)",
+        "earth -> Earth (score: 0.17088110744953156)",
+        "transmit -> Transmitter (score: 0.18519331514835358)",
+        "pop music -> Popular music (score: 0.1611192524433136)",
+        "radio waves -> Radio wave (score: 0.466058611869812)",
+        "radio spectrum -> Radio frequency (score: 0.20822280645370483)",
+        "prompt -> Command-line interface (score: 0.1132354885339737)",
+        "microwaves -> Microwave (score: 0.13458144664764404)",
+        "book -> Book (score: 0.11211979389190674)",
+        "Magic -> Magic (paranormal) (score: 0.15635967254638672)",
+        "Mystery -> Mystery fiction (score: 0.22465091943740845)",
+        "region -> DVD region code (score: 0.12622705101966858)",
+        "written -> Screenplay (score: 0.15500128269195557)",
+        "Alexandra David-Neel -> Alexandra David-N\u00e9el (score: 0.5)",
+        "foreigners -> Vikings (score: 0.10816783457994461)",
+        "Theosophists -> Theosophy (score: 0.3198275864124298)",
+        "Heinrich Himmler -> Heinrich Himmler (score: 0.7021849155426025)",
+        "trips -> TRIPS Agreement (score: 0.1129763275384903)",
+        "region -> Djibouti (score: 0.13421094417572021)",
+        "mythical -> Mythology (score: 0.13364067673683167)",
+        "land -> Earth (score: 0.11958827078342438)",
+        "Shambhala -> Shambhala (score: 0.39689159393310547)",
+        "Francis Younghusband -> Francis Younghusband (score: 0.7698432207107544)",
+        "expedition -> Exploration (score: 0.12002824246883392)",
+        "Kailash -> Mount Kailash (score: 0.24826955795288086)",
+        "Mount Meru -> Mount Meru (score: 0.5)",
+        "scriptures -> Hindu texts (score: 0.23854495584964752)",
+        "Sutlej -> Sutlej (score: 0.6218574047088623)",
+        "Brahmaputra -> Brahmaputra River (score: 0.5831247568130493)",
+        "folk religion -> Folk religion (score: 0.5898855328559875)",
+        "Bon -> Bon (score: 0.35560983419418335)",
+        "region -> Autonomous regions of China (score: 0.24989107251167297)",
+        "Dharamshala -> Dharamsala (score: 0.4207475185394287)",
+        "region -> Autonomous regions of China (score: 0.18692396581172943)",
+        "Lhasa -> Lhasa (score: 0.7212912440299988)",
+        "Dalai Lama -> Dalai Lama (score: 0.745398759841919)",
+        "Tibet Autonomous Region -> Tibet Autonomous Region (score: 0.5)",
+        "Autonomous Region -> Tibet Autonomous Region (score: 0.14793364703655243)",
+        "Bod -> Bod\u00f8 (score: 0.36873042583465576)",
+        "Xizang -> Tibet Autonomous Region (score: 0.39223170280456543)",
+        "commutator -> Commutator (score: 0.5856724977493286)",
+        "components -> Euclidean vector (score: 0.3106103539466858)",
+        "quantity -> Quantity (score: 0.18461410701274872)",
+        "operator -> Operator (mathematics) (score: 0.20557168126106262)",
+        "positive or negative -> Sign (mathematics) (score: 0.2543027997016907)",
+        "negative -> Electric charge (score: 0.32112351059913635)",
+        "h-bar -> Planck constant (score: 0.426422119140625)",
+        "quantization -> Quantization (physics) (score: 0.4881848096847534)",
+        "energy -> Energy (score: 0.3116561770439148)",
+        "Bohr model -> Bohr model (score: 0.781833291053772)",
+        "quantization -> Quantization (physics) (score: 0.5290877223014832)",
+        "value -> Angular momentum operator (score: 0.2401759773492813)",
+        "quantity -> Physical quantity (score: 0.3088403344154358)",
+        "azimuthal quantum number -> Azimuthal quantum number (score: 0.8080686926841736)",
+        "theorem -> Theorem (score: 0.26114600896835327)",
+        "rotational symmetry -> Rotational symmetry (score: 0.4789752960205078)",
+        "conservation law -> Conservation law (score: 0.3162790834903717)",
+        "quantity -> Physical quantity (score: 0.17398178577423096)",
+        "type -> Type\u2013token distinction (score: 0.14660823345184326)",
+        "derivative -> Derivative (score: 0.25145649909973145)",
+        "respect -> Dependent and independent variables (score: 0.24605657160282135)",
+        "time -> Time (score: 0.2802692949771881)",
+        "torque -> Torque (score: 0.3897445797920227)",
+        "points -> Point (geometry) (score: 0.16615064442157745)",
+        "name -> Name (score: 0.1359405517578125)",
+        "quantity -> Quantity (score: 0.2727879583835602)",
+        "symbolized -> List of logic symbols (score: 0.23285557329654694)",
+        "product -> Product (mathematics) (score: 0.2751980721950531)",
+        "moment of inertia -> Moment of inertia (score: 0.929912805557251)",
+        "angular velocity -> Angular velocity (score: 0.2850467264652252)",
+        "angular momentum -> Angular momentum (score: 0.3353535234928131)",
+        "prompt -> Command-line interface (score: 0.1123337522149086)",
+        "linear -> Linearity (score: 0.44391030073165894)",
+        "linear momentum -> Momentum (score: 0.3412018418312073)",
+        "Physics -> Physics (score: 0.10984925925731659)",
+        "claims -> Insurance (score: 0.11435002833604813)",
+        "beekeeping -> Beekeeping (score: 0.22311653196811676)",
+        "vowels -> Lao alphabet (score: 0.12530985474586487)",
+        "author -> Author (score: 0.10779597610235214)",
+        "art -> Art (score: 0.14115221798419952)",
+        "poem -> Poetry (score: 0.14871597290039062)",
+        "ash -> Fraxinus (score: 0.15199938416481018)",
+        "red hair -> Red hair (score: 0.2687458097934723)",
+        "eat -> Cannibalism (score: 0.20221514999866486)",
+        "men -> Man (score: 0.19314759969711304)",
+        "author -> Author (score: 0.10223273932933807)",
+        "poem -> Poetry (score: 0.16929595172405243)",
+        "a man -> Military Intelligence Directorate (Israel) (score: 0.3333333432674408)",
+        "man in black -> Man in Black (Lost) (score: 0.1948424130678177)",
+        "American -> American poetry (score: 0.17517666518688202)",
+        "poet -> Poet (score: 0.24984639883041382)",
+        "Lady Lazarus -> Lady Lazarus (score: 0.8804358243942261)",
+        "Daddy -> Daddy (poem) (score: 0.5008295774459839)",
+        "Bell Jar -> The Bell Jar (score: 0.5)",
+        "Sylvia Plath -> Sylvia Plath (score: 0.5)",
+        "American Literature -> American literature (score: 0.16014760732650757)",
+        "empire -> Empire (film magazine) (score: 0.1965218484401703)",
+        "Promaucae -> Promaucae people (score: 0.5)",
+        "savage -> Barbarian (score: 0.12764492630958557)",
+        "Maule River -> Maule River (score: 0.5)",
+        "Garcilaso de la Vega -> Garcilaso de la Vega (poet) (score: 0.35757574439048767)",
+        "cavalry -> Cavalry (score: 0.2579852044582367)",
+        "bolas -> Bolas (score: 0.20830287039279938)",
+        "friar -> Friar (score: 0.22792905569076538)",
+        "Bible -> Bible (score: 0.20974907279014587)",
+        "empire -> Spanish Empire (score: 0.19440807402133942)",
+        "who -> World Health Organization (score: 0.10595197975635529)",
+        "Cajamarca -> Cajamarca (score: 0.43946272134780884)",
+        "empire -> Roman Empire (score: 0.13618698716163635)",
+        "ruler -> Ajaw (score: 0.10077167302370071)",
+        "Atahualpa -> Atahualpa (score: 0.5018534064292908)",
+        "gold -> Gold (score: 0.12800374627113342)",
+        "silver -> Silver (score: 0.2824605107307434)",
+        "points -> Point (geometry) (score: 0.12496670335531235)",
+        "name -> Names of God in Judaism (score: 0.15446682274341583)",
+        "empire -> Roman Empire (score: 0.17292414605617523)",
+        "conquered -> Spanish conquest of the Inca Empire (score: 0.35431793332099915)",
+        "Francisco Pizarro -> Francisco Pizarro (score: 0.8475102186203003)",
+        "Peru -> Peru (score: 0.633836567401886)",
+        "Incan Empire -> Inca Empire (score: 0.24626865983009338)",
+        "Tawantinsuyu -> Inca Empire (score: 0.4500407576560974)",
+        "KK -> Imperial and Royal (score: 0.10201509296894073)",
+        "Blizzard -> Blizzard Entertainment (score: 0.13211199641227722)",
+        "dangerous woman -> Dangerous Woman (album) (score: 0.3305084705352783)",
+        "America -> Americas (score: 0.1349169909954071)",
+        "organize -> Trade union (score: 0.12296069413423538)",
+        "strikes -> Strike action (score: 0.14819245040416718)",
+        "points -> Railroad switch (score: 0.14127440750598907)",
+        "Name -> Brand (score: 0.11047925055027008)",
+        "community organizer -> Community organizing (score: 0.2568163275718689)",
+        "who -> World Health Organization (score: 0.1854582577943802)",
+        "child labor -> Child labour (score: 0.381039559841156)",
+        "protest -> Demonstration (protest) (score: 0.36757200956344604)",
+        "March -> Demonstration (protest) (score: 0.31348007917404175)",
+        "Mill -> Factory (score: 0.17428547143936157)",
+        "Children -> Child labour (score: 0.22326992452144623)",
+        "progressive -> Progressivism in the United States (score: 0.10902541875839233)",
+        "Mother Jones -> Mary Harris Jones (score: 0.8891786336898804)",
+        "Mary Harris Jones -> Mary Harris Jones (score: 0.5)",
+        "Mother Jones -> Mary Harris Jones (score: 0.5003151297569275)",
+        "major -> Major (score: 0.16688844561576843)",
+        "union -> Union (American Civil War) (score: 0.16804125905036926)",
+        "opposition -> Opposition Party (United States) (score: 0.10052864253520966)",
+        "discriminatory -> Discrimination (score: 0.2038092166185379)",
+        "policies -> Insurance policy (score: 0.21039508283138275)",
+        "unskilled laborers -> Laborer (score: 0.27335020899772644)",
+        "members -> Unrepresented Nations and Peoples Organization (score: 0.11051132529973984)",
+        "Wobblies -> Industrial Workers of the World (score: 0.25534260272979736)",
+        "ANSWER -> A.N.S.W.E.R. (score: 0.25369948148727417)",
+        "IWW -> Industrial Workers of the World (score: 0.5053456425666809)",
+        "Industrial Workers of the World -> Industrial Workers of the World (score: 0.5)",
+        "Mother Jones -> Mother Jones (magazine) (score: 0.389178603887558)",
+        "Virden Massacre -> Battle of Virden (score: 0.5)",
+        "strike -> Strike action (score: 0.1627182513475418)",
+        "workers -> Working class (score: 0.24543620645999908)",
+        "extracted -> Liquid\u2013liquid extraction (score: 0.1493198573589325)",
+        "coal -> Coal (score: 0.24791505932807922)",
+        "precious metals -> Precious metal (score: 0.2377302646636963)",
+        "ground -> Mill (grinding) (score: 0.33984583616256714)",
+        "American -> Americans (score: 0.1583227962255478)",
+        "American History -> History of the United States (score: 0.18672077357769012)",
+        "American -> American poetry (score: 0.16466762125492096)",
+        "women writers -> Women's writing (literary category) (score: 0.12511995434761047)",
+        "who -> World Health Organization (score: 0.1330583244562149)",
+        "other women -> Mothers of the Plaza de Mayo (score: 0.17330984771251678)",
+        "women -> Women's rights (score: 0.14005130529403687)",
+        "once -> Once (film) (score: 0.10438496619462967)",
+        "singer -> Singing (score: 0.12605935335159302)",
+        "Tracy Chapman -> Tracy Chapman (score: 0.5)",
+        "Celie -> Pieter Celie (score: 0.5)",
+        "Shug Avery -> The Color Purple (score: 0.30629608035087585)",
+        "Color Purple -> The Color Purple (film) (score: 0.5)",
+        "Alice Walker -> Alice Walker (score: 0.5)",
+        "Russell -> Bertrand Russell (score: 0.12267691642045975)",
+        "Amy Lowell -> Amy Lowell (score: 0.453987717628479)",
+        "Ezra Pound -> Ezra Pound (score: 0.5930131673812866)",
+        "who -> The Who (score: 0.12006271630525589)",
+        "abandoned -> Urban decay (score: 0.1716262400150299)",
+        "movement -> Art movement (score: 0.24970103800296783)",
+        "Vorticism -> Vorticism (score: 0.6751431226730347)",
+        "ANSWER -> Fugue (score: 0.2195393294095993)",
+        "Imagism -> Imagism (score: 0.7586354613304138)",
+        "Imagist -> Imagism (score: 0.7148774266242981)",
+        "Lota de Macedo Soares -> Lota de Macedo Soares (score: 0.5)",
+        "art of losing -> The Art of Losing (score: 0.5)",
+        "villanelle -> Villanelle (score: 0.28773584961891174)",
+        "Elizabeth Bishop -> Elizabeth Bishop (score: 0.49339208006858826)",
+        "American Literature -> American literature (score: 0.16014760732650757)",
+        "compound -> Chemical compound (score: 0.12895092368125916)",
+        "introduced -> Invasive species (score: 0.10651721060276031)",
+        "quantities -> Quantity (score: 0.1473345011472702)",
+        "nickel -> Nickel (score: 0.22088482975959778)",
+        "famine -> Great Famine (Ireland) (score: 0.21076403558254242)",
+        "points -> Points of the compass (score: 0.13732855021953583)",
+        "Name -> Nomenclature (score: 0.15042687952518463)",
+        "compound -> Chemical compound (score: 0.18177348375320435)",
+        "cyanobacteria -> Cyanobacteria (score: 0.5)",
+        "namesake -> Passport (score: 0.13134707510471344)",
+        "event -> Convention (meeting) (score: 0.12404047697782516)",
+        "Siderian -> Siderian (score: 0.5838741660118103)",
+        "methanogens -> Methanogen (score: 0.2083333283662796)",
+        "mass extinction -> Extinction event (score: 0.24710983037948608)",
+        "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
+        "Great Oxygenation Event -> Great Oxygenation Event (score: 0.5)",
+        "Great Oxygenation Event -> Great Oxygenation Event (score: 0.5)",
+        "Huron -> Lake Huron (score: 0.17503610253334045)",
+        "long -> Longitude (score: 0.1870265007019043)",
+        "periods -> Orbital period (score: 0.11616707593202591)",
+        "temperatures -> Temperature (score: 0.20694014430046082)",
+        "interglacials -> Interglacial (score: 0.14739364385604858)",
+        "ice age -> Ice age (score: 0.2866753339767456)",
+        "Methanogens -> Methanogen (score: 0.5655679702758789)",
+        "Great Oxygenation event -> Great Oxygenation Event (score: 0.5)",
+        "obligate -> Obligate anaerobe (score: 0.18179668486118317)",
+        "type -> Type (biology) (score: 0.13408614695072174)",
+        "organisms -> Organism (score: 0.3055671453475952)",
+        "metabolism -> Metabolism (score: 0.42553389072418213)",
+        "oxygen -> Oxygen (score: 0.43481960892677307)",
+        "obligate -> Obligate anaerobe (score: 0.1914069503545761)",
+        "anaerobes -> Anaerobic organism (score: 0.27511921525001526)",
+        "CS -> Caesium (score: 0.11572979390621185)",
+        "Science -> Science (journal) (score: 0.15016774833202362)",
+        "crowned -> Coronation (score: 0.1820545196533203)",
+        "English -> Kingdom of England (score: 0.237568199634552)",
+        "Name -> Toponymy (score: 0.12798970937728882)",
+        "Henry I -> Henry the Fowler (score: 0.38040781021118164)",
+        "Stephen of Blois -> Stephen, King of England (score: 0.5)",
+        "Lincoln -> Lincoln, England (score: 0.1349535882472992)",
+        "Rout of Winchester -> Rout of Winchester (score: 0.5)",
+        "Empress Matilda -> Empress Matilda (score: 1.0)",
+        "Matilda of England -> Empress Matilda (score: 0.5)",
+        "Empress Maude -> Empress Matilda (score: 0.25)",
+        "word -> Logos (score: 0.30882230401039124)",
+        "names -> Names of God in Judaism (score: 0.30300408601760864)",
+        "succession crisis -> Succession crisis (Latter Day Saints) (score: 0.28122371435165405)",
+        "death -> Death (personification) (score: 0.1185249611735344)",
+        "Henry I -> Henry I of England (score: 0.5274280905723572)",
+        "Matilda -> Empress Matilda (score: 0.2793653607368469)",
+        "son -> God the Son (score: 0.20159663259983063)",
+        "ascension -> Ascension of Jesus (score: 0.2613949775695801)",
+        "throne -> Throne (score: 0.23368000984191895)",
+        "word -> Logos (Christianity) (score: 0.19527184963226318)",
+        "government -> Government (score: 0.13215447962284088)",
+        "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
+        "accept -> Accept (band) (score: 0.1519223153591156)",
+        "incident -> Incidence (epidemiology) (score: 0.22589819133281708)",
+        "killed -> Death (score: 0.1790652573108673)",
+        "prospective -> Prospective cohort study (score: 0.21685566008090973)",
+        "heir -> Heir presumptive (score: 0.11539552360773087)",
+        "William Adelin -> William Adelin (score: 0.7499494552612305)",
+        "Anarchy -> Anarchism (score: 0.17668098211288452)",
+        "Flowers -> Flower (score: 0.13669250905513763)",
+        "red -> Red (score: 0.18066294491291046)",
+        "color -> Color (score: 0.1246766746044159)",
+        "War of the Roses -> Wars of the Roses (score: 0.6583721041679382)",
+        "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
+        "White Ship -> White Ship (score: 0.5)",
+        "A man -> Military Intelligence Directorate (Israel) (score: 0.383431613445282)",
+        "title -> Nobility (score: 0.11734332144260406)",
+        "Lahore Fort -> Lahore Fort (score: 0.5)",
+        "Adi Granth -> Guru Granth Sahib (score: 0.5)",
+        "Arjan Dev -> Guru Arjan (score: 0.15239860117435455)",
+        "Dev -> Deva (Hinduism) (score: 0.1691819578409195)",
+        "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
+        "guru -> Guru (score: 0.2170359194278717)",
+        "accept -> Accept (band) (score: 0.10253690928220749)",
+        "acharya -> Acharya (score: 0.22963790595531464)",
+        "religion -> Religion (score: 0.24066968262195587)",
+        "Guru Nanak -> Guru Nanak (score: 0.7320647239685059)",
+        "gurus -> Sikh gurus (score: 0.452019065618515)",
+        "Gobind Singh -> Guru Gobind Singh (score: 0.4555308222770691)",
+        "Singh -> Bhai Mani Singh (score: 0.4055781662464142)",
+        "holy -> Sacred (score: 0.21046796441078186)",
+        "Guru -> Sikh gurus (score: 0.31082308292388916)",
+        "Granth Sahib -> Guru Granth Sahib (score: 0.210173100233078)",
+        "Sahib -> Sahib (score: 0.23151418566703796)",
+        "female -> Woman (score: 0.1740717589855194)",
+        "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
+        "Sikhism -> Sikhism (score: 0.5050750374794006)",
+        "accept -> Accept (band) (score: 0.10253690928220749)",
+        "Gurmat -> Gurmat (score: 0.2849137485027313)",
+        "Guru Gobind Singh -> Guru Gobind Singh (score: 0.4840708076953888)",
+        "Singh -> Guru Gobind Singh (score: 0.3677443861961365)",
+        "Sikhs -> Sikh (score: 0.4311472475528717)",
+        "one -> Neoplatonism (score: 0.14528939127922058)",
+        "male -> Male (score: 0.22995470464229584)",
+        "male or female -> Gender of connectors and fasteners (score: 0.12692466378211975)",
+        "female -> Female (score: 0.21494567394256592)",
+        "lion -> Lion (score: 0.15276168286800385)",
+        "crown prince -> Crown prince (score: 0.12657949328422546)",
+        "Singh -> Manmohan Singh (score: 0.12526512145996094)",
+        "Kaur -> Kaur (score: 0.154205784201622)",
+        "Religion and Mythology -> World (score: 0.20258593559265137)",
+        "cities -> Polis (score: 0.2905082702636719)",
+        "Magna Graecia -> Magna Graecia (score: 0.6139841079711914)",
+        "general -> General officer (score: 0.10968304425477982)",
+        "victory -> Nike (mythology) (score: 0.1757739782333374)",
+        "Heraclea -> Heraclea Lucania (score: 0.3910497725009918)",
+        "Name -> Roman naming conventions (score: 0.12476406246423721)",
+        "general -> General officer (score: 0.10523964464664459)",
+        "Rome -> Ancient Rome (score: 0.35212987661361694)",
+        "Romans -> Ancient Rome (score: 0.2380303591489792)",
+        "ruined -> Ruins (score: 0.1370357871055603)",
+        "Pyrrhus -> Pyrrhus of Epirus (score: 0.3958219885826111)",
+        "Epirus -> Epirus (score: 0.6545331478118896)",
+        "Pyrrhus -> Pyrrhus of Epirus (score: 0.4009566605091095)",
+        "invasion -> Roman conquest of Britain (score: 0.2068082094192505)",
+        "siege -> Siege (score: 0.17981325089931488)",
+        "militaristic -> Militarism (score: 0.1755189597606659)",
+        "Greek -> Ancient Greek (score: 0.3593790829181671)",
+        "Greek city-state -> Polis (score: 0.37974387407302856)",
+        "city-state -> Polis (score: 0.507727861404419)",
+        "Arachidamia -> Arachidamia (score: 0.7593944072723389)",
+        "organize -> Trade union (score: 0.1445551961660385)",
+        "women -> Women's rights (score: 0.13149866461753845)",
+        "city-state -> Polis (score: 0.21065372228622437)",
+        "main -> Main (river) (score: 0.14652220904827118)",
+        "army -> Corps (score: 0.1341215819120407)",
+        "Crete -> Crete (score: 0.4861924350261688)",
+        "Sparta -> Sparta (score: 0.5697841048240662)",
+        "Lacedaemon -> Sparta (score: 0.75)",
+        "female -> Woman (score: 0.11104857921600342)",
+        "Sparta -> Sparta (score: 0.3657418191432953)",
+        "who -> World Health Organization (score: 0.11943798512220383)",
+        "her husband -> Martin Luther King, Jr. (score: 0.12484442442655563)",
+        "Leonidas I -> Leonidas I (score: 0.5)",
+        "decode -> Decode (song) (score: 0.12729521095752716)",
+        "warning -> Warning (Green Day album) (score: 0.11245725303888321)",
+        "Xerxes -> Xerxes I (score: 0.30679723620414734)",
+        "invasion -> Invasion (score: 0.13862213492393494)",
+        "clearing -> Deforestation (score: 0.1314571052789688)",
+        "wax -> Wax (score: 0.21468639373779297)",
+        "tablet -> Tablet (pharmacy) (score: 0.12956352531909943)",
+        "Gorgo -> Gorgon (score: 0.29472053050994873)",
+        "Ancient -> Ancient history (score: 0.1793329268693924)",
+        "British -> British people (score: 0.18355074524879456)",
+        "British History -> History of the British Isles (score: 0.2648375332355499)",
+        "Manhattan Project -> Manhattan Project (score: 0.5)",
+        "scientist -> Science (score: 0.1017947793006897)",
+        "ethnicity -> Ethnic group (score: 0.19690066576004028)",
+        "reasoned -> Reason (score: 0.15263177454471588)",
+        "xenon -> Xenon (score: 0.2563222646713257)",
+        "plutonium -> Plutonium (score: 0.49852246046066284)",
+        "B Reactor -> B Reactor (score: 0.6010867357254028)",
+        "Name -> Names of God in Judaism (score: 0.1623753309249878)",
+        "ethnicity -> Ethnic group (score: 0.17423950135707855)",
+        "physicist -> Physicist (score: 0.18585292994976044)",
+        "Nobel Prize in Physics -> Nobel Prize in Physics (score: 0.5)",
+        "conducted -> Conducting (score: 0.12328047305345535)",
+        "Chien-Shiung Wu -> Chien-Shiung Wu (score: 0.5938372611999512)",
+        "experiment -> Experiment (score: 0.1369955837726593)",
+        "weak interaction -> Weak interaction (score: 0.5)",
+        "property -> Property (philosophy) (score: 0.15336264669895172)",
+        "states -> Quantum state (score: 0.31880056858062744)",
+        "coordinates -> Coordinate system (score: 0.3112388849258423)",
+        "wavefunction -> Wave function (score: 0.4950800836086273)",
+        "symmetric -> Symmetry (score: 0.2415620982646942)",
+        "symmetries -> Symmetry (score: 0.3156849443912506)",
+        "parity conservation -> Parity (physics) (score: 0.14705882966518402)",
+        "CP symmetry -> CP violation (score: 0.5)",
+        "CPT symmetry -> CPT symmetry (score: 0.5)",
+        "Wu experiment -> Wu experiment (score: 0.5)",
+        "measured -> Measurement (score: 0.14758294820785522)",
+        "observing -> Observation (score: 0.177212655544281)",
+        "direction -> Euclidean vector (score: 0.2861800491809845)",
+        "electrons -> Electron (score: 0.3195892870426178)",
+        "phenomenon -> Phenomenon (score: 0.15292035043239594)",
+        "cobalt-60 -> Cobalt-60 (score: 0.5900417566299438)",
+        "atoms -> Atom (score: 0.20119787752628326)",
+        "phenomenon -> Phenomenon (score: 0.10564138740301132)",
+        "atomic mass constant -> Atomic mass constant (score: 0.5)",
+        "number -> Number (score: 0.3834041357040405)",
+        "one -> 1 (number) (score: 0.3834250569343567)",
+        "KK -> Kappa Kappa Psi (score: 0.10839433968067169)",
+        "Physics -> Physics (score: 0.17097264528274536)",
+        "fossil -> Fossil (score: 0.15443523228168488)",
+        "Big -> Toronto (score: 0.18559159338474274)",
+        "points -> Point (ice hockey) (score: 0.18883289396762848)",
+        "artist -> Musician (score: 0.1264619082212448)",
+        "Honeysuckle Rose -> Honeysuckle Rose (song) (score: 0.5)",
+        "all my love -> All My Love (TV series) (score: 0.13649025559425354)",
+        "Ain -> Ain (score: 0.11898016929626465)",
+        "Fats Waller -> Fats Waller (score: 0.5)",
+        "Thomas Wright -> Thomas Wright (antiquarian) (score: 0.23021583259105682)",
+        "Fats Waller -> Fats Waller (score: 0.5886131525039673)",
+        "instrument -> String instrument (score: 0.17874033749103546)",
+        "Art Tatum -> Art Tatum (score: 0.5)",
+        "arrangements -> Arrangement (score: 0.1767585426568985)",
+        "Tea for Two -> Tea for Two (song) (score: 0.5483763217926025)",
+        "Tiger Rag -> Tiger Rag (score: 0.4369369447231293)",
+        "standard -> Jazz standard (score: 0.152390718460083)",
+        "rhythm section -> Rhythm section (score: 0.3840540051460266)",
+        "bass -> Bassline (score: 0.3907622694969177)",
+        "drummer -> Drum kit (score: 0.26656025648117065)",
+        "ANSWER -> Call and response (music) (score: 0.12107179313898087)",
+        "piano -> Piano (score: 0.38752979040145874)",
+        "pianoforte -> Piano (score: 0.31364545226097107)",
+        "keyboard -> Keyboard instrument (score: 0.31073811650276184)",
+        "Honeysuckle Rose -> Honeysuckle Rose (song) (score: 0.8909628391265869)",
+        "Ain't Misbehavin -> Ain't Misbehavin' (song) (score: 0.6932753324508667)",
+        "recorded -> Recording (score: 0.11201395094394684)",
+        "bands -> Musical ensemble (score: 0.142549067735672)",
+        "term -> Terminology (score: 0.24641500413417816)",
+        "adjective -> Adjective (score: 0.3553083539009094)",
+        "word -> Word (score: 0.29112789034843445)",
+        "comes -> Etymology (score: 0.23622915148735046)",
+        "repertoire -> Character encoding (score: 0.19773612916469574)",
+        "canon -> Canon (music) (score: 0.2893083393573761)",
+        "classical music -> Classical music (score: 0.3122827708721161)",
+        "ANSWER -> Call and response (music) (score: 0.1658458113670349)",
+        "jazz -> Jazz (score: 0.3487003743648529)",
+        "jazz standards -> Jazz standard (score: 0.3187808394432068)",
+        "repertoire -> Character encoding (score: 0.16524462401866913)",
+        "CS -> Computer science (score: 0.19682924449443817)",
+        "Fine Arts -> Fine art (score: 0.23235540091991425)",
+        "Ellen Swallow Richards -> Ellen Swallow Richards (score: 0.5)",
+        "Richards -> Amy Richards (score: 0.12784050405025482)",
+        "first woman -> Women in the Israel Defense Forces (score: 0.11551830172538757)",
+        "woman -> Woman (score: 0.16293196380138397)",
+        "admitted -> Graduation (score: 0.11926350742578506)",
+        "institution -> Institution (score: 0.18431706726551056)",
+        "female -> Woman (score: 0.14098109304904938)",
+        "Robert Woodward -> Robert Burns Woodward (score: 0.21055470407009125)",
+        "Gilbert Lewis -> Gilbert Lewis (actor) (score: 0.4285714328289032)",
+        "time -> Time (magazine) (score: 0.1192585676908493)",
+        "Cambridge -> University of Cambridge (score: 0.21644774079322815)",
+        "Harvard University -> Harvard University (score: 0.6076211333274841)",
+        "ANSWER -> Phrases from The Hitchhiker's Guide to the Galaxy (score: 0.1411551982164383)",
+        "Massachusetts Institute of Technology -> Massachusetts Institute of Technology (score: 0.6370850205421448)",
+        "Richards -> I. A. Richards (score: 0.16244719922542572)",
+        "thesis -> Thesis (score: 0.17385302484035492)",
+        "Vassar -> Vassar College (score: 0.15434964001178741)",
+        "element -> Chemical element (score: 0.15534797310829163)",
+        "iron ore -> Iron ore (score: 0.38109350204467773)",
+        "element -> Chemical element (score: 0.16753923892974854)",
+        "catalyst -> Catalysis (score: 0.33288320899009705)",
+        "contact process -> Contact process (score: 0.730597198009491)",
+        "synthesizing -> Chemical synthesis (score: 0.2768077254295349)",
+        "sulfuric acid -> Sulfuric acid (score: 0.7360434532165527)",
+        "vanadium -> Vanadium (score: 0.5313123464584351)",
+        "vanadium oxide -> Vanadium(V) oxide (score: 0.24625268578529358)",
+        "oxide -> Oxide (score: 0.2470582127571106)",
+        "samples -> Sampling (signal processing) (score: 0.14766496419906616)",
+        "map -> Map (score: 0.17380179464817047)",
+        "led -> Light-emitting diode (score: 0.12901346385478973)",
+        "Massachusetts -> Massachusetts (score: 0.2146894335746765)",
+        "process -> Systems engineering (score: 0.18942517042160034)",
+        "chlorination -> Water chlorination (score: 0.25911056995391846)",
+        "Common -> Common land (score: 0.10145050287246704)",
+        "technologies -> Technology (score: 0.20030392706394196)",
+        "capacitive deionization -> Capacitive deionization (score: 0.8228636980056763)",
+        "reverse osmosis -> Reverse osmosis (score: 0.7638086080551147)",
+        "water purification -> Water purification (score: 0.5558347702026367)",
+        "sewage treatment -> Sewage treatment (score: 0.17849384248256683)",
+        "descriptive -> Positivism (score: 0.13146519660949707)",
+        "CS -> Computer science (score: 0.17990198731422424)",
+        "Chemistry -> Chemistry (score: 0.2600225806236267)",
+        "actions -> Lawsuit (score: 0.13562199473381042)",
+        "Chikamatsu Monzaemon -> Chikamatsu Monzaemon (score: 0.5)",
+        "play -> Play (theatre) (score: 0.2642977237701416)",
+        "set -> Setting (narrative) (score: 0.17287969589233398)",
+        "Ryunosuke Akutagawa -> Ry\u016bnosuke Akutagawa (score: 0.7867391109466553)",
+        "Note to a Certain Old Friend -> A Note to a Certain Old Friend (score: 0.5)",
+        "Friend -> Quakers (score: 0.14795584976673126)",
+        "Chikamatsu -> Chikamatsu Monzaemon (score: 0.5007789731025696)",
+        "Love Suicides at Sonezaki -> The Love Suicides at Sonezaki (score: 0.5)",
+        "bunraku -> Bunraku (score: 0.75)",
+        "bunraku play -> Bunraku (score: 0.3928571343421936)",
+        "actors -> Acting (score: 0.14578764140605927)",
+        "Carlo Collodi -> Carlo Collodi (score: 0.6446130871772766)",
+        "Pinocchio -> Pinocchio (1940 film) (score: 0.4742669463157654)",
+        "real -> Real versus nominal value (economics) (score: 0.1184418648481369)",
+        "puppets -> Puppet (score: 0.17908135056495667)",
+        "dolls -> Doll (score: 0.1521487534046173)",
+        "marionettes -> Marionette (score: 0.2469097375869751)",
+        "author -> Author (score: 0.121515192091465)",
+        "suicide -> Suicide (score: 0.12462630867958069)",
+        "failed coup -> 1991 Soviet coup d'\u00e9tat attempt (score: 0.10757440328598022)",
+        "Japanese -> Empire of Japan (score: 0.2702648639678955)",
+        "Japanese government -> Government of Japan (score: 0.3058560788631439)",
+        "Mizoguchi -> Kenji Mizoguchi (score: 0.1917843371629715)",
+        "sets -> Scenic design (score: 0.1058882549405098)",
+        "fire -> Conflagration (score: 0.1880873292684555)",
+        "novel -> Novel (score: 0.17484964430332184)",
+        "Temple of the Golden Pavilion -> The Temple of the Golden Pavilion (score: 0.6781398057937622)",
+        "Yukio Mishima -> Yukio Mishima (score: 0.5)",
+        "World Literature -> World literature (score: 0.15564224123954773)",
+        "seventh symphony -> Symphony No. 7 (Beethoven) (score: 0.260869562625885)",
+        "one -> One (U2 song) (score: 0.1399921327829361)",
+        "composer -> Composer (score: 0.16866832971572876)",
+        "Angel -> Angel (score: 0.1564297080039978)",
+        "Angel of Light -> Lucifer (score: 0.31532272696495056)",
+        "Name -> Place names in Ireland (score: 0.27599796652793884)",
+        "Einojuhani Rautavaara -> Einojuhani Rautavaara (score: 0.5)",
+        "composer -> Composer (score: 0.2679138481616974)",
+        "C major -> C major (score: 0.37348461151123047)",
+        "major seventh -> Major seventh (score: 0.3885698616504669)",
+        "seventh symphony -> Symphony No. 7 (Beethoven) (score: 0.260869562625885)",
+        "Jarvenpaa -> J\u00e4rvenp\u00e4\u00e4 (score: 0.37050360441207886)",
+        "Finland -> Finland (score: 0.5642577409744263)",
+        "Suomi -> Finland (score: 0.29925161600112915)",
+        "composer -> Composer (score: 0.17566627264022827)",
+        "Finnish national anthem -> Maamme (score: 0.28125)",
+        "nationalistic -> Musical nationalism (score: 0.3984632194042206)",
+        "tone poem -> Symphonic poem (score: 0.5974246859550476)",
+        "Finlandia -> Finlandia (score: 0.4356866776943207)",
+        "protest -> Protest (score: 0.26133835315704346)",
+        "pieces -> Musical composition (score: 0.1727256327867508)",
+        "Kalevala -> Kalevala (score: 0.6051888465881348)",
+        "ANSWER -> Fugue (score: 0.2737135887145996)",
+        "Jean Sibelius -> Jean Sibelius (score: 0.7696434259414673)",
+        "Sibelius -> Jean Sibelius (score: 0.31436365842819214)",
+        "concerto -> Concerto (score: 0.3308742642402649)",
+        "D minor -> D minor (score: 0.23599013686180115)",
+        "instrument -> Musical instrument (score: 0.1695900857448578)",
+        "polonaise -> Polonaise (score: 0.2066636085510254)",
+        "string instrument -> String instrument (score: 0.45393863320350647)",
+        "standard -> Standard (music) (score: 0.10962758958339691)",
+        "orchestra -> Orchestra (score: 0.20057785511016846)",
+        "ANSWER -> Call and response (music) (score: 0.11309996992349625)",
+        "violin -> Violin (score: 0.41408681869506836)",
+        "fiddle -> Violin (score: 0.40669363737106323)",
+        "CS -> Computer science (score: 0.11700443923473358)",
+        "Fine Arts -> Fine art (score: 0.23235540091991425)",
+        "Auditory -> Hearing (score: 0.19064481556415558)",
+        "about about -> About URI scheme (score: 0.5)",
+        "rock -> Rock music (score: 0.1497000753879547)",
+        "bands -> Musical ensemble (score: 0.12619543075561523)",
+        "This woman -> This Woman (LeAnn Rimes album) (score: 0.1163877546787262)",
+        "backed -> A-side and B-side (score: 0.12520311772823334)",
+        "Blackhearts -> Joan Jett (score: 0.11571327596902847)",
+        "iconic -> Pop icon (score: 0.1299343705177307)",
+        "song -> Song (score: 0.15143491327762604)",
+        "I Love Rock 'n Roll -> I Love Rock 'n' Roll (score: 0.5)",
+        "bright red -> Bright Red (score: 0.10345610976219177)",
+        "red -> Red (King Crimson album) (score: 0.10640642791986465)",
+        "jumpsuit -> Jumpsuit (score: 0.10626185685396194)",
+        "ANSWER -> The Answer (band) (score: 0.2686266601085663)",
+        "Joan Jett -> Joan Jett (score: 0.7448520660400391)",
+        "Nancy Wilson -> Nancy Wilson (jazz singer) (score: 0.5)",
+        "hits -> Hit single (score: 0.11519631743431091)",
+        "Barracuda -> Barracuda (song) (score: 0.1645631045103073)",
+        "ANSWER -> The Answer (band) (score: 0.25825583934783936)",
+        "Heart -> Heart (band) (score: 0.2661709189414978)",
+        "Cranberries -> The Cranberries (score: 0.6297951340675354)",
+        "fronted -> Lead vocalist (score: 0.14633233845233917)",
+        "Dolores O'Riordan -> Dolores O'Riordan (score: 0.5)",
+        "rock -> Rock music (score: 0.5467120409011841)",
+        "rock band -> Rock music (score: 0.5224964618682861)",
+        "country -> Country music (score: 0.2594606578350067)",
+        "home -> Home (Michael Bubl\u00e9 song) (score: 0.11527438461780548)",
+        "Sinead O'Connor -> Sin\u00e9ad O'Connor (score: 0.5)",
+        "Connor -> Sin\u00e9ad O'Connor (score: 0.35878023505210876)",
+        "U2 -> U2 (score: 0.7606738805770874)",
+        "Ed Sheeran -> Ed Sheeran (score: 0.7836745381355286)",
+        "ANSWER -> The Answer (band) (score: 0.1182640939950943)",
+        "Republic of Ireland -> Republic of Ireland (score: 0.8571715354919434)",
+        "Eire -> Republic of Ireland (score: 0.34818941354751587)",
+        "Isengrim -> Reynard (score: 0.1825646013021469)",
+        "urine -> Urine (score: 0.17805641889572144)",
+        "Reynard -> Reynard (score: 0.3069160580635071)",
+        "one -> One (U2 song) (score: 0.11556021869182587)",
+        "animals -> The Animals (score: 0.1121826097369194)",
+        "European folklore -> Ghost (score: 0.25764328241348267)",
+        "Bruin -> Brown bear (score: 0.2491907775402069)",
+        "Bear -> Bear (score: 0.15995009243488312)",
+        "Tybalt -> Tybalt (score: 0.1964285671710968)",
+        "the Cat -> T.H.E. Cat (score: 0.5)",
+        "King Noble -> Reynard (score: 0.21805354952812195)",
+        "Lion -> Lion (score: 0.20638929307460785)",
+        "fox -> Fox (score: 0.3866460621356964)",
+        "vulpes -> Vulpes (score: 0.5111034512519836)",
+        "vulpes vulpes -> Red fox (score: 0.42763587832450867)",
+        "Popular -> Popular music (score: 0.10208884626626968)",
+        "middle ages -> Middle Ages (score: 0.29617631435394287)",
+        "real -> Real number (score: 0.12123973667621613)",
+        "imaginary -> Imaginary number (score: 0.13020041584968567)",
+        "description -> Taxonomy (biology) (score: 0.22775033116340637)",
+        "animals -> Animal (score: 0.2369631677865982)",
+        "bestiaries -> Bestiary (score: 0.5446428656578064)",
+        "bestiary -> Bestiary (score: 0.3474903404712677)",
+        "Foxes -> Kitsune (score: 0.1370299607515335)",
+        "appearances -> Phenomenon (score: 0.11926046758890152)",
+        "myths -> Folklore (score: 0.13130801916122437)",
+        "kitsune -> Kitsun\u00e9 (score: 0.4541778862476349)",
+        "form -> Art (score: 0.1574467569589615)",
+        "human -> Human (score: 0.2015097439289093)",
+        "women -> Woman (score: 0.19394689798355103)",
+        "mythical creatures -> Legendary creature (score: 0.22299182415008545)",
+        "kappa -> Kappa (folklore) (score: 0.2144884169101715)",
+        "ANSWER -> Answer (album) (score: 0.1324015110731125)",
+        "Japan -> Japan (score: 0.6412383317947388)",
+        "Nippon-koku -> Japan (score: 0.40205153822898865)",
+        "Nihon-koku -> Japan (score: 0.3068431615829468)",
+        "Religion and Mythology -> World (score: 0.109375)",
+        "maul -> Sledgehammer (score: 0.18363772332668304)",
+        "mock -> Parody (score: 0.1264154464006424)",
+        "points -> Score (game) (score: 0.12733347713947296)",
+        "fruit -> Fruit (score: 0.11364009976387024)",
+        "Come -> Orgasm (score: 0.10035797953605652)",
+        "Goblin Market -> Goblin Market (score: 0.25)",
+        "Goblin Market -> Goblin Market (score: 0.25)",
+        "written -> Writer (score: 0.19045397639274597)",
+        "poet -> Poet (score: 0.2651674747467041)",
+        "Pre-Raphaelite Brotherhood -> Pre-Raphaelite Brotherhood (score: 0.6375011205673218)",
+        "who -> The Who (score: 0.18575599789619446)",
+        "can -> Can (band) (score: 0.244594544172287)",
+        "Him -> HIM (Finnish band) (score: 0.2438296228647232)",
+        "am -> 12-hour clock (score: 0.14820824563503265)",
+        "Jesus Christ -> Jesus (score: 0.25735533237457275)",
+        "heart -> Heart (symbol) (score: 0.1335275024175644)",
+        "In the bleak midwinter -> In the Bleak Midwinter (score: 0.4107142984867096)",
+        "ANSWER -> Phrases from The Hitchhiker's Guide to the Galaxy (score: 0.10301840305328369)",
+        "Christina Rossetti -> Christina Rossetti (score: 0.5)",
+        "prompt -> Command-line interface (score: 0.10316261649131775)",
+        "In the bleak midwinter -> In the Bleak Midwinter (score: 0.4107142984867096)",
+        "bleak midwinter -> In the Bleak Midwinter (score: 0.40495866537094116)",
+        "Silent Night -> Silent Night (score: 0.4616163969039917)",
+        "Charles -> Charles Wesley (score: 0.31428268551826477)",
+        "Wesley -> Charles Wesley (score: 0.2866877317428589)",
+        "Wesley's -> John Wesley (score: 0.21402765810489655)",
+        "s \"Hark -> Soft Hard Real-Time Kernel (score: 0.5)",
+        "Hark! The Herald Angels Sing -> Hark! The Herald Angels Sing (score: 0.4943181872367859)",
+        "ANSWER -> Call and response (music) (score: 0.15429110825061798)",
+        "Christmas -> Christmas (score: 0.2764768600463867)",
+        "Christmas carols -> Christmas carol (score: 0.3785530626773834)",
+        "noel -> Christmas (score: 0.21470022201538086)",
+        "Advent -> Advent (score: 0.16544419527053833)",
+        "carols -> Christmas carol (score: 0.17442545294761658)",
+        "Christmas -> Christmas (score: 0.27580979466438293)",
+        "Christmas songs -> Christmas carol (score: 0.19639399647712708)",
+        "hymns -> Hymn (score: 0.18605582416057587)",
+        "British -> British Empire (score: 0.12061336636543274)",
+        "glomerulus -> Glomerulus (kidney) (score: 0.18309858441352844)",
+        "nephron -> Nephron (score: 0.6333715319633484)",
+        "artificially -> Chemical synthesis (score: 0.15099933743476868)",
+        "dialysis -> Dialysis (score: 0.4177558422088623)",
+        "dialysis machine -> Dialysis (score: 0.3788018524646759)",
+        "description -> Hair (score: 0.11879722028970718)",
+        "blood -> Blood (score: 0.10037215054035187)",
+        "filtration -> Filtration (score: 0.22037863731384277)",
+        "description -> Hair (score: 0.12957608699798584)",
+        "filtering -> Filtration (score: 0.16707231104373932)",
+        "impurities -> Impurity (score: 0.24289001524448395)",
+        "blood -> Blood (score: 0.2589929699897766)",
+        "nephron -> Nephron (score: 0.9471943974494934)",
+        "glomerular filtrate -> Glomerulus (kidney) (score: 0.17391304671764374)",
+        "substance -> Chemical compound (score: 0.12333361059427261)",
+        "supersaturation -> Supersaturation (score: 0.5411492586135864)",
+        "causes -> Paralysis (score: 0.1924183964729309)",
+        "kidney stones -> Kidney stone (score: 0.16103602945804596)",
+        "substance -> Substance theory (score: 0.13603302836418152)",
+        "ureter -> Ureter (score: 0.5)",
+        "bladder -> Urinary bladder (score: 0.2177731692790985)",
+        "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
+        "urine -> Urine (score: 0.2802618443965912)",
+        "pee -> Urine (score: 0.2776426076889038)",
+        "tubular fluid -> Tubular fluid (score: 0.2142857164144516)",
+        "ureter -> Ureter (score: 0.5)",
+        "smooth muscle -> Smooth muscle tissue (score: 0.22233299911022186)",
+        "muscle -> Muscle (score: 0.17047807574272156)",
+        "esophagus -> Esophagus (score: 0.6511451005935669)",
+        "vas deferens -> Vas deferens (score: 0.7179086208343506)",
+        "assure -> French ship Assur\u00e9 (1667) (score: 0.1666666716337204)",
+        "sperm -> Spermatozoon (score: 0.11105331778526306)",
+        "peristalsis -> Peristalsis (score: 0.5548657774925232)",
+        "CS -> Computer science (score: 0.13757748901844025)",
+        "Biology -> Biology (score: 0.26218003034591675)",
+        "Ching Shih -> Ching Shih (score: 0.8973897695541382)",
+        "pirate -> Piracy (score: 0.38338953256607056)",
+        "sail -> Sail (score: 0.1271827220916748)",
+        "Ching Shih -> Ching Shih (score: 0.5)",
+        "country -> Nation state (score: 0.19469745457172394)",
+        "Qing dynasty -> Qing dynasty (score: 0.6580818295478821)",
+        "Ching Shih -> Ching Shih (score: 0.5)",
+        "amnesty -> Amnesty (score: 0.11290439963340759)",
+        "defeat -> Battle of France (score: 0.14497429132461548)",
+        "battle -> Battle (score: 0.17962265014648438)",
+        "ANSWER -> The Answer (band) (score: 0.10284099727869034)",
+        "China -> China (score: 0.37211132049560547)",
+        "Zhongguo -> China (score: 0.26662972569465637)",
+        "People's Republic of China -> China (score: 0.3605557680130005)",
+        "One -> 1 (number) (score: 0.20404919981956482)",
+        "factors -> Divisor (score: 0.18108400702476501)",
+        "Ching Shih -> Ching Shih (score: 0.5)",
+        "country -> Nation state (score: 0.12196328490972519)",
+        "Battle -> Battle of Hastings (score: 0.17111869156360626)",
+        "Tiger -> Tiger (score: 0.19396138191223145)",
+        "Mouth -> River delta (score: 0.12694409489631653)",
+        "Macau -> Macau (score: 0.48384732007980347)",
+        "Portugal -> Portugal (score: 0.32722485065460205)",
+        "Qing China -> Qing dynasty (score: 0.3004385828971863)",
+        "warships -> Warship (score: 0.18618957698345184)",
+        "fight -> Combat (score: 0.12731850147247314)",
+        "Ching Shih -> Ching Shih (score: 0.5)",
+        "types -> Roll-on/roll-off (score: 0.31334245204925537)",
+        "ships -> Ship (score: 0.32284510135650635)",
+        "ship -> Ship (score: 0.27819132804870605)",
+        "type -> Movable type (score: 0.1665068417787552)",
+        "fired -> Kiln (score: 0.11441310495138168)",
+        "Dogger Bank Incident -> Dogger Bank incident (score: 0.5)",
+        "fishing -> Recreational fishing (score: 0.27489063143730164)",
+        "fishing vessels -> Fishing vessel (score: 0.23803260922431946)",
+        "fishing -> Recreational fishing (score: 0.27489063143730164)",
+        "fishing boats -> Fishing vessel (score: 0.23873740434646606)",
+        "painted -> Painting (score: 0.12497730553150177)",
+        "Elisabeth Louise Vigee-Lebrun -> Louise \u00c9lisabeth Vig\u00e9e Le Brun (score: 0.5)",
+        "subject -> Citizenship (score: 0.1647384911775589)",
+        "Lebrun -> Charles-Fran\u00e7ois Lebrun, duc de Plaisance (score: 0.14655348658561707)",
+        "France -> France national rugby league team (score: 0.2270311713218689)",
+        "Let them eat cake -> Let them eat cake (score: 0.47727271914482117)",
+        "Marie Antoinette -> Marie Antoinette (score: 0.9847383499145508)",
+        "partial answers -> Partial Answers (score: 0.125)",
+        "Vigee-Lebrun -> Louise \u00c9lisabeth Vig\u00e9e Le Brun (score: 0.25958162546157837)",
+        "Self-Portrait -> Self-portrait (score: 0.2309013307094574)",
+        "Flemish -> Flanders (score: 0.15432514250278473)",
+        "Portrait of Susanna Lunden -> Portrait of Susanna Lunden (score: 0.5)",
+        "adjectival -> Adjective (score: 0.3938297629356384)",
+        "adjectival form -> Adjective (score: 0.38777101039886475)",
+        "name -> Name (score: 0.13839811086654663)",
+        "voluptuous -> Female body shape (score: 0.16256365180015564)",
+        "nudes -> Nude (art) (score: 0.2647411525249481)",
+        "painted -> Body painting (score: 0.23355035483837128)",
+        "ANSWER -> Fugue (score: 0.12410415709018707)",
+        "Peter Paul Rubens -> Peter Paul Rubens (score: 0.5)",
+        "Rubens -> Paul Rubens (composer) (score: 0.1472446471452713)",
+        "Rubenesque -> Peter Paul Rubens (score: 0.2847496569156647)",
+        "Le Brun -> Charles Le Brun (score: 0.28414633870124817)",
+        "Brun -> Charles Le Brun (score: 0.26480773091316223)",
+        "painting -> Painting (score: 0.16451357305049896)",
+        "Sibyl -> Sibyl (score: 0.19656001031398773)",
+        "art -> Art (score: 0.11691723763942719)",
+        "Royal Academy -> Royal Academy of Arts (score: 0.30804088711738586)",
+        "Charles Le Brun -> Charles Le Brun (score: 0.5)",
+        "Brun -> Charles Le Brun (score: 0.22092494368553162)",
+        "painting -> Painting (score: 0.15231573581695557)",
+        "Alexander -> Alexander the Great (score: 0.28238749504089355)",
+        "Babylon -> Babylon (score: 0.33698129653930664)",
+        "genre -> Genre (score: 0.16073057055473328)",
+        "ANSWER: history -> Answer to History (score: 0.5)",
+        "history paintings -> History painting (score: 0.5067567825317383)",
+        "Visual -> Visual arts (score: 0.32206860184669495)",
+        "economist -> Economist (score: 0.4061223268508911)",
+        "Nobel -> Nobel Prize in Physics (score: 0.2845124304294586)",
+        "Gunnar Myrdal -> Gunnar Myrdal (score: 0.5)",
+        "reactionaries -> Reactionary (score: 0.10256410390138626)",
+        "Austrian economist -> Austrian School (score: 0.2323794662952423)",
+        "economist -> The Economist (score: 0.3404406011104584)",
+        "consequence -> Logical consequence (score: 0.13509084284305573)",
+        "central planning -> Economic planning (score: 0.3643348813056946)",
+        "Road to Serfdom -> The Road to Serfdom (score: 0.5)",
+        "Friedrich Hayek -> Friedrich Hayek (score: 0.5)",
+        "Asian -> Asian people (score: 0.2074526846408844)",
+        "60s -> 1960s (score: 0.12585753202438354)",
+        "rise -> Sea level rise (score: 0.13256783783435822)",
+        "Amy Chua -> Amy Chua (score: 0.5)",
+        "Asian -> Asian people (score: 0.27222105860710144)",
+        "mother -> Mother (score: 0.1091313436627388)",
+        "nicknamed -> Nickname (score: 0.17232881486415863)",
+        "big cat -> Curtis Hughes (score: 0.5118961334228516)",
+        "ANSWER -> The Answer (band) (score: 0.15222640335559845)",
+        "Four Asian Tigers -> Four Asian Tigers (score: 0.5)",
+        "Asian Tigers -> Four Asian Tigers (score: 0.1339285671710968)",
+        "accept -> Accept (band) (score: 0.13391757011413574)",
+        "Four Asian Dragons -> Four Asian Tigers (score: 0.5)",
+        "Little Dragons -> The Little Dragons (score: 0.5)",
+        "Myrdal -> Gunnar Myrdal (score: 0.10983677208423615)",
+        "coined -> Neologism (score: 0.12462896853685379)",
+        "portmanteau -> Portmanteau (score: 0.6147158741950989)",
+        "negative -> Deflation (score: 0.14841753244400024)",
+        "trends -> Market trend (score: 0.20870542526245117)",
+        "Phillips curve -> Phillips curve (score: 0.5899460911750793)",
+        "Abenomics -> Abenomics (score: 0.5353409051895142)",
+        "Japan -> Japan (score: 0.32706543803215027)",
+        "attack -> Attack on Pearl Harbor (score: 0.13425284624099731)",
+        "deflation -> Deflation (score: 0.3290005922317505)",
+        "stagflation -> Stagflation (score: 0.5083926320075989)",
+        "CS -> Computer science (score: 0.21487700939178467)",
+        "Philosophy -> Philosophy (score: 0.26583611965179443)",
+        "Social Science -> Social science (score: 0.3712804913520813)",
+        "Pope Francis -> Pope Francis (score: 0.5)",
+        "endorsed -> Political endorsement (score: 0.20042741298675537)",
+        "Donald Trump -> Donald Trump (score: 0.6996238231658936)",
+        "president -> President of the United States (score: 0.16598042845726013)",
+        "popular -> Popular music (score: 0.11088382452726364)",
+        "news -> NeWS (score: 0.28043290972709656)",
+        "points -> Point (typography) (score: 0.27853286266326904)",
+        "Facebook -> Facebook (score: 0.31880253553390503)",
+        "2016 election -> United States presidential election, 2016 (score: 0.2288135588169098)",
+        "Trump -> Donald Trump (score: 0.23551887273788452)",
+        "CNN -> CNN (score: 0.5095771551132202)",
+        "news -> News (score: 0.10633336007595062)",
+        "Trump -> Donald Trump (score: 0.23228609561920166)",
+        "black -> African Americans (score: 0.18050166964530945)",
+        "CNN -> CNN (score: 0.5089039206504822)",
+        "anchor -> News presenter (score: 0.17057740688323975)",
+        "television -> Television (score: 0.16039474308490753)",
+        "marijuana -> Cannabis (drug) (score: 0.3940373361110687)",
+        "Ferguson riots -> Ferguson unrest (score: 0.25)",
+        "Don Lemon -> Don Lemon (score: 0.5)",
+        "fake news -> News satire (score: 0.22405144572257996)",
+        "media platform -> Multimedia framework (score: 0.12341398000717163)",
+        "platform -> Java (software platform) (score: 0.12442952394485474)",
+        "Infowars -> Alex Jones (radio host) (score: 0.2046269178390503)",
+        "Facebook -> Facebook (score: 0.43742606043815613)",
+        "YouTube -> YouTube (score: 0.48237740993499756)",
+        "podcasts -> Podcast (score: 0.1792561262845993)",
+        "Apple -> Apple Inc. (score: 0.2342430055141449)",
+        "hate speech -> Hate speech (score: 0.38472262024879456)",
+        "ANSWER -> Answer (comics) (score: 0.10439018160104752)",
+        "Alex -> Havok (comics) (score: 0.10790158808231354)",
+        "Emric -> Jasmin Emri\u0107 (score: 0.5)",
+        "Jones -> Jones Radio Networks (score: 0.20021121203899384)",
+        "CC -> IHeartMedia (score: 0.18662050366401672)",
+        "Current Events -> News (score: 0.24364298582077026)",
+        "play -> Play (theatre) (score: 0.1433114856481552)",
+        "crime -> Crime fiction (score: 0.15847954154014587)",
+        "Christine Papin -> Christine and L\u00e9a Papin (score: 0.3333333432674408)",
+        "Name -> Surname (score: 0.11120618879795074)",
+        "Jean Genet -> Jean Genet (score: 0.7070655822753906)",
+        "play -> Play (theatre) (score: 0.17198364436626434)",
+        "role-play -> Sexual roleplay (score: 0.13426625728607178)",
+        "Madame -> Procuring (prostitution) (score: 0.11333440244197845)",
+        "murder -> Murder (score: 0.22135895490646362)",
+        "Maids -> The Maids (score: 0.27821317315101624)",
+        "Les Bonnes -> The Maids (score: 0.30319148302078247)",
+        "Genet -> Jean Genet (score: 0.26091450452804565)",
+        "Romanian -> Romanian literature (score: 0.2515169680118561)",
+        "playwright -> Playwright (score: 0.28124332427978516)",
+        "Theater of the Absurd -> Theatre of the Absurd (score: 0.5290409326553345)",
+        "one -> Neoplatonism (score: 0.2004484385251999)",
+        "rhinoceros -> Rhinoceros (score: 0.3188355565071106)",
+        "ANSWER -> Fugue (score: 0.17300979793071747)",
+        "Eugene Ionesco -> Eug\u00e8ne Ionesco (score: 0.6689395904541016)",
+        "always -> Always (Bon Jovi song) (score: 0.22316423058509827)",
+        "hair -> Hair (musical) (score: 0.24145907163619995)",
+        "Smiths -> The Smiths (score: 0.2949582040309906)",
+        "play -> Play (activity) (score: 0.18646280467510223)",
+        "ANSWER -> Answer song (score: 0.11896111071109772)",
+        "bald soprano -> The Bald Soprano (score: 0.5)",
+        "prima -> Louis Prima (score: 0.12305646389722824)"
+    ]
 }
