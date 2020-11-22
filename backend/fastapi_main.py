@@ -8,7 +8,7 @@ templates = Jinja2Templates(directory="templates/")
 @app.get("/", response_class=HTMLResponse)
 def home(request: Request):
     #print(request)
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse("../frontend/public/index.html", {"request": request})
 
 
 @app.post("/link")
