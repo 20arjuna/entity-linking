@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './style.css';
+// import './style.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import MyInfo from './components/MyInfo'
@@ -12,7 +12,7 @@ import MyInfo from './components/MyInfo'
 //   document.getElementById('root')
 // );
 
-
+document.body.style = 'background: black;';
 ReactDOM.render(<App />, document.getElementById("root"));
 
 // If you want to start measuring performance in your app, pass a function
