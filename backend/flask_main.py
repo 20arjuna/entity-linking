@@ -26,9 +26,19 @@ def get_continuous_chunks(tagged_sent):
 
 
 def link_entities(question):
-    tagged_sent = pos_tag(question.split())
-    entities = [word for word,pos in tagged_sent if pos == 'NNP']
-    return entities
+    st = StanfordNERTagger('stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
+    tagged_sent = st.tag(question.split())
+    named_entities = get_continuous_chunks(tagged_sent)
+    named_entities_str_tag = [(" ".join([token for token, tag in ne]), ne[0][1]) for ne in named_entities]
+
+    print(named_entities[0])
+    result = []
+    for entity in named_entities_str_tag:
+        if(entity[1] == 'PERSON'):
+            print("yup")
+            result.append(entity[0])
+
+    return result
 
 
 
@@ -40,18 +50,14 @@ def hello():
 
 @app.route('/link', methods=['GET','POST'])
 def main():
-    question = request.form.get("textInput", 0)
-    output = str(link_entities(question)) #Get Input
+    question = request.form.get("textInput", 0)#Get Input
 
+    output = dict()
+    entities = link_entities(question)
 
-
-    stner = StanfordNERTagger()
-    tagged_sent = stner.tag(question.split())
-    named_entities = get_continuous_chunks(tagged_sent)
-    named_entities_str_tag = [(" ".join([token for token, tag in ne]), ne[0][1]) for ne in named_entities]
-
-    print(named_entities_str_tag)
-
+    for e in entities:
+        suggestions = get_suggestions(e)
+        
 
     return render_template('output.html',
                             output=request.args.get("output", output),

@@ -24,4 +24,4 @@ named_entities = get_continuous_chunks(tagged_sent)
 named_entities_str_tag = [(" ".join([token for token, tag in ne]), ne[0][1]) for ne in named_entities]
 
 
-print(named_entities_str_tag)
+print(type(named_entities_str_tag[0][1]))
