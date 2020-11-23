@@ -52,12 +52,12 @@ def hello():
 def main():
     question = request.form.get("textInput", 0)#Get Input
 
-    output = dict()
+    output_map = dict()
     entities = link_entities(question)
 
     for e in entities:
         suggestions = get_suggestions(e)
-        
+        output_map[e] = suggestions
 
     return render_template('output.html',
                             output=request.args.get("output", output),
