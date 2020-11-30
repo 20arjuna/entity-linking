@@ -1,8 +1,12 @@
 from flask import Flask, render_template, request
 import wikipedia
-import tagme
 from nltk.tag import pos_tag
 from nltk.tag.stanford import StanfordNERTagger
+from wikidata.client import Client
+import requests
+import json
+from SPARQLWrapper import SPARQLWrapper, JSON
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -33,7 +37,6 @@ def link_entities(question):
     result = []
     for entity in named_entities_str_tag:
         if(entity[1] == 'PERSON'):
-            print("yup")
             result.append(entity[0])
 
     return result
@@ -120,7 +123,7 @@ def main():
         suggestions = get_suggestions(e) #suggestions is a list
         output_map[e] = suggestions
 
-    print output_map
+    output = str(output_map)
 
     return render_template('output.html',
                             output=request.args.get("output", output),
