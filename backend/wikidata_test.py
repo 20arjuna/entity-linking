@@ -63,7 +63,7 @@ def make_sparql_request(entity_id, propList):
     results = sparql.query().convert()
 
     results_df = pd.io.json.json_normalize(results['results']['bindings'])
-    print(pd.Series.tolist(results_df["personLabel.value"].head()))
+    return pd.Series.tolist(results_df["personLabel.value"].head())
 
     #print(results_df[['item.value', 'itemLabel.value']].head())
 
