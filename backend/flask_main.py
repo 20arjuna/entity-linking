@@ -132,7 +132,7 @@ def main():
         suggestions = get_suggestions(e) #suggestions is a list
         if(suggestions != False):
             output_map[e] = suggestions
-            output += "Because you mentioned " + str(e) + " we suggest you talk about: " + str(suggestions) + "\n"
+            output += "Because you mentioned " + str(e) + " we suggest you talk about: " + str(suggestions) + "\n\n"
         # output += (str(output_map) + "\n")
 
     if(output == ""):
