@@ -33,7 +33,7 @@ def link_entities(question):
     named_entities = get_continuous_chunks(tagged_sent)
     named_entities_str_tag = [(" ".join([token for token, tag in ne]), ne[0][1]) for ne in named_entities]
 
-    print(named_entities[0])
+    #print(named_entities[0])
     result = []
     for entity in named_entities_str_tag:
         if(entity[1] == 'PERSON'):
@@ -53,9 +53,11 @@ def get_id(query):
 
     response = requests.get(url, params=params)
     json_data = json.loads(response.text)
-
-    id = json_data["search"][0]["id"]
-    return id
+    try:
+        id = json_data["search"][0]["id"]
+        return id
+    except:
+        return False
 
 def get_props(id):
     client = Client()
@@ -102,9 +104,12 @@ def make_sparql_request(entity_id, propList):
     return pd.Series.tolist(results_df["personLabel.value"].head())
 
 def get_suggestions(entity):
-    id = get_id(entity)
-    props = get_props(id)
-    return make_sparql_request(id, props)
+    if(get_id(entity) != False):
+        id = get_id(entity)
+        props = get_props(id)
+        return make_sparql_request(id, props)
+    else:
+        return False
 
 
 # Flask Functions Below
@@ -117,14 +122,21 @@ def main():
     question = request.form.get("textInput", 0)#Get Input
 
     output_map = dict()
+    output = ""
     entities = link_entities(question)
+    print(entities)
+
+    entities = list(set(entities))
 
     for e in entities:
         suggestions = get_suggestions(e) #suggestions is a list
-        output_map[e] = suggestions
+        if(suggestions != False):
+            output_map[e] = suggestions
+            output += "Because you mentioned " + str(e) + " we suggest you talk about: " + str(suggestions) + "\n"
+        # output += (str(output_map) + "\n")
 
-    output = str(output_map)
-
+    if(output == ""):
+        output = "nothing to suggest!"
     return render_template('output.html',
                             output=request.args.get("output", output),
                             question=request.args.get("question", question))
