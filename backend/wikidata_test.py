@@ -52,7 +52,7 @@ def make_sparql_request(entity_id, propList):
             ?person wdt:P27 wd:""" + propList[1] + """ .
 
 
-            filter (?birth > """ + propList[2] + """^^xsd:dateTime)
+            filter (?birth > """ + '"' + propList[2] + '"' + """^^xsd:dateTime)
 
             SERVICE wikibase:label {
                 bd:serviceParam wikibase:language "en" .
@@ -63,14 +63,19 @@ def make_sparql_request(entity_id, propList):
     results = sparql.query().convert()
 
     results_df = pd.io.json.json_normalize(results['results']['bindings'])
-    print(results_df[['item.value', 'itemLabel.value']].head())
+    print(pd.Series.tolist(results_df["personLabel.value"].head()))
+
+    #print(results_df[['item.value', 'itemLabel.value']].head())
 
 
 entity = "alan turing"
 id = get_id(entity)
 
 props = get_props(id)
+print(props)
 make_sparql_request(id, props)
+
+
 #
 # def get_id(entity):
 #

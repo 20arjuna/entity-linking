@@ -6,8 +6,6 @@ from nltk.tag.stanford import StanfordNERTagger
 
 app = Flask(__name__)
 
-
-
 def get_continuous_chunks(tagged_sent):
     continuous_chunk = []
     current_chunk = []
@@ -53,11 +51,11 @@ def main():
     question = request.form.get("textInput", 0)#Get Input
 
     output_map = dict()
-    output = str(link_entities(question))
+    entities = link_entities(question)
 
-    # for e in entities:
-    #     suggestions = get_suggestions(e)
-    #     output_map[e] = suggestions
+    for e in entities:
+        suggestions = get_suggestions(e) #suggestions is a list
+        output_map[e] = suggestions
 
     return render_template('output.html',
                             output=request.args.get("output", output),
