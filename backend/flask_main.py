@@ -7,8 +7,26 @@ import requests
 import json
 from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
+import nltk, string
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 app = Flask(__name__)
+
+nltk.download('punkt') # if necessary...
+stemmer = nltk.stem.porter.PorterStemmer()
+remove_punctuation_map = dict((ord(char), None) for char in string.punctuation)
+
+def stem_tokens(tokens):
+    return [stemmer.stem(item) for item in tokens]
+
+'''remove punctuation, lowercase, stem'''
+def normalize(text):
+    return stem_tokens(nltk.word_tokenize(text.lower().translate(remove_punctuation_map)))
+
+
+def cosine_sim(text1, text2, vectorizer):
+    tfidf = vectorizer.fit_transform([text1, text2])
+    return ((tfidf * tfidf.T).A)[0,1]
 
 def get_continuous_chunks(tagged_sent):
     continuous_chunk = []
@@ -62,19 +80,21 @@ def get_id(query):
 def get_props(id):
     client = Client()
     entity = client.get(id, load=True)
+    try:
+        occ_prop = str(entity[client.get("P106")])
+        occupation_id = occ_prop[occ_prop.find(' ')+1 : occ_prop.find('>')]
 
-    occ_prop = str(entity[client.get("P106")])
-    occupation_id = occ_prop[occ_prop.find(' ')+1 : occ_prop.find('>')]
+        nat_prop = str(entity[client.get("P27")])
+        nationality_id = nat_prop[nat_prop.find(' ')+1 : nat_prop.find('>')]
 
-    nat_prop = str(entity[client.get("P27")])
-    nationality_id = nat_prop[nat_prop.find(' ')+1 : nat_prop.find('>')]
+        b_prop = str(entity[client.get("P569")])
+        birthday = b_prop[b_prop.find(' ')+1 : b_prop.find('>')]
 
-    b_prop = str(entity[client.get("P569")])
-    birthday = b_prop[b_prop.find(' ')+1 : b_prop.find('>')]
+        props = [occupation_id, nationality_id, birthday]
 
-    props = [occupation_id, nationality_id, birthday]
-
-    return props
+        return props
+    except:
+        return False
 
 def make_sparql_request(entity_id, propList):
     sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
@@ -101,15 +121,37 @@ def make_sparql_request(entity_id, propList):
     results = sparql.query().convert()
 
     results_df = pd.io.json.json_normalize(results['results']['bindings'])
-    return pd.Series.tolist(results_df["personLabel.value"].head())
+    return pd.Series.tolist(results_df["personLabel.value"].tail())
 
 def get_suggestions(entity):
     if(get_id(entity) != False):
         id = get_id(entity)
-        props = get_props(id)
-        return make_sparql_request(id, props)
+        if(get_props(id)):
+            props = get_props(id)
+            return make_sparql_request(id, props)
+        else:
+            return False
     else:
         return False
+
+def get_wikipedia_paragraph(entity):
+    r = requests.get("https://en.wikipedia.org/api/rest_v1/page/summary/" + entity.replace(" ", "_"))
+    page = r.json()
+    print(page)
+    try:
+        return page["extract_html"]
+    except:
+        return page["extract"]
+
+def compute_relevance(main_entity, suggestion):
+    vectorizer = TfidfVectorizer(tokenizer=normalize, stop_words='english')
+    entity_paragraph = get_wikipedia_paragraph(main_entity)
+    try:
+        suggestion_paragraph = get_wikipedia_paragraph(suggestion)
+        score = cosine_sim(entity_paragraph, suggestion_paragraph, vectorizer)
+        return score
+    except:
+        return 0.0
 
 
 # Flask Functions Below
@@ -123,23 +165,30 @@ def main():
 
     output_map = dict()
     output = ""
+    links = ""
     entities = link_entities(question)
-    print(entities)
 
     entities = list(set(entities))
 
     for e in entities:
         suggestions = get_suggestions(e) #suggestions is a list
         if(suggestions != False):
-            output_map[e] = suggestions
-            output += "Because you mentioned " + str(e) + " we suggest you talk about: " + str(suggestions) + "\n\n"
+            #output_map[e] = suggestions
+            for s in suggestions:
+                relevance = compute_relevance(e, s)
+                output_map[s] = relevance
+                links += s + ": " + "https://en.wikipedia.org/wiki/" + s + "\n\n"
+            output += "Because you mentioned " + str(e) + " we suggest you talk about: " + str(output_map) + "\n\n"
+            output_map = dict()
         # output += (str(output_map) + "\n")
 
     if(output == ""):
         output = "nothing to suggest!"
     return render_template('output.html',
                             output=request.args.get("output", output),
-                            question=request.args.get("question", question))
+                            question=request.args.get("question", question),
+                            links=request.args.get("links", links),
+                            entities=request.args.get("entities", entities))
 
 if __name__ == '__main__':
     app.run()

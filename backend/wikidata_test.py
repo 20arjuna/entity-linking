@@ -68,7 +68,7 @@ def make_sparql_request(entity_id, propList):
     #print(results_df[['item.value', 'itemLabel.value']].head())
 
 
-entity = "alan turing"
+entity = "Michael Collins"
 id = get_id(entity)
 
 props = get_props(id)
