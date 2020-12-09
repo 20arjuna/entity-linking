@@ -191,4 +191,4 @@ def main():
                             entities=request.args.get("entities", entities))
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0')
